@@ -1,0 +1,24 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-386634,2023-01-14,000001,Vente,20000,,,LAS BOURDETTES,B006,31230,31482,Saint-Frajou,31,,,31482000ZT0079,,,,,,,,,,,,,0,,,,,T,terres,,,3484,0.847898,43.331676
+2023-388229,2023-04-15,000001,Vente,200,,,LAS BOURDETTES,B006,31230,31482,Saint-Frajou,31,,,31482000ZT0088,,,,,,,,,,,,,0,,,,,T,terres,,,14,0.848643,43.331818
+2023-388229,2023-04-15,000001,Vente,200,,,LAS BOURDETTES,B006,31230,31482,Saint-Frajou,31,,,31482000ZT0090,,,,,,,,,,,,,0,,,,,T,terres,,,334,0.848365,43.332051
+2023-390788,2023-08-11,000001,Vente,110000,5,,CAPDESSUS,B012,31230,31482,Saint-Frajou,31,,,31482000ZT0015,,,,,,,,,,,,,0,1,Maison,85,2,T,terres,,,1641,0.84667,43.333313
+2023-390788,2023-08-11,000001,Vente,110000,5,,CAPDESSUS,B012,31230,31482,Saint-Frajou,31,,,31482000ZT0015,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1200,0.84667,43.333313
+2023-390788,2023-08-11,000001,Vente,110000,5,,CAPDESSUS,B012,31230,31482,Saint-Frajou,31,,,31482000ZT0015,,,,,,,,,,,,,0,1,Maison,85,2,S,sols,,,1200,0.84667,43.333313
+2023-390788,2023-08-11,000001,Vente,110000,5,,CAPDESSUS,B012,31230,31482,Saint-Frajou,31,,,31482000ZT0015,,,,,,,,,,,,,0,3,Dépendance,,0,T,terres,,,1641,0.84667,43.333313
+2023-390788,2023-08-11,000001,Vente,110000,,,CAPDESSUS,B012,31230,31482,Saint-Frajou,31,,,31482000ZT0016,,,,,,,,,,,,,0,,,,,T,terres,,,38,0.84696,43.333554
+2023-391226,2023-09-06,000001,Vente,1200,,,ENCALIN,B064,31230,31482,Saint-Frajou,31,,,31482000ZK0015,,,,,,,,,,,,,0,,,,,L,landes,,,2000,0.861381,43.317424
+2023-391226,2023-09-06,000001,Vente,1200,,,ENCALIN,B064,31230,31482,Saint-Frajou,31,,,31482000ZK0015,,,,,,,,,,,,,0,,,,,BS,taillis sous futaie,,,3006,0.861381,43.317424
+2023-391392,2023-09-29,000001,Vente,10000,,,MONTAGNAC,B037,31230,31482,Saint-Frajou,31,,,31482000ZH0007,,,,,,,,,,,,,0,,,,,BS,taillis sous futaie,,,15148,0.867146,43.321299
+2023-391392,2023-09-29,000001,Vente,10000,,,MONTAGNAC,B037,31230,31482,Saint-Frajou,31,,,31482000ZH0007,,,,,,,,,,,,,0,,,,,L,landes,,,2000,0.867146,43.321299
+2023-391615,2023-10-05,000001,Vente,49572,,,LAHITE,B022,31230,31482,Saint-Frajou,31,,,31482000ZS0022,,,,,,,,,,,,,0,,,,,BS,taillis sous futaie,,,6056,0.837504,43.333683
+2023-391615,2023-10-05,000001,Vente,49572,,,MARTIN,B034,31230,31482,Saint-Frajou,31,,,31482000ZV0008,,,,,,,,,,,,,0,,,,,P,prés,,,3340,0.841704,43.344604
+2023-391615,2023-10-05,000001,Vente,49572,,,MARTIN,B034,31230,31482,Saint-Frajou,31,,,31482000ZV0008,,,,,,,,,,,,,0,,,,,T,terres,,,18780,0.841704,43.344604
+2023-391615,2023-10-05,000001,Vente,49572,,,MARTIN,B034,31230,31482,Saint-Frajou,31,,,31482000ZV0009,,,,,,,,,,,,,0,,,,,T,terres,,,53850,0.843784,43.345386
+2023-391615,2023-10-05,000001,Vente,49572,,,MARTIN,B034,31230,31482,Saint-Frajou,31,,,31482000ZV0009,,,,,,,,,,,,,0,,,,,L,landes,,,2747,0.843784,43.345386
+2023-391615,2023-10-05,000001,Vente,49572,,,MARTIN,B034,31230,31482,Saint-Frajou,31,,,31482000ZV0010,,,,,,,,,,,,,0,,,,,L,landes,,,6629,0.845165,43.344851
+2023-391615,2023-10-05,000001,Vente,49572,94,,MARTIN,B034,31230,31482,Saint-Frajou,31,,,31482000ZV0053,,,,,,,,,,,,,0,1,Maison,81,2,,,,,,0.838838,43.345405
+2023-392515,2023-11-29,000001,Vente,19542.5,,,PAGUERES DE LASBOUBIES,B084,31230,31482,Saint-Frajou,31,,,31482000ZB0005,,,,,,,,,,,,,0,,,,,T,terres,,,31485,0.867449,43.340933
+2023-392515,2023-11-29,000001,Vente,19542.5,,,PAGUERES DE LASBOUBIES,B084,31230,31482,Saint-Frajou,31,,,31482000ZB0005,,,,,,,,,,,,,0,,,,,P,prés,,,3500,0.867449,43.340933
+2023-392515,2023-11-29,000001,Vente,19542.5,,,PAGUERES DE LASBOUBIES,B084,31230,31482,Saint-Frajou,31,,,31482000ZB0005,,,,,,,,,,,,,0,,,,,L,landes,,,4100,0.867449,43.340933
+2023-392518,2023-11-29,000001,Vente,3000,,,SOULAN DE NONIS,B096,31230,31482,Saint-Frajou,31,,,31482000ZP0022,,,,,,,,,,,,,0,,,,,BS,taillis sous futaie,,,12365,0.82312,43.329763

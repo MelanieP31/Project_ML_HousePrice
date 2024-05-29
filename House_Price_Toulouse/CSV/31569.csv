@@ -1,0 +1,25 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-365350,2023-01-03,000001,Vente,326000,172,,RUE DES SAULES,0600,31250,31569,Vaudreuille,31,,,31569000ZE0018,,,,,,,,,,,,,0,3,Dépendance,,0,T,terres,,,1574,2.021996,43.432538
+2023-365350,2023-01-03,000001,Vente,326000,172,,RUE DES SAULES,0600,31250,31569,Vaudreuille,31,,,31569000ZE0018,,,,,,,,,,,,,0,1,Maison,128,7,S,sols,,,500,2.021996,43.432538
+2023-365350,2023-01-03,000001,Vente,326000,172,,RUE DES SAULES,0600,31250,31569,Vaudreuille,31,,,31569000ZE0018,,,,,,,,,,,,,0,1,Maison,128,7,T,terres,,,1574,2.021996,43.432538
+2023-365350,2023-01-03,000001,Vente,326000,172,,RUE DES SAULES,0600,31250,31569,Vaudreuille,31,,,31569000ZE0018,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,500,2.021996,43.432538
+2023-366897,2023-01-30,000001,Vente,235000,80,,RUE DES CEDRES,0035,31250,31569,Vaudreuille,31,,,31569000ZE0011,,,,,,,,,,,,,0,1,Maison,124,5,S,sols,,,1646,2.020329,43.432773
+2023-368981,2023-03-21,000001,Vente,467000,60,,AV D'EN SALVAN,0580,31250,31569,Vaudreuille,31,,,31569000ZD0082,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,700,2.015451,43.433344
+2023-368981,2023-03-21,000001,Vente,467000,60,,AV D'EN SALVAN,0580,31250,31569,Vaudreuille,31,,,31569000ZD0082,,,,,,,,,,,,,0,1,Maison,154,5,AG,terrains d'agrément,PARC,Parc,1000,2.015451,43.433344
+2023-368981,2023-03-21,000001,Vente,467000,60,,AV D'EN SALVAN,0580,31250,31569,Vaudreuille,31,,,31569000ZD0082,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,PARC,Parc,1000,2.015451,43.433344
+2023-368981,2023-03-21,000001,Vente,467000,60,,AV D'EN SALVAN,0580,31250,31569,Vaudreuille,31,,,31569000ZD0082,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,PARC,Parc,1000,2.015451,43.433344
+2023-368981,2023-03-21,000001,Vente,467000,60,,AV D'EN SALVAN,0580,31250,31569,Vaudreuille,31,,,31569000ZD0082,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,700,2.015451,43.433344
+2023-368981,2023-03-21,000001,Vente,467000,60,,AV D'EN SALVAN,0580,31250,31569,Vaudreuille,31,,,31569000ZD0082,,,,,,,,,,,,,0,1,Maison,154,5,S,sols,,,700,2.015451,43.433344
+2023-369835,2023-03-08,000001,Vente terrain à bâtir,65000,,,LASPRADES,B012,31250,31569,Vaudreuille,31,,,31569000ZI0008,,,,,,,,,,,,,0,,,,,L,landes,,,4440,2.023701,43.427533
+2023-369835,2023-03-08,000001,Vente terrain à bâtir,65000,,,LASPRADES,B012,31250,31569,Vaudreuille,31,,,31569000ZI0013,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,38671,2.021683,43.430148
+2023-369951,2023-04-05,000002,Vente,4000,,,CHE DE LA CHAPELLE,0040,31250,31569,Vaudreuille,31,,,31569000ZC0212,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,266,1.987682,43.426158
+2023-375512,2023-06-27,000001,Vente,230000,150,,AV D'EN SALVAN,0580,31250,31569,Vaudreuille,31,,,31569000ZD0085,,,,,,,,,,,,,0,1,Maison,75,5,S,sols,,,3345,2.016107,43.432783
+2023-375512,2023-06-27,000001,Vente,230000,150,,AV D'EN SALVAN,0580,31250,31569,Vaudreuille,31,,,31569000ZD0085,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,3345,2.016107,43.432783
+2023-376358,2023-07-07,000002,Vente,1,,,EN SALVAN,B024,31250,31569,Vaudreuille,31,,,31569000ZD0093,,,,,,,,,,,,,0,,,,,T,terres,,,156,2.015206,43.433392
+2023-378893,2023-08-26,000001,Vente,30200,,,EN SALVAN,B024,31250,31569,Vaudreuille,31,,,31569000ZD0058,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,1002,2.016774,43.434001
+2023-385162,2023-12-12,000001,Vente,14500,,,LE BOCAGE,B029,31250,31569,Vaudreuille,31,,,31569000ZC0129,,,,,,,,,,,,,0,,,,,T,terres,,,5778,1.996584,43.426981
+2023-385162,2023-12-12,000001,Vente,14500,,,LE BOCAGE,B029,31250,31569,Vaudreuille,31,,,31569000ZC0129,,,,,,,,,,,,,0,,,,,T,terres,,,5778,1.996584,43.426981
+2023-385162,2023-12-12,000001,Vente,14500,,,LE GRIFFOUL,B009,31250,31569,Vaudreuille,31,,,31569000ZC0155,,,,,,,,,,,,,0,,,,,P,prés,,,7228,1.991203,43.427891
+2023-385162,2023-12-12,000001,Vente,14500,,,LE GRIFFOUL,B009,31250,31569,Vaudreuille,31,,,31569000ZC0155,,,,,,,,,,,,,0,,,,,P,prés,,,7227,1.991203,43.427891
+2023-385411,2023-12-13,000001,Vente en l'état futur d'achèvement,309000,,,MAILLOLOS,B030,31250,31569,Vaudreuille,31,,,31569000ZC0207,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,948,1.983441,43.42701
+2023-385411,2023-12-13,000001,Vente en l'état futur d'achèvement,309000,,,MAILLOLOS,B030,31250,31569,Vaudreuille,31,,,31569000ZC0210,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,1182,1.983846,43.42702

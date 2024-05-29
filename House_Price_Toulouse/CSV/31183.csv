@@ -1,0 +1,24 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-386387,2023-01-17,000001,Vente,222000,42,,CHEM DES MOURERES,0021,31260,31183,Figarol,31,,,31183000ZC0112,,,,,,,,,,,,,0,1,Maison,152,5,S,sols,,,500,0.910564,43.096247
+2023-386387,2023-01-17,000001,Vente,222000,42,,CHEM DES MOURERES,0021,31260,31183,Figarol,31,,,31183000ZC0112,,,,,,,,,,,,,0,1,Maison,152,5,AG,terrains d'agrément,,,3974,0.910564,43.096247
+2023-387267,2023-03-03,000001,Vente,278000,37,,IMP DU CHOURBAOU,0001,31260,31183,Figarol,31,,,31183000ZK0207,,,,,,,,,,,,,0,1,Maison,99,4,AG,terrains d'agrément,,,1500,0.885802,43.071956
+2023-387267,2023-03-03,000001,Vente,278000,37,,IMP DU CHOURBAOU,0001,31260,31183,Figarol,31,,,31183000ZK0207,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,500,0.885802,43.071956
+2023-387267,2023-03-03,000001,Vente,278000,37,,IMP DU CHOURBAOU,0001,31260,31183,Figarol,31,,,31183000ZK0207,,,,,,,,,,,,,0,4,Local industriel. commercial ou assimilé,23,0,S,sols,,,500,0.885802,43.071956
+2023-387267,2023-03-03,000001,Vente,278000,37,,IMP DU CHOURBAOU,0001,31260,31183,Figarol,31,,,31183000ZK0207,,,,,,,,,,,,,0,1,Maison,99,4,S,sols,,,500,0.885802,43.071956
+2023-387267,2023-03-03,000001,Vente,278000,37,,IMP DU CHOURBAOU,0001,31260,31183,Figarol,31,,,31183000ZK0207,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,,,1500,0.885802,43.071956
+2023-387267,2023-03-03,000001,Vente,278000,37,,IMP DU CHOURBAOU,0001,31260,31183,Figarol,31,,,31183000ZK0207,,,,,,,,,,,,,0,4,Local industriel. commercial ou assimilé,23,0,AG,terrains d'agrément,,,1500,0.885802,43.071956
+2023-387267,2023-03-03,000001,Vente,278000,,,CHOURBAOU,B021,31260,31183,Figarol,31,,,31183000ZK0265,,,,,,,,,,,,,0,,,,,T,terres,,,1000,0.885509,43.072476
+2023-387267,2023-03-03,000001,Vente,278000,,,CHOURBAOU,B021,31260,31183,Figarol,31,,,31183000ZK0283,,,,,,,,,,,,,0,,,,,T,terres,,,1057,0.885699,43.07231
+2023-388405,2023-05-05,000001,Vente,9000,,,MONTAUT SUD,B049,31260,31183,Figarol,31,,,311830000B0831,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,2400,0.921699,43.06833
+2023-389158,2023-06-01,000001,Vente,15000,,,LA BENE,B007,31260,31183,Figarol,31,,,31183000ZA0129,,,,,,,,,,,,,0,,,,,T,terres,,,2238,0.888904,43.083789
+2023-389740,2023-07-07,000001,Vente,140000,,,VILLAGE,B076,31260,31183,Figarol,31,,,311830000C0435,,,,,,,,,,,,,0,,,,,J,jardins,,,288,0.899257,43.084392
+2023-389740,2023-07-07,000001,Vente,140000,,,VILLAGE,B076,31260,31183,Figarol,31,,,311830000C0436,,,,,,,,,,,,,0,,,,,P,prés,,,823,0.899403,43.08422
+2023-389740,2023-07-07,000001,Vente,140000,,,VILLAGE,B076,31260,31183,Figarol,31,,,311830000C0438,,,,,,,,,,,,,0,,,,,T,terres,,,1462,0.899657,43.084305
+2023-389740,2023-07-07,000001,Vente,140000,39,,RUE DES PYRENEES,0026,31260,31183,Figarol,31,,,311830000C0439,,,,,,,,,,,,,0,1,Maison,116,3,S,sols,,,629,0.899433,43.084564
+2023-389740,2023-07-07,000001,Vente,140000,39,,RUE DES PYRENEES,0026,31260,31183,Figarol,31,,,311830000C0439,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,629,0.899433,43.084564
+2023-389740,2023-07-07,000001,Vente,140000,39,,RUE DES PYRENEES,0026,31260,31183,Figarol,31,,,311830000C0439,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,629,0.899433,43.084564
+2023-390528,2023-08-11,000001,Vente,160000,40,,CHEM DES COUTEILLOUS,0010,31260,31183,Figarol,31,,,31183000ZB0104,,,,,,,,,,,,,0,1,Maison,132,5,S,sols,,,1657,0.894593,43.087222
+2023-390656,2023-08-08,000001,Vente,53304,,,RIOUALERES,B064,31260,31183,Figarol,31,,,31183000ZC0066,,,,,,,,,,,,,0,,,,,T,terres,,,37880,0.91572,43.098094
+2023-390656,2023-08-08,000001,Vente,53304,,,RIOUALERES,B064,31260,31183,Figarol,31,,,31183000ZC0066,,,,,,,,,,,,,0,,,,,T,terres,,,37880,0.91572,43.098094
+2023-390656,2023-08-08,000001,Vente,53304,,,RIOUALERES,B064,31260,31183,Figarol,31,,,31183000ZC0068,,,,,,,,,,,,,0,,,,,T,terres,,,32100,0.914725,43.099997
+2023-390656,2023-08-08,000001,Vente,53304,,,RIOUALERES,B064,31260,31183,Figarol,31,,,31183000ZC0070,,,,,,,,,,,,,0,,,,,T,terres,,,3000,0.917786,43.099774

@@ -1,0 +1,23 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-386420,2023-01-20,000001,Vente,4000,,,SEPT MOLLES,B015,31110,31524,Salles-et-Pratviel,31,,,315240000A0408,,,,,,,,,,,,,0,,,,,P,prés,,,1104,0.606644,42.822258
+2023-391310,2023-09-05,000001,Vente,33600,,,SARRAT DE LANE,B014,31110,31524,Salles-et-Pratviel,31,,,315240000A0107,,,,,,,,,,,,,0,,,,,L,landes,,,1073,0.607173,42.841049
+2023-391310,2023-09-05,000001,Vente,33600,,,TRESPUY,B016,31110,31524,Salles-et-Pratviel,31,,,315240000A0166,,,,,,,,,,,,,0,,,,,P,prés,,,922,0.603145,42.832168
+2023-391310,2023-09-05,000001,Vente,33600,,,TRESPUY,B016,31110,31524,Salles-et-Pratviel,31,,,315240000A0183,,,,,,,,,,,,,0,,,,,T,terres,,,659,0.604289,42.832934
+2023-391310,2023-09-05,000001,Vente,33600,,,TRESPUY,B016,31110,31524,Salles-et-Pratviel,31,,,315240000A0193,,,,,,,,,,,,,0,,,,,P,prés,,,5176,0.603921,42.833087
+2023-391310,2023-09-05,000001,Vente,33600,,,TRESPUY,B016,31110,31524,Salles-et-Pratviel,31,,,315240000A0202,,,,,,,,,,,,,0,,,,,P,prés,,,560,0.604549,42.835699
+2023-391310,2023-09-05,000001,Vente,33600,,,TRESPUY,B016,31110,31524,Salles-et-Pratviel,31,,,315240000A0203,,,,,,,,,,,,,0,,,,,P,prés,,,784,0.604403,42.83581
+2023-391310,2023-09-05,000001,Vente,33600,,,LAPRADETTE,B008,31110,31524,Salles-et-Pratviel,31,,,315240000A0256,,,,,,,,,,,,,0,,,,,P,prés,,,5090,0.600992,42.837216
+2023-391310,2023-09-05,000001,Vente,33600,,,PALOUMERE,B010,31110,31524,Salles-et-Pratviel,31,,,315240000A0345,,,,,,,,,,,,,0,,,,,P,prés,,,2500,0.602572,42.839934
+2023-391310,2023-09-05,000001,Vente,33600,,,MOURATECH,B009,31110,31524,Salles-et-Pratviel,31,,,315240000A0368,,,,,,,,,,,,,0,,,,,L,landes,,,1850,0.600294,42.840152
+2023-391310,2023-09-05,000001,Vente,33600,,,CLOT DE BINOS,B004,31110,31524,Salles-et-Pratviel,31,,,315240000A0477,,,,,,,,,,,,,0,,,,,T,terres,,,6001,0.607028,42.827794
+2023-391310,2023-09-05,000001,Vente,33600,,,VILLAGE DE SALLES,B017,31110,31524,Salles-et-Pratviel,31,,,315240000A0508,,,,,,,,,,,,,0,,,,,T,terres,,,1400,0.607382,42.828833
+2023-391310,2023-09-05,000001,Vente,33600,,,VILLAGE DE SALLES,B017,31110,31524,Salles-et-Pratviel,31,,,315240000A0595,,,,,,,,,,,,,0,,,,,P,prés,,,1270,0.60357,42.830262
+2023-391310,2023-09-05,000001,Vente,33600,,,TRESPUY,B016,31110,31524,Salles-et-Pratviel,31,,,315240000A0624,,,,,,,,,,,,,0,,,,,P,prés,,,2277,0.604758,42.833042
+2023-391310,2023-09-05,000001,Vente,33600,,,TRESPUY,B016,31110,31524,Salles-et-Pratviel,31,,,315240000A0725,,,,,,,,,,,,,0,,,,,P,prés,,,1260,0.604188,42.837801
+2023-392435,2023-11-22,000001,Vente,1160,,,TRESPUY,B016,31110,31524,Salles-et-Pratviel,31,,,315240000A0157,,,,,,,,,,,,,0,,,,,T,terres,,,1790,0.604294,42.831571
+2023-392441,2023-11-22,000001,Vente,2580,,,TRESPUY,B016,31110,31524,Salles-et-Pratviel,31,,,315240000A0157,,,,,,,,,,,,,0,,,,,T,terres,,,1790,0.604294,42.831571
+2023-392984,2023-12-18,000001,Vente,285000,22,,VILLAGE DE SALLES,B017,31110,31524,Salles-et-Pratviel,31,,,315240000A0532,,,,,,,,,,,,,0,1,Maison,120,3,S,sols,,,156,0.605801,42.829822
+2023-392984,2023-12-18,000001,Vente,285000,22,,VILLAGE DE SALLES,B017,31110,31524,Salles-et-Pratviel,31,,,315240000A0533,,,,,,,,,,,,,0,1,Maison,108,3,S,sols,,,50,0.605875,42.829755
+2023-392984,2023-12-18,000001,Vente,285000,,,VILLAGE DE SALLES,B017,31110,31524,Salles-et-Pratviel,31,,,315240000A1139,,,,,,,,,,,,,0,,,,,S,sols,,,29,0.605784,42.829907
+2023-393238,2023-12-28,000001,Vente,5000,,,CLOT DE BINOS,B004,31110,31524,Salles-et-Pratviel,31,,,315240000A0461,,,,,,,,,,,,,0,,,,,T,terres,,,3848,0.60577,42.826232
+2023-393238,2023-12-28,000001,Vente,5000,,,VILLAGE DE SALLES,B017,31110,31524,Salles-et-Pratviel,31,,,315240000A0563,,,,,,,,,,,,,0,,,,,P,prés,,,2787,0.604707,42.830433

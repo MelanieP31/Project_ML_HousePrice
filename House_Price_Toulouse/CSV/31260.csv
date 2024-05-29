@@ -1,0 +1,19 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-387328,2023-03-01,000001,Vente,4000,,,CASTILLON,B011,31360,31260,Laffite-Toupière,31,,,312600000A0144,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,8042,0.916249,43.178832
+2023-387328,2023-03-01,000001,Vente,4000,,,CASTILLON,B011,31360,31260,Laffite-Toupière,31,,,312600000A0149,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,8036,0.918851,43.179169
+2023-387974,2023-03-31,000001,Vente,3000,,,LE JADET,B020,31360,31260,Laffite-Toupière,31,,,312600000D0406,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,12114,0.887962,43.160312
+2023-387974,2023-03-31,000001,Vente,3000,,,LE JADET,B020,31360,31260,Laffite-Toupière,31,,,312600000D0418,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,13109,0.887885,43.160526
+2023-388481,2023-04-28,000001,Vente,5300,,,PINTON,B025,31360,31260,Laffite-Toupière,31,,,312600000D0273,,,,,,,,,,,,,0,,,,,P,prés,,,840,0.899333,43.160911
+2023-388481,2023-04-28,000001,Vente,5300,,,PINTON,B025,31360,31260,Laffite-Toupière,31,,,312600000D0279,,,,,,,,,,,,,0,,,,,L,landes,PACAG,Pacage,705,0.901092,43.162205
+2023-388481,2023-04-28,000001,Vente,5300,,,PINTON,B025,31360,31260,Laffite-Toupière,31,,,312600000D0280,,,,,,,,,,,,,0,,,,,T,terres,,,3610,0.901175,43.161924
+2023-388481,2023-04-28,000001,Vente,5300,,,PINTON,B025,31360,31260,Laffite-Toupière,31,,,312600000D0282,,,,,,,,,,,,,0,,,,,P,prés,,,1444,0.90004,43.160835
+2023-388481,2023-04-28,000001,Vente,5300,,,PINTON,B025,31360,31260,Laffite-Toupière,31,,,312600000D0314,,,,,,,,,,,,,0,,,,,P,prés,,,1382,0.902404,43.161965
+2023-388481,2023-04-28,000001,Vente,5300,,,PINTON,B025,31360,31260,Laffite-Toupière,31,,,312600000D0315,,,,,,,,,,,,,0,,,,,T,terres,,,2419,0.901803,43.162025
+2023-388481,2023-04-28,000001,Vente,5300,,,PINTON,B025,31360,31260,Laffite-Toupière,31,,,312600000D0316,,,,,,,,,,,,,0,,,,,T,terres,,,1394,0.901844,43.16238
+2023-388481,2023-04-28,000001,Vente,5300,,,PINTON,B025,31360,31260,Laffite-Toupière,31,,,312600000D0317,,,,,,,,,,,,,0,,,,,T,terres,,,1962,0.902195,43.162504
+2023-388794,2023-05-04,000001,Vente,6500,,,CASTILLON,B011,31360,31260,Laffite-Toupière,31,,,312600000A0148,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,16790,0.918507,43.180439
+2023-390873,2023-08-23,000001,Vente,115000,45,,LA RAYNO,B028,31360,31260,Laffite-Toupière,31,,,312600000D0363,,,,,,,,,,,,,0,1,Maison,84,3,P,prés,,,1490,0.897311,43.163771
+2023-390873,2023-08-23,000001,Vente,115000,45,,LA RAYNO,B028,31360,31260,Laffite-Toupière,31,,,312600000D0363,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,726,0.897311,43.163771
+2023-390873,2023-08-23,000001,Vente,115000,45,,LA RAYNO,B028,31360,31260,Laffite-Toupière,31,,,312600000D0363,,,,,,,,,,,,,0,1,Maison,84,3,S,sols,,,726,0.897311,43.163771
+2023-390873,2023-08-23,000001,Vente,115000,45,,LA RAYNO,B028,31360,31260,Laffite-Toupière,31,,,312600000D0363,,,,,,,,,,,,,0,3,Dépendance,,0,P,prés,,,1490,0.897311,43.163771
+2023-390873,2023-08-23,000001,Vente,115000,,,LA RAYNO,B028,31360,31260,Laffite-Toupière,31,,,312600000D0364,,,,,,,,,,,,,0,,,,,J,jardins,,,654,0.8977,43.163801

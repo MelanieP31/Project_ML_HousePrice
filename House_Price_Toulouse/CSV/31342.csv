@@ -1,0 +1,24 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-386303,2023-01-03,000001,Vente,1422,,,PERE DE HICHART,B117,31160,31342,Milhas,31,,,313420000A1229,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,23380,0.799456,42.97476
+2023-386303,2023-01-03,000001,Vente,1422,,,PERE DE HICHART,B117,31160,31342,Milhas,31,,,313420000A1234,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,1190,0.80106,42.975738
+2023-386303,2023-01-03,000001,Vente,1422,,,ARTIGUELOUNGUE-SUD,B008,31160,31342,Milhas,31,,,313420000A1261,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,330,0.799563,42.97577
+2023-386303,2023-01-03,000001,Vente,1422,,,ARTIGUELOUNGUE-SUD,B008,31160,31342,Milhas,31,,,313420000A1262,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,3540,0.798147,42.97539
+2023-387169,2023-03-02,000002,Vente,176,,,PRAT BARRAT,B135,31160,31342,Milhas,31,,,313420000A1949,,,,,,,,,,,,,0,,,,,P,prés,,,175,0.801424,42.977245
+2023-387169,2023-03-02,000002,Vente,176,,,PRAT BARRAT,B135,31160,31342,Milhas,31,,,313420000A1952,,,,,,,,,,,,,0,,,,,L,landes,,,61,0.801375,42.977057
+2023-387190,2023-03-03,000001,Vente,1200,,,PLAN DE HOURNECH,B126,31160,31342,Milhas,31,,,313420000A0078,,,,,,,,,,,,,0,,,,,T,terres,,,640,0.802633,42.99237
+2023-387190,2023-03-03,000001,Vente,1200,,,LOURATORY,B092,31160,31342,Milhas,31,,,313420000A0846,,,,,,,,,,,,,0,,,,,L,landes,,,1200,0.803626,42.983881
+2023-387190,2023-03-03,000001,Vente,1200,,,SARRAT,B148,31160,31342,Milhas,31,,,313420000A1046,,,,,,,,,,,,,0,,,,,L,landes,,,1715,0.79968,42.987574
+2023-387190,2023-03-03,000001,Vente,1200,,,PERJOS,B119,31160,31342,Milhas,31,,,313420000A1051,,,,,,,,,,,,,0,,,,,L,landes,,,2100,0.800142,42.988239
+2023-387190,2023-03-03,000001,Vente,1200,,,HOURNECH,B071,31160,31342,Milhas,31,,,313420000A1457,,,,,,,,,,,,,0,,,,,P,prés,,,1640,0.801561,42.990752
+2023-387190,2023-03-03,000001,Vente,1200,,,LAS GOUTOS,B085,31160,31342,Milhas,31,,,313420000A1723,,,,,,,,,,,,,0,,,,,P,prés,,,3293,0.803609,42.987117
+2023-387190,2023-03-03,000001,Vente,1200,,,LAS GOUTOS,B085,31160,31342,Milhas,31,,,313420000A1723,,,,,,,,,,,,,0,,,,,P,prés,,,3220,0.803609,42.987117
+2023-387905,2023-03-31,000001,Vente,12000,,,VILLAGE,B171,31160,31342,Milhas,31,,,313420000A0515,,,,,,,,,,,,,0,,,,,J,jardins,,,128,0.806946,42.988564
+2023-387905,2023-03-31,000001,Vente,12000,37,,VILLAGE,B171,31160,31342,Milhas,31,,,313420000A0520,,,,,,,,,,,,,0,1,Maison,42,2,S,sols,,,98,0.806845,42.988435
+2023-389130,2023-06-07,000001,Vente,94000,71,,CAMPAS,B016,31160,31342,Milhas,31,,,313420000A1917,,,,,,,,,,,,,0,1,Maison,38,2,L,landes,,,340,0.807217,42.992087
+2023-389738,2023-07-07,000001,Vente,2000,,,TUHAN,B170,31160,31342,Milhas,31,,,313420000A1584,,,,,,,,,,,,,0,,,,,P,prés,,,326,0.808591,42.989261
+2023-389797,2023-07-06,000001,Vente,35000,,,ECH ARESSEC,B048,31160,31342,Milhas,31,,,313420000A0762,,,,,,,,,,,,,0,,,,,P,prés,,,2795,0.804336,42.988697
+2023-389797,2023-07-06,000001,Vente,35000,,,ECH ARESSEC,B048,31160,31342,Milhas,31,,,313420000A0764,,,,,,,,,,,,,0,,,,,T,terres,,,785,0.804006,42.988765
+2023-391432,2023-10-01,000001,Vente,2500,,,VILLAGE,B171,31160,31342,Milhas,31,,,313420000A0502,,,,,,,,,,,,,0,,,,,J,jardins,,,298,0.807452,42.98861
+2023-393026,2023-12-27,000001,Vente,150000,112,,HOUNTAOU,B067,31160,31342,Milhas,31,,,313420000A1396,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,538,0.794794,42.982337
+2023-393026,2023-12-27,000001,Vente,150000,112,,HOUNTAOU,B067,31160,31342,Milhas,31,,,313420000A1396,,,,,,,,,,,,,0,3,Dépendance,,0,P,prés,,,1772,0.794794,42.982337
+2023-393026,2023-12-27,000001,Vente,150000,,,HOUNTAOU,B067,31160,31342,Milhas,31,,,313420000A1397,,,,,,,,,,,,,0,,,,,S,sols,,,55,0.79474,42.982515

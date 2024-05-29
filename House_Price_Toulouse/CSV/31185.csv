@@ -1,0 +1,14 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-368816,2023-03-03,000001,Vente,92000,,,VILLAGE,B020,31290,31185,Folcarde,31,,,311850000A0638,,,,,,,,,,,,,0,,,,,T,terres,,,194,1.793802,43.402918
+2023-376242,2023-06-30,000001,Vente,268000,518,,VILLAGE,B020,31290,31185,Folcarde,31,,,311850000A0518,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,,,2210,1.795672,43.403201
+2023-376242,2023-06-30,000001,Vente,268000,518,,VILLAGE,B020,31290,31185,Folcarde,31,,,311850000A0518,,,,,,,,,,,,,0,1,Maison,110,5,S,sols,,,500,1.795672,43.403201
+2023-376242,2023-06-30,000001,Vente,268000,518,,VILLAGE,B020,31290,31185,Folcarde,31,,,311850000A0518,,,,,,,,,,,,,0,1,Maison,110,5,AG,terrains d'agrément,,,2210,1.795672,43.403201
+2023-376242,2023-06-30,000001,Vente,268000,518,,VILLAGE,B020,31290,31185,Folcarde,31,,,311850000A0518,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,500,1.795672,43.403201
+2023-376310,2023-03-22,000001,Vente,300000,33,,LOUIDOR,B015,31290,31185,Folcarde,31,,,311850000A0252,,,,,,,,,,,,,0,1,Maison,220,11,S,sols,,,3050,1.807164,43.398701
+2023-376310,2023-03-22,000001,Vente,300000,,,LOUIDOR,B015,31290,31185,Folcarde,31,,,311850000A0253,,,,,,,,,,,,,0,,,,,T,terres,,,1820,1.806968,43.398893
+2023-376310,2023-03-22,000001,Vente,300000,,,LOUIDOR,B015,31290,31185,Folcarde,31,,,311850000A0254,,,,,,,,,,,,,0,,,,,T,terres,,,2310,1.806784,43.399288
+2023-376310,2023-03-22,000001,Vente,300000,,,LOUIDOR,B015,31290,31185,Folcarde,31,,,311850000A0255,,,,,,,,,,,,,0,,,,,J,jardins,,,255,1.806403,43.399503
+2023-377219,2023-07-12,000001,Vente,4000,,,EMGAUMES,B008,31290,31185,Folcarde,31,,,311850000A0595,,,,,,,,,,,,,0,,,,,T,terres,,,4128,1.801148,43.401408
+2023-379531,2023-08-21,000001,Vente,311700,541,,CHATEAU,B006,31290,31185,Folcarde,31,,,311850000A0541,,,,,,,,,,,,,0,1,Maison,92,4,S,sols,,,500,1.79421,43.404788
+2023-379531,2023-08-21,000001,Vente,311700,541,,CHATEAU,B006,31290,31185,Folcarde,31,,,311850000A0541,,,,,,,,,,,,,0,1,Maison,92,4,AG,terrains d'agrément,,,808,1.79421,43.404788
+2023-379531,2023-08-21,000001,Vente,311700,,,CHATEAU,B006,31290,31185,Folcarde,31,,,311850000A0545,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,292,1.79405,43.404647

@@ -1,0 +1,11 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-388025,2023-03-17,000001,Vente,388300,,,LE CHATEAU,B011,31350,31528,Saman,31,,,315280000A0136,,,,,,,,,,,,,0,,,,,P,prés,,,13700,0.719317,43.24642
+2023-388025,2023-03-17,000001,Vente,388300,33,,LE CHATEAU,B011,31350,31528,Saman,31,,,315280000A0458,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,3455,0.718957,43.246427
+2023-388025,2023-03-17,000001,Vente,388300,33,,LE CHATEAU,B011,31350,31528,Saman,31,,,315280000A0458,,,,,,,,,,,,,0,1,Maison,336,12,S,sols,,,3455,0.718957,43.246427
+2023-388025,2023-03-17,000001,Vente,388300,33,,LE CHATEAU,B011,31350,31528,Saman,31,,,315280000A0458,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,3455,0.718957,43.246427
+2023-390960,2023-08-28,000001,Vente,325000,32,,LE CHATEAU,B011,31350,31528,Saman,31,,,315280000A0134,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,2708,0.718038,43.24598
+2023-390960,2023-08-28,000001,Vente,325000,32,,LE CHATEAU,B011,31350,31528,Saman,31,,,315280000A0134,,,,,,,,,,,,,0,1,Maison,176,3,S,sols,,,2708,0.718038,43.24598
+2023-390960,2023-08-28,000001,Vente,325000,,,LE CHATEAU,B011,31350,31528,Saman,31,,,315280000A0137,,,,,,,,,,,,,0,,,,,S,sols,,,3025,0.718474,43.24585
+2023-390960,2023-08-28,000001,Vente,325000,,,LE CHATEAU,B011,31350,31528,Saman,31,,,315280000A0138,,,,,,,,,,,,,0,,,,,T,terres,,,46115,,
+2023-390960,2023-08-28,000001,Vente,325000,,,LE CHATEAU,B011,31350,31528,Saman,31,,,315280000A0459,,,,,,,,,,,,,0,,,,,S,sols,,,645,0.718568,43.246069
+2023-392978,2023-12-22,000001,Vente,12500,,,PLAN,B046,31350,31528,Saman,31,,,31528000ZB0078,,,,,,,,,,,,,0,,,,,T,terres,,,25820,0.720701,43.238955

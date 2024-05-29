@@ -1,0 +1,8 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-388736,2023-05-13,000001,Vente,10000,,,POUCH,B031,31110,31549,Sode,31,,,315490000A0633,,,,,,,,,,,,,0,,,,,L,landes,,,2800,0.618145,42.810669
+2023-388736,2023-05-13,000001,Vente,10000,,,POUCH,B031,31110,31549,Sode,31,,,315490000A0634,,,,,,,,,,,,,0,,,,,L,landes,RUINE,Ruines,95,0.617821,42.811028
+2023-389456,2023-06-17,000001,Vente,45000,,,CLOS,B012,31110,31549,Sode,31,,,315490000A0345,,,,,,,,,,,,,0,,,,,P,prés,,,235,0.614848,42.816959
+2023-389456,2023-06-17,000001,Vente,45000,,,VILLAGE,B038,31110,31549,Sode,31,,,315490000A0662,,,,,,,,,,,,,0,,,,,S,sols,,,240,0.61496,42.816818
+2023-391163,2023-09-05,000001,Vente,18000,,,ES TEILLEDES,B018,31110,31549,Sode,31,,,315490000A0581,,,,,,,,,,,,,0,,,,,L,landes,RUINE,Ruines,1475,0.625351,42.811087
+2023-391163,2023-09-05,000001,Vente,18000,,,ES TEILLEDES,B018,31110,31549,Sode,31,,,315490000A0583,,,,,,,,,,,,,0,,,,,L,landes,,,150,0.62469,42.811111
+2023-391163,2023-09-05,000001,Vente,18000,,,ES TEILLEDES,B018,31110,31549,Sode,31,,,315490000A0584,,,,,,,,,,,,,0,,,,,L,landes,,,2925,0.62547,42.811311

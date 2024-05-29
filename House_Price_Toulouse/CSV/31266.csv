@@ -1,0 +1,22 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-387906,2023-03-31,000001,Vente,89000,,,CASTEL GINEST,B010,31370,31266,Lahage,31,,,312660000B0408,,,,,,,,,,,,,0,,,,,P,prés,,,8720,1.065959,43.443536
+2023-387906,2023-03-31,000001,Vente,89000,30,,CHE DE LA SABAILLANE,0950,31370,31266,Lahage,31,,,312660000B0409,,,,,,,,,,,,,0,1,Maison,120,4,S,sols,,,2840,1.065662,43.443865
+2023-388564,2023-04-21,000002,Vente,17500,,,AS CAMPS DU VILLAGE,B003,31370,31266,Lahage,31,,,312660000B0030,,,,,,,,,,,,,0,,,,,T,terres,,,1150,1.065157,43.438355
+2023-388564,2023-04-21,000002,Vente,17500,,,LAS GRABOS,B020,31370,31266,Lahage,31,,,312660000B0188,,,,,,,,,,,,,0,,,,,P,prés,,,710,1.064046,43.436515
+2023-388564,2023-04-21,000002,Vente,17500,,,LAS GRABOS,B020,31370,31266,Lahage,31,,,312660000B0189,,,,,,,,,,,,,0,,,,,L,landes,,,3580,1.06371,43.436634
+2023-388564,2023-04-21,000002,Vente,17500,,,LAS GRABOS,B020,31370,31266,Lahage,31,,,312660000B0191,,,,,,,,,,,,,0,,,,,P,prés,,,4880,1.063208,43.436966
+2023-388564,2023-04-21,000002,Vente,17500,,,LAS GRABOS,B020,31370,31266,Lahage,31,,,312660000B0194,,,,,,,,,,,,,0,,,,,J,jardins,,,340,1.06469,43.437111
+2023-388564,2023-04-21,000002,Vente,17500,,,AUX TUCOS,B035,31370,31266,Lahage,31,,,312660000B0200,,,,,,,,,,,,,0,,,,,P,prés,,,7530,1.06195,43.43665
+2023-388564,2023-04-21,000002,Vente,17500,,,LAS GRABOS,B020,31370,31266,Lahage,31,,,312660000B0517,,,,,,,,,,,,,0,,,,,P,prés,,,3609,1.062156,43.43733
+2023-388564,2023-04-21,000002,Vente,17500,,,LAS GRABOS,B020,31370,31266,Lahage,31,,,312660000B0519,,,,,,,,,,,,,0,,,,,T,terres,,,5484,1.06295,43.437575
+2023-388564,2023-04-21,000002,Vente,17500,,,LAS GRABOS,B020,31370,31266,Lahage,31,,,312660000B0600,,,,,,,,,,,,,0,,,,,P,prés,,,5343,1.064196,43.43741
+2023-390286,2023-07-25,000001,Vente,338600,195,,ALL DE LAHAGE,0600,31370,31266,Lahage,31,,,312660000B0544,,,,,,,,,,,,,0,1,Maison,129,6,S,sols,,,1000,1.064276,43.440424
+2023-390286,2023-07-25,000001,Vente,338600,195,,ALL DE LAHAGE,0600,31370,31266,Lahage,31,,,312660000B0544,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1000,1.064276,43.440424
+2023-390286,2023-07-25,000001,Vente,338600,195,,ALL DE LAHAGE,0600,31370,31266,Lahage,31,,,312660000B0544,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,PARC,Parc,2162,1.064276,43.440424
+2023-390286,2023-07-25,000001,Vente,338600,195,,ALL DE LAHAGE,0600,31370,31266,Lahage,31,,,312660000B0544,,,,,,,,,,,,,0,1,Maison,129,6,AG,terrains d'agrément,PARC,Parc,2162,1.064276,43.440424
+2023-392241,2023-10-28,000001,Vente,237600,740,,ALL DE LAHAGE,0600,31370,31266,Lahage,31,,,312660000B0055,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1000,1.07089,43.43848
+2023-392241,2023-10-28,000001,Vente,237600,740,,ALL DE LAHAGE,0600,31370,31266,Lahage,31,,,312660000B0055,,,,,,,,,,,,,0,1,Maison,111,4,S,sols,,,1000,1.07089,43.43848
+2023-392241,2023-10-28,000001,Vente,237600,740,,ALL DE LAHAGE,0600,31370,31266,Lahage,31,,,312660000B0055,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1000,1.07089,43.43848
+2023-392241,2023-10-28,000001,Vente,237600,740,,ALL DE LAHAGE,0600,31370,31266,Lahage,31,,,312660000B0055,,,,,,,,,,,,,0,1,Maison,111,4,AG,terrains d'agrément,PARC,Parc,1730,1.07089,43.43848
+2023-392241,2023-10-28,000001,Vente,237600,740,,ALL DE LAHAGE,0600,31370,31266,Lahage,31,,,312660000B0055,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,PARC,Parc,1730,1.07089,43.43848
+2023-392241,2023-10-28,000001,Vente,237600,740,,ALL DE LAHAGE,0600,31370,31266,Lahage,31,,,312660000B0055,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,PARC,Parc,1730,1.07089,43.43848

@@ -1,0 +1,28 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-366531,2023-01-20,000001,Vente,237000,27,,RUE DU STADE,0001,31340,31346,Mirepoix-sur-Tarn,31,,,31346000ZD0554,,,,,,,,,,,,,0,1,Maison,100,6,,,,,,,
+2023-368552,2023-02-17,000001,Vente,343280,830,,RTE DE LAYRAC,0007,31340,31346,Mirepoix-sur-Tarn,31,,,31346000ZD0549,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1000,1.566434,43.818358
+2023-368552,2023-02-17,000001,Vente,343280,830,,RTE DE LAYRAC,0007,31340,31346,Mirepoix-sur-Tarn,31,,,31346000ZD0549,,,,,,,,,,,,,0,1,Maison,145,5,S,sols,,,1000,1.566434,43.818358
+2023-368552,2023-02-17,000001,Vente,343280,830,,RTE DE LAYRAC,0007,31340,31346,Mirepoix-sur-Tarn,31,,,31346000ZD0549,,,,,,,,,,,,,0,1,Maison,145,5,AG,terrains d'agrément,PARC,Parc,1227,1.566434,43.818358
+2023-368552,2023-02-17,000001,Vente,343280,830,,RTE DE LAYRAC,0007,31340,31346,Mirepoix-sur-Tarn,31,,,31346000ZD0549,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,PARC,Parc,1227,1.566434,43.818358
+2023-369753,2023-03-16,000001,Vente,300839,883,,RTE DE LAYRAC,0007,31340,31346,Mirepoix-sur-Tarn,31,,,31346000ZE0369,,,,,,,,,,,,,0,1,Maison,112,4,S,sols,,,343,1.565009,43.818238
+2023-369753,2023-03-16,000001,Vente,300839,883,,RTE DE LAYRAC,0007,31340,31346,Mirepoix-sur-Tarn,31,,,31346000ZE0370,,,,,,,,,,,,,0,,,,,S,sols,,,319,1.564804,43.818166
+2023-372793,2023-05-12,000001,Vente,234350,,,LE MOULAS,B026,31340,31346,Mirepoix-sur-Tarn,31,,,31346000ZD0325,,,,,,,,,,,,,0,,,,,S,sols,,,298,1.570709,43.81648
+2023-372793,2023-05-12,000001,Vente,234350,1,,RUE ABBE PIERRE,0068,31340,31346,Mirepoix-sur-Tarn,31,,,31346000ZD0354,,,,,,,,,,,,,0,1,Maison,97,5,S,sols,,,322,1.570502,43.816676
+2023-375105,2023-06-30,000001,Vente,391510,166,,RTE DE LAYRAC,0007,31340,31346,Mirepoix-sur-Tarn,31,,,313460000C0272,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1005,1.571191,43.813943
+2023-375105,2023-06-30,000001,Vente,391510,166,,RTE DE LAYRAC,0007,31340,31346,Mirepoix-sur-Tarn,31,,,313460000C0272,,,,,,,,,,,,,0,1,Maison,90,4,S,sols,,,1005,1.571191,43.813943
+2023-375105,2023-06-30,000001,Vente,391510,,,LA VILLE,B033,31340,31346,Mirepoix-sur-Tarn,31,,,313460000C0848,,,,,,,,,,,,,0,,,,,AG,terrains d'agrément,PARC,Parc,608,1.57137,43.814106
+2023-379328,2023-08-31,000001,Vente,340000,97,,AV DU PONT,0004,31340,31346,Mirepoix-sur-Tarn,31,,,313460000C0253,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1567,1.572725,43.813124
+2023-379328,2023-08-31,000001,Vente,340000,97,,AV DU PONT,0004,31340,31346,Mirepoix-sur-Tarn,31,,,313460000C0253,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1567,1.572725,43.813124
+2023-379328,2023-08-31,000001,Vente,340000,97,,AV DU PONT,0004,31340,31346,Mirepoix-sur-Tarn,31,,,313460000C0253,,,,,,,,,,,,,0,2,Appartement,90,3,S,sols,,,1567,1.572725,43.813124
+2023-379328,2023-08-31,000001,Vente,340000,97,,AV DU PONT,0004,31340,31346,Mirepoix-sur-Tarn,31,,,313460000C0253,,,,,,,,,,,,,0,2,Appartement,67,2,S,sols,,,1567,1.572725,43.813124
+2023-379328,2023-08-31,000001,Vente,340000,97,,AV DU PONT,0004,31340,31346,Mirepoix-sur-Tarn,31,,,313460000C0253,,,,,,,,,,,,,0,2,Appartement,76,4,S,sols,,,1567,1.572725,43.813124
+2023-379328,2023-08-31,000001,Vente,340000,97,,AV DU PONT,0004,31340,31346,Mirepoix-sur-Tarn,31,,,313460000C0253,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1567,1.572725,43.813124
+2023-379328,2023-08-31,000001,Vente,340000,97,,AV DU PONT,0004,31340,31346,Mirepoix-sur-Tarn,31,,,313460000C0253,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1567,1.572725,43.813124
+2023-379328,2023-08-31,000001,Vente,340000,97,,AV DU PONT,0004,31340,31346,Mirepoix-sur-Tarn,31,,,313460000C0253,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1567,1.572725,43.813124
+2023-379328,2023-08-31,000001,Vente,340000,,,LA VILLE,B033,31340,31346,Mirepoix-sur-Tarn,31,,,313460000C0254,,,,,,,,,,,,,0,,,,,T,terres,,,1035,1.572987,43.813374
+2023-380132,2023-09-06,000002,Echange,100,270,,QUAI DU TARN,0026,31340,31346,Mirepoix-sur-Tarn,31,,,313460000C0875,,,,,,,,,,,,,0,,,,,S,sols,,,18,1.569146,43.813106
+2023-380132,2023-09-06,000002,Echange,100,,,LES CAMBALS,B011,31340,31346,Mirepoix-sur-Tarn,31,,,313460000C0877,,,,,,,,,,,,,0,,,,,S,sols,,,13,1.569158,43.813174
+2023-383624,2023-11-16,000001,Vente,55000,42,,RUE DU STADE,0001,31340,31346,Mirepoix-sur-Tarn,31,,,31346000ZD0531,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,988,1.569047,43.816983
+2023-384770,2023-11-30,000001,Vente,221300,270,,RUE DES MANDRES,0011,31340,31346,Mirepoix-sur-Tarn,31,,,31346000ZE0296,,,,,,,,,,,,,0,1,Maison,82,4,S,sols,,,644,1.564773,43.81932
+2023-385195,2023-12-29,000001,Vente,115000,5001,,RTE DE LAYRAC,0007,31340,31346,Mirepoix-sur-Tarn,31,,,31346000ZD0550,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,1600,1.566649,43.818091
+2023-385841,2023-12-27,000001,Vente,275545,88,B,RUE DU MOULAS,0013,31340,31346,Mirepoix-sur-Tarn,31,,,31346000ZD0486,,,,,,,,,,,,,0,1,Maison,100,4,S,sols,,,315,1.572272,43.817646

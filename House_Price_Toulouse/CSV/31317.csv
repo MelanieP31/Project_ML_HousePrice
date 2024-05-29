@@ -1,0 +1,30 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-388660,2023-05-03,000001,Vente,2340,,,LE VILLAGE,B089,31430,31317,Marignac-Lasclares,31,,,31317000AB0137,,,,,,,,,,,,,0,,,,,S,sols,,,90,1.098988,43.306501
+2023-389094,2023-05-24,000001,Vente,13000,,,CHEMIN DE LA BORDE,B016,31430,31317,Marignac-Lasclares,31,,,313170000C0358,,,,,,,,,,,,,0,,,,,T,terres,,,1886,1.102038,43.30063
+2023-389094,2023-05-24,000001,Vente,13000,,,CHEMIN DU BARRAIL,B017,31430,31317,Marignac-Lasclares,31,,,313170000C0377,,,,,,,,,,,,,0,,,,,P,prés,,,8276,1.113255,43.298765
+2023-389094,2023-05-24,000001,Vente,13000,,,CHEMIN DE LA BORDE,B016,31430,31317,Marignac-Lasclares,31,,,313170000C0410,,,,,,,,,,,,,0,,,,,T,terres,,,1140,1.10152,43.301028
+2023-389094,2023-05-24,000001,Vente,13000,,,CHEMIN DE LA BORDE,B016,31430,31317,Marignac-Lasclares,31,,,313170000C0413,,,,,,,,,,,,,0,,,,,T,terres,,,655,1.100287,43.301071
+2023-389094,2023-05-24,000001,Vente,13000,,,CHEMIN DE LA BORDE,B016,31430,31317,Marignac-Lasclares,31,,,313170000C0414,,,,,,,,,,,,,0,,,,,T,terres,,,7375,1.101325,43.3006
+2023-389094,2023-05-24,000001,Vente,13000,,,CLARE HAUTE,B018,31430,31317,Marignac-Lasclares,31,,,313170000D0213,,,,,,,,,,,,,0,,,,,P,prés,,,1610,1.094386,43.299306
+2023-389094,2023-05-24,000001,Vente,13000,,,CLARE HAUTE,B018,31430,31317,Marignac-Lasclares,31,,,313170000D0214,,,,,,,,,,,,,0,,,,,L,landes,,,5100,1.09368,43.29975
+2023-389094,2023-05-24,000001,Vente,13000,,,CLARE HAUTE,B018,31430,31317,Marignac-Lasclares,31,,,313170000D0228,,,,,,,,,,,,,0,,,,,T,terres,,,2900,1.095036,43.298819
+2023-389306,2023-06-07,000001,Vente,1500,,,LE CHATEAU,B015,31430,31317,Marignac-Lasclares,31,,,313170000D0127,,,,,,,,,,,,,0,,,,,BS,taillis sous futaie,,,7260,1.097547,43.302326
+2023-390344,2023-07-25,000001,Vente,334313,,,LE VILLAGE,B089,31430,31317,Marignac-Lasclares,31,,,31317000AB0106,,,,,,,,,,,,,0,,,,,S,sols,,,6,1.099591,43.307035
+2023-390344,2023-07-25,000001,Vente,334313,286,,RUE DE LA MAIRIE,0028,31430,31317,Marignac-Lasclares,31,,,31317000AB0107,,,,,,,,,,,,,0,1,Maison,95,4,AG,terrains d'agrément,,,850,1.099805,43.307013
+2023-390344,2023-07-25,000001,Vente,334313,286,,RUE DE LA MAIRIE,0028,31430,31317,Marignac-Lasclares,31,,,31317000AB0107,,,,,,,,,,,,,0,1,Maison,95,4,S,sols,,,500,1.099805,43.307013
+2023-390487,2023-08-04,000001,Vente,11700,,,LES LIMBETES,B043,31430,31317,Marignac-Lasclares,31,,,313170000C0133,,,,,,,,,,,,,0,,,,,T,terres,,,4230,1.107792,43.29285
+2023-390487,2023-08-04,000001,Vente,11700,,,LES LIMBETES,B043,31430,31317,Marignac-Lasclares,31,,,313170000C0134,,,,,,,,,,,,,0,,,,,T,terres,,,3040,1.107319,43.293071
+2023-390487,2023-08-04,000001,Vente,11700,,,LES LIMBETES,B043,31430,31317,Marignac-Lasclares,31,,,313170000C0135,,,,,,,,,,,,,0,,,,,T,terres,,,6980,1.10501,43.293803
+2023-390487,2023-08-04,000001,Vente,11700,,,LES LIMBETES,B043,31430,31317,Marignac-Lasclares,31,,,313170000C0136,,,,,,,,,,,,,0,,,,,T,terres,,,9190,1.105211,43.29352
+2023-390660,2023-08-10,000001,Vente,308750,5001,F,PUJAU,B075,31430,31317,Marignac-Lasclares,31,,,313170000A0694,,,,,,,,,,,,,0,4,Local industriel. commercial ou assimilé,20,0,S,sols,,,1000,1.087704,43.312092
+2023-390660,2023-08-10,000001,Vente,308750,5001,F,PUJAU,B075,31430,31317,Marignac-Lasclares,31,,,313170000A0694,,,,,,,,,,,,,0,1,Maison,145,6,S,sols,,,1000,1.087704,43.312092
+2023-390660,2023-08-10,000001,Vente,308750,5001,F,PUJAU,B075,31430,31317,Marignac-Lasclares,31,,,313170000A0694,,,,,,,,,,,,,0,1,Maison,145,6,AG,terrains d'agrément,,,2848,1.087704,43.312092
+2023-390660,2023-08-10,000001,Vente,308750,5001,F,PUJAU,B075,31430,31317,Marignac-Lasclares,31,,,313170000A0694,,,,,,,,,,,,,0,4,Local industriel. commercial ou assimilé,20,0,AG,terrains d'agrément,,,2848,1.087704,43.312092
+2023-390660,2023-08-10,000001,Vente,308750,,,PUJAU,B075,31430,31317,Marignac-Lasclares,31,,,313170000A0696,,,,,,,,,,,,,0,,,,,J,jardins,,,77,1.088115,43.312261
+2023-390660,2023-08-10,000001,Vente,308750,,,PUJAU,B075,31430,31317,Marignac-Lasclares,31,,,313170000A0698,,,,,,,,,,,,,0,,,,,P,prés,,,233,1.088129,43.31198
+2023-390660,2023-08-10,000001,Vente,308750,,,PUJAU,B075,31430,31317,Marignac-Lasclares,31,,,313170000A0703,,,,,,,,,,,,,0,,,,,T,terres,,,18,1.088019,43.311763
+2023-392328,2023-11-10,000001,Vente,252000,5002,F,DUFAUR OUEST,B029,31430,31317,Marignac-Lasclares,31,,,313170000B0602,,,,,,,,,,,,,0,1,Maison,100,5,AG,terrains d'agrément,,,1198,1.112467,43.310157
+2023-392328,2023-11-10,000001,Vente,252000,5002,F,DUFAUR OUEST,B029,31430,31317,Marignac-Lasclares,31,,,313170000B0602,,,,,,,,,,,,,0,1,Maison,100,5,S,sols,,,1000,1.112467,43.310157
+2023-393031,2023-12-15,000001,Vente,3000,,,LES ROUGES,B078,31430,31317,Marignac-Lasclares,31,,,313170000A0794,,,,,,,,,,,,,0,,,,,P,prés,,,160,1.104086,43.305396
+2023-393031,2023-12-15,000001,Vente,3000,,,LES ROUGES,B078,31430,31317,Marignac-Lasclares,31,,,313170000A0796,,,,,,,,,,,,,0,,,,,P,prés,,,1651,1.10378,43.305254
+2023-393232,2023-12-21,000001,Vente,300,,,CASTEX,B013,31430,31317,Marignac-Lasclares,31,,,313170000C0196,,,,,,,,,,,,,0,,,,,J,jardins,,,260,1.09256,43.296477

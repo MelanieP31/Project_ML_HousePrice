@@ -1,0 +1,37 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-387150,2023-02-22,000001,Vente,500,,,BORDE DELLUC,B017,31580,31586,Villeneuve-Lécussan,31,,,31586000AL0015,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,1814,0.486683,43.132804
+2023-387150,2023-02-22,000001,Vente,500,,,PUJOLS,B077,31580,31586,Villeneuve-Lécussan,31,,,31586000AL0127,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,1526,0.499772,43.135085
+2023-388566,2023-04-28,000002,Vente,106200,1765,,RTE DES PYRENEES,0041,31580,31586,Villeneuve-Lécussan,31,,,31586000AD0323,,,,,,,,,,,,,0,,,,,S,sols,,,1356,0.479362,43.139036
+2023-389217,2023-06-13,000001,Vente,185830,,,VILLAGE,B100,31580,31586,Villeneuve-Lécussan,31,,,31586000AE0192,,,,,,,,,,,,,0,,,,,T,terres,,,865,0.495255,43.146607
+2023-389217,2023-06-13,000001,Vente,185830,,,VILLAGE,B100,31580,31586,Villeneuve-Lécussan,31,,,31586000AE0193,,,,,,,,,,,,,0,,,,,S,sols,,,248,0.49521,43.146667
+2023-389217,2023-06-13,000001,Vente,185830,151,,RTE DES PYRENEES,0041,31580,31586,Villeneuve-Lécussan,31,,,31586000AE0194,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1085,0.495559,43.146942
+2023-389217,2023-06-13,000001,Vente,185830,151,,RTE DES PYRENEES,0041,31580,31586,Villeneuve-Lécussan,31,,,31586000AE0194,,,,,,,,,,,,,0,1,Maison,150,3,S,sols,,,1085,0.495559,43.146942
+2023-389217,2023-06-13,000001,Vente,185830,151,,RTE DES PYRENEES,0041,31580,31586,Villeneuve-Lécussan,31,,,31586000AE0194,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1085,0.495559,43.146942
+2023-389217,2023-06-13,000001,Vente,185830,,,VILLAGE,B100,31580,31586,Villeneuve-Lécussan,31,,,31586000AE0195,,,,,,,,,,,,,0,,,,,J,jardins,,,410,0.495673,43.147097
+2023-389217,2023-06-13,000001,Vente,185830,,,VILLAGE,B100,31580,31586,Villeneuve-Lécussan,31,,,31586000AE0197,,,,,,,,,,,,,0,,,,,T,terres,,,465,0.495991,43.147393
+2023-389217,2023-06-13,000001,Vente,185830,,,VILLAGE,B100,31580,31586,Villeneuve-Lécussan,31,,,31586000AE0198,,,,,,,,,,,,,0,,,,,P,prés,,,16118,0.496197,43.146736
+2023-389217,2023-06-13,000001,Vente,185830,,,VILLAGE,B100,31580,31586,Villeneuve-Lécussan,31,,,31586000AE0198,,,,,,,,,,,,,0,,,,,P,prés,,,5372,0.496197,43.146736
+2023-389862,2023-07-13,000001,Vente,32886,,,SAINT MARTIN,B083,31580,31586,Villeneuve-Lécussan,31,,,31586000AC0374,,,,,,,,,,,,,0,,,,,T,terres,,,1111,0.46484,43.136659
+2023-389862,2023-07-13,000001,Vente,32886,,,SAINT MARTIN,B083,31580,31586,Villeneuve-Lécussan,31,,,31586000AC0380,,,,,,,,,,,,,0,,,,,L,landes,FRICH,Friche,716,0.465044,43.136749
+2023-390157,2023-07-13,000001,Vente,20000,,,CASTELVIEL,B027,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0057,,,,,,,,,,,,,0,,,,,P,prés,,,5645,0.523666,43.157121
+2023-390157,2023-07-13,000001,Vente,20000,,,PEYMOULIES,B070,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0106,,,,,,,,,,,,,0,,,,,L,landes,PATUR,Pâture plantée,2264,0.515466,43.147388
+2023-390157,2023-07-13,000001,Vente,20000,,,PEYMOULIES,B070,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0107,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,801,0.514887,43.147569
+2023-390157,2023-07-13,000001,Vente,20000,,,PEYMOULIES,B070,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0121,,,,,,,,,,,,,0,,,,,T,terres,,,2226,0.514979,43.146648
+2023-390157,2023-07-13,000001,Vente,20000,,,PEYMOULIES,B070,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0122,,,,,,,,,,,,,0,,,,,T,terres,,,3834,0.515254,43.146281
+2023-390157,2023-07-13,000001,Vente,20000,,,PEYMOULIES,B070,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0123,,,,,,,,,,,,,0,,,,,T,terres,,,6422,0.51397,43.14614
+2023-390157,2023-07-13,000001,Vente,20000,,,PEYMOULIES,B070,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0124,,,,,,,,,,,,,0,,,,,T,terres,,,4002,0.515239,43.146001
+2023-390157,2023-07-13,000001,Vente,20000,,,PEYMOULIES,B070,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0125,,,,,,,,,,,,,0,,,,,T,terres,,,1516,0.515091,43.14568
+2023-390157,2023-07-13,000001,Vente,20000,,,PEYMOULIES,B070,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0128,,,,,,,,,,,,,0,,,,,J,jardins,,,755,0.516921,43.144144
+2023-390157,2023-07-13,000001,Vente,20000,,,PEYMOULIES,B070,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0129,,,,,,,,,,,,,0,,,,,P,prés,,,7636,0.515932,43.144829
+2023-390157,2023-07-13,000001,Vente,20000,,,PEYMOULIES,B070,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0129,,,,,,,,,,,,,0,,,,,P,prés,,,15274,0.515932,43.144829
+2023-390157,2023-07-13,000001,Vente,20000,,,PEYMOULIES,B070,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0130,,,,,,,,,,,,,0,,,,,T,terres,,,3343,0.513922,43.145745
+2023-390157,2023-07-13,000001,Vente,20000,,,PEYMOULIES,B070,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0131,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,2339,0.513482,43.145362
+2023-390157,2023-07-13,000001,Vente,20000,,,BOIS DE BUALA,B016,31580,31586,Villeneuve-Lécussan,31,,,31586000AK0011,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,3639,0.504382,43.14406
+2023-390157,2023-07-13,000001,Vente,20000,,,BOIS DE BUALA,B016,31580,31586,Villeneuve-Lécussan,31,,,31586000AK0012,,,,,,,,,,,,,0,,,,,P,prés,,,12760,0.503994,43.144644
+2023-390217,2023-07-20,000001,Vente,5500,,,LE PUJOS,B078,31580,31586,Villeneuve-Lécussan,31,,,31586000AB0091,,,,,,,,,,,,,0,,,,,T,terres,,,8189,0.462972,43.13194
+2023-390546,2023-08-16,000001,Vente,6000,,,MAUPEOU,B059,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0145,,,,,,,,,,,,,0,,,,,VI,vignes,,,2080,0.514012,43.146866
+2023-390546,2023-08-16,000001,Vente,6000,,,MAUPEOU,B059,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0146,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,2965,0.514402,43.147509
+2023-390546,2023-08-16,000001,Vente,6000,,,MAUPEOU,B059,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0147,,,,,,,,,,,,,0,,,,,T,terres,,,15705,0.51386,43.147663
+2023-390546,2023-08-16,000001,Vente,6000,,,MAUPEOU,B059,31580,31586,Villeneuve-Lécussan,31,,,31586000AI0148,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,15835,0.513277,43.148411
+2023-391053,2023-09-14,000001,Vente,1500,,,LASPLAGNES,B055,31580,31586,Villeneuve-Lécussan,31,,,31586000AL0206,,,,,,,,,,,,,0,,,,,T,terres,,,6548,0.491263,43.132242
+2023-391374,2023-09-30,000001,Vente,2500,,,ESCOURTATS,B033,31580,31586,Villeneuve-Lécussan,31,,,31586000AN0070,,,,,,,,,,,,,0,,,,,T,terres,,,2639,0.46557,43.129977

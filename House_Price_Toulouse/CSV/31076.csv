@@ -1,0 +1,14 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-390374,2023-07-17,000001,Vente,70000,,,PRES DES BOURDALATS,B046,31210,31076,Bordes-de-Rivière,31,,,310760000B0185,,,,,,,,,,,,,0,,,,,P,prés,,,4260,0.630949,43.118881
+2023-390803,2023-08-25,000001,Vente,4000,,,LALERE,B031,31210,31076,Bordes-de-Rivière,31,,,31076000ZE0145,,,,,,,,,,,,,0,,,,,P,prés,,,3363,0.63694,43.105179
+2023-390803,2023-08-25,000001,Vente,4000,,,LALERE,B031,31210,31076,Bordes-de-Rivière,31,,,31076000ZE0146,,,,,,,,,,,,,0,,,,,P,prés,,,3067,0.637175,43.104244
+2023-392186,2023-11-14,000001,Vente,3000,,,LES PRES D HIERLE,B045,31210,31076,Bordes-de-Rivière,31,,,31076000ZE0057,,,,,,,,,,,,,0,,,,,P,prés,,,5009,0.652059,43.111406
+2023-392552,2023-11-14,000001,Vente,15800,,,LES CHANTINS,B018,31210,31076,Bordes-de-Rivière,31,,,31076000ZC0072,,,,,,,,,,,,,0,,,,,BS,taillis sous futaie,,,2300,0.639922,43.13405
+2023-392552,2023-11-14,000001,Vente,15800,,,LUCET,B034,31210,31076,Bordes-de-Rivière,31,,,31076000ZE0030,,,,,,,,,,,,,0,,,,,P,prés,,,18622,0.639531,43.10953
+2023-393099,2023-12-14,000001,Vente,50000,,,LE VILLAGE,B049,31210,31076,Bordes-de-Rivière,31,,,310760000C0578,,,,,,,,,,,,,0,,,,,P,prés,,,285,0.632956,43.105997
+2023-393099,2023-12-14,000001,Vente,50000,,,LE VILLAGE,B049,31210,31076,Bordes-de-Rivière,31,,,310760000C0579,,,,,,,,,,,,,0,,,,,S,sols,,,380,0.633092,43.105874
+2023-393099,2023-12-14,000001,Vente,50000,2,,RUE DE DEVANT,0034,31210,31076,Bordes-de-Rivière,31,,,310760000C0580,,,,,,,,,,,,,0,1,Maison,65,3,S,sols,,,735,0.633249,43.105941
+2023-393099,2023-12-14,000001,Vente,50000,,,LE VILLAGE,B049,31210,31076,Bordes-de-Rivière,31,,,310760000C0581,,,,,,,,,,,,,0,,,,,P,prés,,,570,0.633542,43.105917
+2023-393159,2023-12-18,000001,Vente,3500,,,LES CHAMPS DE LA COMME,B013,31210,31076,Bordes-de-Rivière,31,,,310760000B0447,,,,,,,,,,,,,0,,,,,T,terres,,,2495,0.636369,43.126527
+2023-393159,2023-12-18,000001,Vente,3500,,,LES CHAMPS DE LA COMME,B013,31210,31076,Bordes-de-Rivière,31,,,310760000B0882,,,,,,,,,,,,,0,,,,,T,terres,,,1920,0.637066,43.125656
+2023-393159,2023-12-18,000001,Vente,3500,,,LES PAYS,B040,31210,31076,Bordes-de-Rivière,31,,,31076000ZA0038,,,,,,,,,,,,,0,,,,,T,terres,,,6301,0.620968,43.130338

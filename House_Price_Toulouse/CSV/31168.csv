@@ -1,0 +1,9 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-392664,2023-11-29,000001,Vente,73000,,,LES CAMEAUX,B011,31420,31168,Eoux,31,,,31168000ZE0028,,,,,,,,,,,,,0,,,,,T,terres,,,4724,0.88627,43.270818
+2023-392664,2023-11-29,000001,Vente,73000,,,LES CAMEAUX,B011,31420,31168,Eoux,31,,,31168000ZE0028,,,,,,,,,,,,,0,,,,,T,terres,,,4725,0.88627,43.270818
+2023-392729,2023-12-11,000001,Vente,172500,510,,RTE DEL BOSC,0009,31420,31168,Eoux,31,,,31168000ZA0014,,,,,,,,,,,,,0,1,Maison,186,5,S,sols,,,1689,0.885291,43.28907
+2023-392729,2023-12-11,000001,Vente,172500,,,LE PAS DE LA HERLLE,B044,31420,31168,Eoux,31,,,31168000ZA0036,,,,,,,,,,,,,0,,,,,P,prés,,,2547,0.884754,43.289676
+2023-392729,2023-12-11,000001,Vente,172500,,,LE PAS DE LA HERLLE,B044,31420,31168,Eoux,31,,,31168000ZA0036,,,,,,,,,,,,,0,,,,,L,landes,,,7776,0.884754,43.289676
+2023-392729,2023-12-11,000001,Vente,172500,,,LE PAS DE LA HERLLE,B044,31420,31168,Eoux,31,,,31168000ZA0036,,,,,,,,,,,,,0,,,,,T,terres,,,20710,0.884754,43.289676
+2023-392729,2023-12-11,000001,Vente,172500,,,LE PAS DE LA HERLLE,B044,31420,31168,Eoux,31,,,31168000ZA0036,,,,,,,,,,,,,0,,,,,J,jardins,,,817,0.884754,43.289676
+2023-392729,2023-12-11,000001,Vente,172500,,,LE PIOC,B049,31420,31168,Eoux,31,,,31168000ZB0009,,,,,,,,,,,,,0,,,,,T,terres,,,13795,0.885587,43.288634

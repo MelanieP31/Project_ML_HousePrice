@@ -1,0 +1,15 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-388203,2023-04-14,000001,Vente,150,,,SASTRADE,B031,31440,31177,Eup,31,,,311770000A1018,,,,,,,,,,,,,0,,,,,P,prés,,,364,0.684187,42.928112
+2023-388374,2023-04-14,000001,Vente,43000,,,SASTRADE,B031,31440,31177,Eup,31,,,311770000A1017,,,,,,,,,,,,,0,,,,,P,prés,,,1641,0.684091,42.927945
+2023-388926,2023-05-24,000001,Vente,24000,,,SASTRADE,B031,31440,31177,Eup,31,,,311770000A0377,,,,,,,,,,,,,0,,,,,T,terres,,,521,0.686075,42.926882
+2023-388926,2023-05-24,000001,Vente,24000,,,SASTRADE,B031,31440,31177,Eup,31,,,311770000A0793,,,,,,,,,,,,,0,,,,,T,terres,,,337,0.686208,42.926962
+2023-388926,2023-05-24,000001,Vente,24000,,,SASTRADE,B031,31440,31177,Eup,31,,,311770000A0795,,,,,,,,,,,,,0,,,,,S,sols,,,76,0.686418,42.926853
+2023-389909,2023-07-01,000001,Vente,101000,6,,RUE DE BAVART,0055,31440,31177,Eup,31,,,311770000A0365,,,,,,,,,,,,,0,1,Maison,72,4,S,sols,,,500,0.684593,42.927743
+2023-389909,2023-07-01,000001,Vente,101000,6,,RUE DE BAVART,0055,31440,31177,Eup,31,,,311770000A0365,,,,,,,,,,,,,0,1,Maison,72,4,AG,terrains d'agrément,PARC,Parc,1510,0.684593,42.927743
+2023-392746,2023-12-08,000001,Vente,110000,9,,RUE DU PIC DU GAR,0060,31440,31177,Eup,31,,,311770000A0370,,,,,,,,,,,,,0,1,Maison,60,3,J,jardins,,,807,0.685084,42.927443
+2023-392746,2023-12-08,000001,Vente,110000,9,,RUE DU PIC DU GAR,0060,31440,31177,Eup,31,,,311770000A0370,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,500,0.685084,42.927443
+2023-392746,2023-12-08,000001,Vente,110000,9,,RUE DU PIC DU GAR,0060,31440,31177,Eup,31,,,311770000A0370,,,,,,,,,,,,,0,1,Maison,60,3,S,sols,,,500,0.685084,42.927443
+2023-392746,2023-12-08,000001,Vente,110000,9,,RUE DU PIC DU GAR,0060,31440,31177,Eup,31,,,311770000A0370,,,,,,,,,,,,,0,3,Dépendance,,0,J,jardins,,,807,0.685084,42.927443
+2023-393304,2023-12-28,000001,Vente,179000,,,LA LANO,B020,31440,31177,Eup,31,,,311770000A0868,,,,,,,,,,,,,0,,,,,T,terres,,,6294,0.681508,42.925157
+2023-393304,2023-12-28,000001,Vente,179000,,,SABADIO,B028,31440,31177,Eup,31,,,311770000A0871,,,,,,,,,,,,,0,,,,,S,sols,,,156,0.680823,42.924689
+2023-393304,2023-12-28,000001,Vente,179000,,,CAMPAS,B007,31440,31177,Eup,31,,,311770000A1101,,,,,,,,,,,,,0,,,,,T,terres,,,661,0.680697,42.924899

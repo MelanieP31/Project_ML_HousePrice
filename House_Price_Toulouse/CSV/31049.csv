@@ -1,0 +1,16 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-368539,2023-02-28,000001,Vente,268000,615,,RTE DE GARGAS,0020,31380,31049,Bazus,31,,,31049000ZK0034,,,,,,,,,,,,,0,1,Maison,94,4,S,sols,,,1034,1.509519,43.737659
+2023-368539,2023-02-28,000001,Vente,268000,615,,RTE DE GARGAS,0020,31380,31049,Bazus,31,,,31049000ZK0034,,,,,,,,,,,,,0,1,Maison,94,4,T,terres,,,1206,1.509519,43.737659
+2023-368539,2023-02-28,000001,Vente,268000,645,,RTE DE GARGAS,0020,31380,31049,Bazus,31,,,31049000ZK0035,,,,,,,,,,,,,0,1,Maison,101,4,S,sols,,,390,1.509341,43.73769
+2023-368539,2023-02-28,000001,Vente,268000,,,LA MOTHE,B030,31380,31049,Bazus,31,,,31049000ZK0036,,,,,,,,,,,,,0,,,,,S,sols,,,500,1.509272,43.737762
+2023-368539,2023-02-28,000001,Vente,268000,,,LA MOTHE,B030,31380,31049,Bazus,31,,,31049000ZK0037,,,,,,,,,,,,,0,,,,,S,sols,,,300,1.509179,43.737781
+2023-368539,2023-02-28,000001,Vente,268000,,,LA MOTHE,B030,31380,31049,Bazus,31,,,31049000ZK0037,,,,,,,,,,,,,0,,,,,T,terres,,,1130,1.509179,43.737781
+2023-371515,2023-04-21,000001,Vente,150000,1470,,RTE DE CASTELNAU,0016,31380,31049,Bazus,31,,,31049000ZK0073,,,,,,,,,,,,,0,1,Maison,90,4,T,terres,,,278,1.50045,43.733545
+2023-371515,2023-04-21,000001,Vente,150000,1470,,RTE DE CASTELNAU,0016,31380,31049,Bazus,31,,,31049000ZK0073,,,,,,,,,,,,,0,1,Maison,90,4,S,sols,,,3722,1.50045,43.733545
+2023-380709,2023-09-21,000001,Vente terrain à bâtir,80000,,,BORDENAOUTE,B006,31380,31049,Bazus,31,,,31049000ZI0170,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,480,1.520845,43.733648
+2023-380720,2023-09-26,000001,Vente terrain à bâtir,139800,,,BORDENAOUTE,B006,31380,31049,Bazus,31,,,31049000ZI0173,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,522,1.520727,43.733293
+2023-380720,2023-09-26,000001,Vente terrain à bâtir,139800,,,BORDENAOUTE,B006,31380,31049,Bazus,31,,,31049000ZI0185,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,360,1.520628,43.733084
+2023-382499,2023-10-25,000001,Vente,102900,,,BORDENAOUTE,B006,31380,31049,Bazus,31,,,31049000ZI0169,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,741,1.520056,43.734029
+2023-382866,2023-11-09,000001,Vente,90000,2,,RTE DE LAPEYROUSE,0025,31380,31049,Bazus,31,,,31049000ZD0080,,,,,,,,,,,,,0,1,Maison,100,3,S,sols,,,390,1.518041,43.735013
+2023-383582,2023-11-08,000001,Vente,139800,,,BORDENAOUTE,B006,31380,31049,Bazus,31,,,31049000ZI0172,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,651,1.520961,43.73324
+2023-383582,2023-11-08,000001,Vente,139800,,,BORDENAOUTE,B006,31380,31049,Bazus,31,,,31049000ZI0184,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,355,1.520913,43.733031

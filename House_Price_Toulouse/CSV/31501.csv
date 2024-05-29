@@ -1,0 +1,14 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-366126,2023-01-24,000002,Vente,3500,,,QUARTIER DU CHATEAU,B023,31590,31501,Saint-Marcel-Paulel,31,,,31501000ZI0065,,,,,,,,,,,,,0,,,,,T,terres,,,917,1.613343,43.651173
+2023-370709,2023-03-27,000001,Vente,200000,22,,CHE DE NAGEN,0105,31590,31501,Saint-Marcel-Paulel,31,,,31501000ZB0159,,,,,,,,,,,,,0,,,,,S,sols,,,475,,
+2023-370709,2023-03-27,000001,Vente,200000,22,,CHE DE NAGEN,0105,31590,31501,Saint-Marcel-Paulel,31,,,31501000ZB0159,,,,,,,,,,,,,0,,,,,T,terres,,,3000,,
+2023-372073,2023-04-21,000002,Vente,125000,,,LA TUILERIE,B027,31590,31501,Saint-Marcel-Paulel,31,,,31501000ZN0004,,,,,,,,,,,,,0,,,,,T,terres,,,40429,,
+2023-372073,2023-04-21,000002,Vente,125000,,,LA TUILERIE,B027,31590,31501,Saint-Marcel-Paulel,31,,,31501000ZN0005,,,,,,,,,,,,,0,,,,,T,terres,,,11726,,
+2023-377393,2023-07-19,000001,Vente,341250,16,T,CHE DE NAGEN,0105,31590,31501,Saint-Marcel-Paulel,31,,,31501000ZB0157,,,,,,,,,,,,,0,1,Maison,106,4,S,sols,,,1047,1.616476,43.666561
+2023-377393,2023-07-19,000001,Vente,341250,16,T,CHE DE NAGEN,0105,31590,31501,Saint-Marcel-Paulel,31,,,31501000ZB0157,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1047,1.616476,43.666561
+2023-381124,2023-09-27,000001,Vente,130000,12,,HAMEAU D'EN LANCE,B045,31590,31501,Saint-Marcel-Paulel,31,,,31501000ZH0095,,,,,,,,,,,,,0,1,Maison,50,2,S,sols,,,276,1.623854,43.649518
+2023-382901,2023-11-08,000002,Vente,94500,43,,RTE D'AGDE,0005,31590,31501,Saint-Marcel-Paulel,31,,,31501000ZD0038,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,747,1.62693,43.651727
+2023-383570,2023-11-08,000001,Vente,94500,43,,RTE D'AGDE,0005,31590,31501,Saint-Marcel-Paulel,31,,,31501000ZD0039,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,1062,1.627254,43.651742
+2023-384779,2023-12-11,000001,Vente,725000,9,,CHE D'ESCALONNE,0045,31590,31501,Saint-Marcel-Paulel,31,,,31501000ZE0009,,,,,,,,,,,,,0,1,Maison,254,4,S,sols,,,2379,1.632486,43.648403
+2023-384779,2023-12-11,000001,Vente,725000,9,,CHE D'ESCALONNE,0045,31590,31501,Saint-Marcel-Paulel,31,,,31501000ZE0009,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,2379,1.632486,43.648403
+2023-384779,2023-12-11,000001,Vente,725000,,,LA TUILERIE,B027,31590,31501,Saint-Marcel-Paulel,31,,,31501000ZE0016,,,,,,,,,,,,,0,,,,,T,terres,,,29200,1.632324,43.647786

@@ -1,0 +1,11 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-386427,2023-01-24,000001,Vente,16000,,,BARBAZAN,B002,31470,31101,Cambernard,31,,,311010000B0954,,,,,,,,,,,,,0,,,,,T,terres,,,7286,1.179916,43.459129
+2023-386427,2023-01-24,000001,Vente,16000,,,BARBAZAN,B002,31470,31101,Cambernard,31,,,311010000B0956,,,,,,,,,,,,,0,,,,,T,terres,,,1892,1.180643,43.458894
+2023-388293,2023-04-20,000001,Vente,30000,,,CABANES,B011,31470,31101,Cambernard,31,,,311010000B1011,,,,,,,,,,,,,0,,,,,P,prés,,,956,1.190853,43.465232
+2023-388293,2023-04-20,000001,Vente,30000,,,CABANES,B011,31470,31101,Cambernard,31,,,311010000B1051,,,,,,,,,,,,,0,,,,,S,sols,,,1203,1.190731,43.465469
+2023-388470,2023-04-18,000001,Vente,14000,,,LAPILE,B030,31470,31101,Cambernard,31,,,311010000B0168,,,,,,,,,,,,,0,,,,,T,terres,,,5632,1.187667,43.454858
+2023-390255,2023-07-18,000001,Vente,551527,848,,RTE DE LESPIN,0124,31470,31101,Cambernard,31,,,311010000A0823,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1000,1.189424,43.472665
+2023-390255,2023-07-18,000001,Vente,551527,848,,RTE DE LESPIN,0124,31470,31101,Cambernard,31,,,311010000A0823,,,,,,,,,,,,,0,1,Maison,130,4,J,jardins,,,1500,1.189424,43.472665
+2023-390255,2023-07-18,000001,Vente,551527,848,,RTE DE LESPIN,0124,31470,31101,Cambernard,31,,,311010000A0823,,,,,,,,,,,,,0,3,Dépendance,,0,J,jardins,,,1500,1.189424,43.472665
+2023-390255,2023-07-18,000001,Vente,551527,848,,RTE DE LESPIN,0124,31470,31101,Cambernard,31,,,311010000A0823,,,,,,,,,,,,,0,1,Maison,130,4,S,sols,,,1000,1.189424,43.472665
+2023-392973,2023-12-28,000001,Vente,70000,,,CHATEAU,B014,31470,31101,Cambernard,31,,,311010000A0914,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,810,1.179278,43.473642

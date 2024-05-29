@@ -1,0 +1,19 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-389025,2023-05-17,000001,Vente,11600,,,SEIGLANE,B027,31390,31525,Salles-sur-Garonne,31,,,315250000A0192,,,,,,,,,,,,,0,,,,,L,landes,,,3475,1.170497,43.276143
+2023-389025,2023-05-17,000001,Vente,11600,,,SEIGLANE,B027,31390,31525,Salles-sur-Garonne,31,,,315250000A0193,,,,,,,,,,,,,0,,,,,T,terres,,,1935,1.1705,43.275701
+2023-389025,2023-05-17,000001,Vente,11600,,,SEIGLANE,B027,31390,31525,Salles-sur-Garonne,31,,,315250000A1019,,,,,,,,,,,,,0,,,,,T,terres,,,957,1.171021,43.276292
+2023-389025,2023-05-17,000001,Vente,11600,,,SEIGLANE,B027,31390,31525,Salles-sur-Garonne,31,,,315250000A1021,,,,,,,,,,,,,0,,,,,T,terres,,,152,1.170825,43.276539
+2023-389025,2023-05-17,000001,Vente,11600,,,SEIGLANE,B027,31390,31525,Salles-sur-Garonne,31,,,315250000A1023,,,,,,,,,,,,,0,,,,,T,terres,,,2582,1.171002,43.275924
+2023-389025,2023-05-17,000001,Vente,11600,,,SEIGLANE,B027,31390,31525,Salles-sur-Garonne,31,,,315250000A1025,,,,,,,,,,,,,0,,,,,T,terres,,,2462,1.171197,43.275746
+2023-389076,2023-05-16,000001,Vente,312050,6,B,PROM DU BAC,0022,31390,31525,Salles-sur-Garonne,31,,,315250000A0993,,,,,,,,,,,,,0,1,Maison,99,4,S,sols,,,880,1.173308,43.270402
+2023-389639,2023-06-29,000001,Vente,83000,,,LABUSQUERE,B014,31390,31525,Salles-sur-Garonne,31,,,315250000B0871,,,,,,,,,,,,,0,,,,,T,terres,,,818,1.182198,43.276005
+2023-390037,2023-07-19,000001,Vente,336000,5003,F,LAFFORGUE,B017,31390,31525,Salles-sur-Garonne,31,,,315250000A0862,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1000,1.160721,43.263049
+2023-390037,2023-07-19,000001,Vente,336000,5003,F,LAFFORGUE,B017,31390,31525,Salles-sur-Garonne,31,,,315250000A0862,,,,,,,,,,,,,0,1,Maison,132,4,S,sols,,,1000,1.160721,43.263049
+2023-390037,2023-07-19,000001,Vente,336000,5003,F,LAFFORGUE,B017,31390,31525,Salles-sur-Garonne,31,,,315250000A0862,,,,,,,,,,,,,0,1,Maison,132,4,AG,terrains d'agrément,PARC,Parc,1065,1.160721,43.263049
+2023-390037,2023-07-19,000001,Vente,336000,5003,F,LAFFORGUE,B017,31390,31525,Salles-sur-Garonne,31,,,315250000A0862,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,PARC,Parc,1065,1.160721,43.263049
+2023-390037,2023-07-19,000001,Vente,336000,,,LAFFORGUE,B017,31390,31525,Salles-sur-Garonne,31,,,315250000A0863,,,,,,,,,,,,,0,,,,,S,sols,,,55,1.161146,43.262973
+2023-390038,2023-07-10,000001,Vente,75000,,,LABUSQUERE,B014,31390,31525,Salles-sur-Garonne,31,,,315250000B0870,,,,,,,,,,,,,0,,,,,T,terres,,,127,1.182373,43.275929
+2023-390038,2023-07-10,000001,Vente,75000,,,LABUSQUERE,B014,31390,31525,Salles-sur-Garonne,31,,,315250000B0878,,,,,,,,,,,,,0,,,,,T,terres,,,545,1.182603,43.275895
+2023-392886,2023-12-19,000001,Vente,409150,7,,LAMEDAN,B019,31390,31525,Salles-sur-Garonne,31,,,315250000B0607,,,,,,,,,,,,,0,1,Maison,125,4,AG,terrains d'agrément,PARC,Parc,2202,1.18327,43.276312
+2023-392886,2023-12-19,000001,Vente,409150,7,,LAMEDAN,B019,31390,31525,Salles-sur-Garonne,31,,,315250000B0607,,,,,,,,,,,,,0,1,Maison,125,4,S,sols,,,1000,1.18327,43.276312
+2023-392886,2023-12-19,000001,Vente,409150,,,LAMEDAN,B019,31390,31525,Salles-sur-Garonne,31,,,315250000B0608,,,,,,,,,,,,,0,,,,,P,prés,,,419,1.183408,43.276556

@@ -1,0 +1,19 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-387120,2023-02-07,000001,Vente,85000,,,LOUIS,B024,31370,31051,Beaufort,31,,,310510000A0423,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,1041,1.126295,43.462885
+2023-387265,2023-03-02,000001,Vente,120000,,,LA PAULOUNE,B033,31370,31051,Beaufort,31,,,310510000B0446,,,,,,,,,,,,,0,,,,,P,prés,,,371,1.125217,43.45581
+2023-387265,2023-03-02,000001,Vente,120000,,,LA PAULOUNE,B033,31370,31051,Beaufort,31,,,310510000B0449,,,,,,,,,,,,,0,,,,,P,prés,,,2106,1.124913,43.455675
+2023-387265,2023-03-02,000001,Vente,120000,,,LA PAULOUNE,B033,31370,31051,Beaufort,31,,,310510000B0451,,,,,,,,,,,,,0,,,,,P,prés,,,23,1.124866,43.455452
+2023-388928,2023-05-25,000001,Vente,1280,,,BARES OUEST,B002,31370,31051,Beaufort,31,,,310510000C0234,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,3580,1.103744,43.451821
+2023-389705,2023-06-07,000001,Vente,22700,,,GOSES EST,B018,31370,31051,Beaufort,31,,,310510000C0248,,,,,,,,,,,,,0,,,,,T,terres,,,4800,1.109891,43.449505
+2023-389705,2023-06-07,000001,Vente,22700,,,GOSES EST,B018,31370,31051,Beaufort,31,,,310510000C0292,,,,,,,,,,,,,0,,,,,T,terres,,,24820,1.108491,43.449343
+2023-390736,2023-08-28,000001,Vente,15000,,,TREMOULADOS,B040,31370,31051,Beaufort,31,,,310510000A0143,,,,,,,,,,,,,0,,,,,T,terres,,,50200,,
+2023-391098,2023-09-08,000001,Vente,17200,,,GOSES EST,B018,31370,31051,Beaufort,31,,,310510000C0255,,,,,,,,,,,,,0,,,,,T,terres,,,7570,1.11094,43.447187
+2023-391098,2023-09-08,000001,Vente,17200,,,GOSES EST,B018,31370,31051,Beaufort,31,,,310510000C0256,,,,,,,,,,,,,0,,,,,T,terres,,,14690,1.112016,43.447668
+2023-391361,2023-08-31,000001,Echange,24227,,,LE MONA,B026,31370,31051,Beaufort,31,,,310510000C0093,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,7310,1.097833,43.443799
+2023-391361,2023-08-31,000001,Echange,24227,,,LE MONA,B026,31370,31051,Beaufort,31,,,310510000C0096,,,,,,,,,,,,,0,,,,,T,terres,,,12320,1.098749,43.445994
+2023-391361,2023-08-31,000001,Echange,24227,,,LE MONA,B026,31370,31051,Beaufort,31,,,310510000C0097,,,,,,,,,,,,,0,,,,,T,terres,,,5440,1.097414,43.445734
+2023-391361,2023-08-31,000001,Echange,24227,,,LE MONA,B026,31370,31051,Beaufort,31,,,310510000C0528,,,,,,,,,,,,,0,,,,,T,terres,,,12590,1.097108,43.446078
+2023-392236,2023-10-26,000001,Vente,3000,,,MILLET,B025,31370,31051,Beaufort,31,,,310510000B0085,,,,,,,,,,,,,0,,,,,T,terres,,,4190,1.131349,43.456764
+2023-392311,2023-10-27,000001,Vente,108825.26,187,,CHE DE MONTGRAS,0060,31370,31051,Beaufort,31,,,310510000C0518,,,,,,,,,,,,,0,1,Maison,107,4,S,sols,,,1151,1.110769,43.457586
+2023-392822,2023-12-15,000001,Vente,321200,54,,IMP CHEMIN DE LA GLOIRE,0019,31370,31051,Beaufort,31,,,310510000A0512,,,,,,,,,,,,,0,1,Maison,132,5,S,sols,,,1800,1.113638,43.460571
+2023-392822,2023-12-15,000001,Vente,321200,,,BERDIE,B004,31370,31051,Beaufort,31,,,310510000A0537,,,,,,,,,,,,,0,,,,,T,terres,,,700,1.113872,43.460515

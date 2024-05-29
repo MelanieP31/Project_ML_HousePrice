@@ -1,0 +1,41 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-387027,2023-02-22,000001,Vente,205400,7,,RUE DE SOUSTRADE,0430,31430,31476,Saint-Élix-le-Château,31,,,314760000A2091,,,,,,,,,,,,,0,1,Maison,113,4,S,sols,,,222,1.141389,43.280083
+2023-387167,2023-03-02,000001,Vente,7000,,,LES BAYLOUS,B002,31430,31476,Saint-Élix-le-Château,31,,,314760000A0674,,,,,,,,,,,,,0,,,,,T,terres,,,7873,1.127654,43.291867
+2023-387357,2023-02-20,000002,Vente,200000,,,BORIOS,B003,31430,31476,Saint-Élix-le-Château,31,,,314760000C0034,,,,,,,,,,,,,0,,,,,J,jardins,POTAG,Jardin potager,520,1.123569,43.283297
+2023-387357,2023-02-20,000002,Vente,200000,545,,CHE DE SALONGES,0420,31430,31476,Saint-Élix-le-Château,31,,,314760000C0035,,,,,,,,,,,,,0,1,Maison,80,3,S,sols,,,1050,1.123864,43.283632
+2023-387357,2023-02-20,000002,Vente,200000,,,BORIOS,B003,31430,31476,Saint-Élix-le-Château,31,,,314760000C0036,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,80,1.123983,43.283714
+2023-387357,2023-02-20,000002,Vente,200000,,,BORIOS,B003,31430,31476,Saint-Élix-le-Château,31,,,314760000C0348,,,,,,,,,,,,,0,,,,,S,sols,,,12,1.124001,43.283588
+2023-387568,2023-03-21,000001,Vente,122500,515,,ANCIENNE VOIE ROMAINE,0006,31430,31476,Saint-Élix-le-Château,31,,,314760000A1953,,,,,,,,,,,,,0,1,Maison,111,4,AG,terrains d'agrément,,,500,1.147489,43.283914
+2023-387568,2023-03-21,000001,Vente,122500,515,,ANCIENNE VOIE ROMAINE,0006,31430,31476,Saint-Élix-le-Château,31,,,314760000A1953,,,,,,,,,,,,,0,1,Maison,111,4,S,sols,,,1000,1.147489,43.283914
+2023-388744,2023-05-17,000001,Vente terrain à bâtir,30000,,,DESCAILLAUX,B008,31430,31476,Saint-Élix-le-Château,31,,,314760000D0373,,,,,,,,,,,,,0,,,,,T,terres,,,2379,1.127281,43.269831
+2023-389069,2023-06-08,000001,Vente,8000,,,LE VILLAGE,B025,31430,31476,Saint-Élix-le-Château,31,,,314760000A1121,,,,,,,,,,,,,0,,,,,S,sols,,,65,1.140716,43.279896
+2023-389936,2023-07-18,000001,Vente,11040,,,LES BAYLOUS,B002,31430,31476,Saint-Élix-le-Château,31,,,314760000A0674,,,,,,,,,,,,,0,,,,,T,terres,,,7873,1.127654,43.291867
+2023-390363,2023-08-04,000001,Vente,190000,11,,LES ALLEES,0005,31430,31476,Saint-Élix-le-Château,31,,,314760000A1539,,,,,,,,,,,,,0,1,Maison,97,4,S,sols,,,977,1.137355,43.282345
+2023-390866,2023-08-11,000001,Vente,298000,,,CASTAGNAC,B005,31430,31476,Saint-Élix-le-Château,31,,,314760000A1967,,,,,,,,,,,,,0,,,,,T,terres,,,786,1.146913,43.290181
+2023-390866,2023-08-11,000001,Vente,298000,1225,,RTE DE LAFITTE,0100,31430,31476,Saint-Élix-le-Château,31,,,314760000A1968,,,,,,,,,,,,,0,1,Maison,145,4,S,sols,,,1000,1.147293,43.290417
+2023-390866,2023-08-11,000001,Vente,298000,1225,,RTE DE LAFITTE,0100,31430,31476,Saint-Élix-le-Château,31,,,314760000A1968,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,,,2150,1.147293,43.290417
+2023-390866,2023-08-11,000001,Vente,298000,1225,,RTE DE LAFITTE,0100,31430,31476,Saint-Élix-le-Château,31,,,314760000A1968,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,,,2150,1.147293,43.290417
+2023-390866,2023-08-11,000001,Vente,298000,1225,,RTE DE LAFITTE,0100,31430,31476,Saint-Élix-le-Château,31,,,314760000A1968,,,,,,,,,,,,,0,1,Maison,145,4,AG,terrains d'agrément,,,2150,1.147293,43.290417
+2023-390866,2023-08-11,000001,Vente,298000,1225,,RTE DE LAFITTE,0100,31430,31476,Saint-Élix-le-Château,31,,,314760000A1968,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1000,1.147293,43.290417
+2023-390866,2023-08-11,000001,Vente,298000,1225,,RTE DE LAFITTE,0100,31430,31476,Saint-Élix-le-Château,31,,,314760000A1968,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1000,1.147293,43.290417
+2023-391160,2023-08-29,000001,Vente,250000,,,CASTAGNAC,B005,31430,31476,Saint-Élix-le-Château,31,,,314760000A2421,,,,,,,,,,,,,0,,,,,P,prés,,,4694,1.145732,43.28765
+2023-391160,2023-08-29,000001,Vente,250000,,,SANSAC,B018,31430,31476,Saint-Élix-le-Château,31,,,314760000A2423,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,4640,1.145306,43.288084
+2023-391160,2023-08-29,000001,Vente,250000,,,SANSAC,B018,31430,31476,Saint-Élix-le-Château,31,,,314760000A2425,,,,,,,,,,,,,0,,,,,T,terres,,,1891,1.145377,43.287676
+2023-391160,2023-08-29,000001,Vente,250000,,,SANSAC,B018,31430,31476,Saint-Élix-le-Château,31,,,314760000A2426,,,,,,,,,,,,,0,,,,,T,terres,,,92,1.145025,43.287961
+2023-391160,2023-08-29,000001,Vente,250000,925,,RTE DE LAFITTE,0100,31430,31476,Saint-Élix-le-Château,31,,,314760000A2428,,,,,,,,,,,,,0,1,Maison,240,1,,,,,,1.145697,43.287743
+2023-391176,2023-01-13,000001,Echange,1000,,,SANSAC,B018,31430,31476,Saint-Élix-le-Château,31,,,314760000A0311,,,,,,,,,,,,,0,,,,,T,terres,,,15880,1.142522,43.290252
+2023-391176,2023-01-13,000002,Echange,1000,,,LAHILLE,B013,31430,31476,Saint-Élix-le-Château,31,,,314760000A1835,,,,,,,,,,,,,0,,,,,T,terres,,,351,1.132155,43.28634
+2023-391176,2023-01-13,000002,Echange,1000,,,LA MANDILLE,B014,31430,31476,Saint-Élix-le-Château,31,,,314760000A1837,,,,,,,,,,,,,0,,,,,T,terres,,,2369,1.132426,43.286411
+2023-391176,2023-01-13,000002,Echange,1000,,,LA MANDILLE,B014,31430,31476,Saint-Élix-le-Château,31,,,314760000A1839,,,,,,,,,,,,,0,,,,,T,terres,,,6429,1.132882,43.286034
+2023-391396,2023-09-08,000001,Vente,148000,,,LE VILLAGE,B025,31430,31476,Saint-Élix-le-Château,31,,,314760000A0002,,,,,,,,,,,,,0,,,,,P,prés,,,4085,1.137242,43.279477
+2023-391396,2023-09-08,000001,Vente,148000,,,LE VILLAGE,B025,31430,31476,Saint-Élix-le-Château,31,,,314760000A0003,,,,,,,,,,,,,0,,,,,J,jardins,POTAG,Jardin potager,1835,1.13749,43.280075
+2023-391892,2023-10-13,000001,Vente,3500,,,SANSAC,B018,31430,31476,Saint-Élix-le-Château,31,,,314760000A0311,,,,,,,,,,,,,0,,,,,T,terres,,,15880,1.142522,43.290252
+2023-392081,2023-10-25,000001,Vente,82500,,,LE COMMUNAL,B007,31430,31476,Saint-Élix-le-Château,31,,,314760000A2207,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,677,1.136949,43.282429
+2023-392307,2023-11-10,000001,Vente,227000,21,,LES ALLEES,0005,31430,31476,Saint-Élix-le-Château,31,,,314760000A1534,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,975,1.137743,43.283578
+2023-392307,2023-11-10,000001,Vente,227000,21,,LES ALLEES,0005,31430,31476,Saint-Élix-le-Château,31,,,314760000A1534,,,,,,,,,,,,,0,1,Maison,116,4,S,sols,,,975,1.137743,43.283578
+2023-392307,2023-11-10,000001,Vente,227000,21,,LES ALLEES,0005,31430,31476,Saint-Élix-le-Château,31,,,314760000A1534,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,975,1.137743,43.283578
+2023-392315,2023-11-09,000001,Vente,80000,,,SOUSTRADE,B020,31430,31476,Saint-Élix-le-Château,31,,,314760000A0231,,,,,,,,,,,,,0,,,,,T,terres,,,3000,1.145872,43.280403
+2023-392874,2023-12-13,000001,Vente,2500,,,TERRE,B021,31430,31476,Saint-Élix-le-Château,31,,,314760000A2268,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,1717,1.148199,43.281981
+2023-392882,2023-12-18,000001,Vente,1000,,,CASTAGNAC,B005,31430,31476,Saint-Élix-le-Château,31,,,314760000A2419,,,,,,,,,,,,,0,,,,,T,terres,,,147,1.14734,43.28405
+2023-392890,2023-12-18,000001,Vente,1000,,,CASTAGNAC,B005,31430,31476,Saint-Élix-le-Château,31,,,314760000A2416,,,,,,,,,,,,,0,,,,,T,terres,,,97,1.147057,43.283714
+2023-392890,2023-12-18,000001,Vente,1000,,,CASTAGNAC,B005,31430,31476,Saint-Élix-le-Château,31,,,314760000A2418,,,,,,,,,,,,,0,,,,,T,terres,,,49,1.147172,43.283842

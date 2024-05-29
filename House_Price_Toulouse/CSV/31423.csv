@@ -1,0 +1,25 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-387511,2023-03-03,000001,Vente,120000,5002,F,LES MERLIS,B028,31370,31423,Plagnole,31,,,314230000A0310,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,432,1.057439,43.404306
+2023-387511,2023-03-03,000001,Vente,120000,59,,RTE DE LA BARTHE,0025,31370,31423,Plagnole,31,,,314230000A0333,,,,,,,,,,,,,0,1,Maison,90,3,S,sols,,,267,1.057654,43.404728
+2023-387511,2023-03-03,000001,Vente,120000,,,PESQUIERES,B030,31370,31423,Plagnole,31,,,314230000A0334,,,,,,,,,,,,,0,,,,,S,sols,,,60,1.057583,43.404675
+2023-389496,2023-06-29,000001,Vente,211100,,,RIVEROT,B034,31370,31423,Plagnole,31,,,314230000B0445,,,,,,,,,,,,,0,,,,,T,terres,,,236,1.061805,43.418716
+2023-389496,2023-06-29,000001,Vente,211100,,,RIVEROT,B034,31370,31423,Plagnole,31,,,314230000B0447,,,,,,,,,,,,,0,,,,,T,terres,,,1746,1.06182,43.419216
+2023-389496,2023-06-29,000001,Vente,211100,,,RIVEROT,B034,31370,31423,Plagnole,31,,,314230000B0448,,,,,,,,,,,,,0,,,,,T,terres,,,50,1.062085,43.419386
+2023-389496,2023-06-29,000001,Vente,211100,,,RIVEROT,B034,31370,31423,Plagnole,31,,,314230000B0450,,,,,,,,,,,,,0,,,,,P,prés,,,14,1.061515,43.419345
+2023-389496,2023-06-29,000001,Vente,211100,,,RIVEROT,B034,31370,31423,Plagnole,31,,,314230000B0451,,,,,,,,,,,,,0,,,,,P,prés,,,367,1.06163,43.419504
+2023-389496,2023-06-29,000001,Vente,211100,,,RIVEROT,B034,31370,31423,Plagnole,31,,,314230000B0452,,,,,,,,,,,,,0,,,,,P,prés,,,44,1.062019,43.41945
+2023-389496,2023-06-29,000001,Vente,211100,901,,RTE DE FORGUES,0200,31370,31423,Plagnole,31,,,314230000B0458,,,,,,,,,,,,,0,1,Maison,115,6,S,sols,,,1000,1.061725,43.418981
+2023-389496,2023-06-29,000001,Vente,211100,901,,RTE DE FORGUES,0200,31370,31423,Plagnole,31,,,314230000B0458,,,,,,,,,,,,,0,1,Maison,115,6,AG,terrains d'agrément,,,1128,1.061725,43.418981
+2023-389496,2023-06-29,000001,Vente,211100,901,,RTE DE FORGUES,0200,31370,31423,Plagnole,31,,,314230000B0458,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,,,1128,1.061725,43.418981
+2023-389496,2023-06-29,000001,Vente,211100,901,,RTE DE FORGUES,0200,31370,31423,Plagnole,31,,,314230000B0458,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1000,1.061725,43.418981
+2023-390362,2023-07-27,000001,Vente,239000,41,,VISE,B043,31370,31423,Plagnole,31,,,314230000A0523,,,,,,,,,,,,,0,1,Maison,135,4,S,sols,,,4350,1.066444,43.413327
+2023-390362,2023-07-27,000001,Vente,239000,,,VISE,B043,31370,31423,Plagnole,31,,,314230000A0525,,,,,,,,,,,,,0,,,,,T,terres,,,6907,1.065852,43.412651
+2023-390362,2023-07-27,000001,Vente,239000,,,VISE,B043,31370,31423,Plagnole,31,,,314230000A0713,,,,,,,,,,,,,0,,,,,T,terres,,,5501,1.065729,43.413244
+2023-390362,2023-07-27,000001,Vente,239000,,,VISE,B043,31370,31423,Plagnole,31,,,314230000A0932,,,,,,,,,,,,,0,,,,,T,terres,,,265,1.065076,43.412724
+2023-390399,2023-07-28,000001,Vente,12600,,,BORDE NEUVE,B005,31370,31423,Plagnole,31,,,314230000A0651,,,,,,,,,,,,,0,,,,,P,prés,,,774,1.087699,43.411522
+2023-390399,2023-07-28,000001,Vente,12600,,,BORDE NEUVE,B005,31370,31423,Plagnole,31,,,314230000A0654,,,,,,,,,,,,,0,,,,,T,terres,,,18114,1.087066,43.411673
+2023-390399,2023-07-28,000001,Vente,12600,,,BORDE NEUVE,B005,31370,31423,Plagnole,31,,,314230000A0657,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,2129,1.086758,43.411163
+2023-391223,2023-09-09,000001,Vente,35000,,,LES MERLIS,B028,31370,31423,Plagnole,31,,,314230000A0311,,,,,,,,,,,,,0,,,,,J,jardins,,,434,1.057583,43.40426
+2023-391223,2023-09-09,000001,Vente,35000,,,LES MERLIS,B028,31370,31423,Plagnole,31,,,314230000A0573,,,,,,,,,,,,,0,,,,,L,landes,,,266,1.057481,43.404017
+2023-392652,2023-12-09,000001,Vente,147500,75,,RTE DE L ISLE EN DODON,0350,31370,31423,Plagnole,31,,,314230000B0512,,,,,,,,,,,,,0,1,Maison,137,5,AG,terrains d'agrément,,,1026,1.055173,43.40459
+2023-392652,2023-12-09,000001,Vente,147500,75,,RTE DE L ISLE EN DODON,0350,31370,31423,Plagnole,31,,,314230000B0512,,,,,,,,,,,,,0,1,Maison,137,5,S,sols,,,1000,1.055173,43.40459

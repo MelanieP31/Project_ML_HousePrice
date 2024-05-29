@@ -1,0 +1,17 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-366021,2023-01-17,000001,Vente,336000,5039,,BORDE NOBLE,B004,31540,31463,Roumens,31,,,31463000ZC0048,,,,,,,,,,,,,0,1,Maison,280,5,S,sols,,,700,1.939891,43.460118
+2023-366021,2023-01-17,000001,Vente,336000,5039,,BORDE NOBLE,B004,31540,31463,Roumens,31,,,31463000ZC0048,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,700,1.939891,43.460118
+2023-366021,2023-01-17,000001,Vente,336000,,,BORDE NOBLE,B004,31540,31463,Roumens,31,,,31463000ZC0083,,,,,,,,,,,,,0,,,,,S,sols,,,1156,1.939506,43.460039
+2023-366021,2023-01-17,000001,Vente,336000,,,BORDE NOBLE,B004,31540,31463,Roumens,31,,,31463000ZC0084,,,,,,,,,,,,,0,,,,,T,terres,,,4551,1.940186,43.459608
+2023-366021,2023-01-17,000001,Vente,336000,,,BORDE NOBLE,B004,31540,31463,Roumens,31,,,31463000ZC0086,,,,,,,,,,,,,0,,,,,T,terres,,,246,1.941408,43.459777
+2023-366021,2023-01-17,000001,Vente,336000,,,BORDE NOBLE,B004,31540,31463,Roumens,31,,,31463000ZC0087,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,CHEM,Chemin (non groupe),623,1.941468,43.459893
+2023-366021,2023-01-17,000001,Vente,336000,,,BORDE NOBLE,B004,31540,31463,Roumens,31,,,31463000ZC0088,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,CHEM,Chemin (non groupe),571,1.940324,43.45984
+2023-368034,2023-03-02,000001,Vente,340653,9000,,CHEM DE BOUTIES,0025,31540,31463,Roumens,31,,,31463000ZA0091,,,,,,,,,,,,,0,1,Maison,160,7,AG,terrains d'agrément,PARC,Parc,2000,1.931988,43.464943
+2023-368034,2023-03-02,000001,Vente,340653,9000,,CHEM DE BOUTIES,0025,31540,31463,Roumens,31,,,31463000ZA0091,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,PARC,Parc,2000,1.931988,43.464943
+2023-368034,2023-03-02,000001,Vente,340653,9000,,CHEM DE BOUTIES,0025,31540,31463,Roumens,31,,,31463000ZA0091,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,PARC,Parc,2000,1.931988,43.464943
+2023-368034,2023-03-02,000001,Vente,340653,9000,,CHEM DE BOUTIES,0025,31540,31463,Roumens,31,,,31463000ZA0091,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,500,1.931988,43.464943
+2023-368034,2023-03-02,000001,Vente,340653,9000,,CHEM DE BOUTIES,0025,31540,31463,Roumens,31,,,31463000ZA0091,,,,,,,,,,,,,0,1,Maison,160,7,S,sols,,,500,1.931988,43.464943
+2023-368034,2023-03-02,000001,Vente,340653,9000,,CHEM DE BOUTIES,0025,31540,31463,Roumens,31,,,31463000ZA0091,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,500,1.931988,43.464943
+2023-372525,2023-05-05,000001,Vente,20000,,,LE VILLAGE,B031,31540,31463,Roumens,31,,,31463000ZA0020,,,,,,,,,,,,,0,,,,,J,jardins,,,1414,1.929973,43.463277
+2023-372525,2023-05-05,000001,Vente,20000,,,LE VILLAGE,B031,31540,31463,Roumens,31,,,31463000ZA0020,,,,,,,,,,,,,0,,,,,S,sols,,,16,1.929973,43.463277
+2023-372823,2023-05-09,000002,Vente,700,,,EN CARETTE,B008,31540,31463,Roumens,31,,,31463000ZD0086,,,,,,,,,,,,,0,,,,,T,terres,,,700,1.95702,43.467017

@@ -1,0 +1,24 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-365340,2023-01-16,000001,Vente,360000,57,,SAUVETERRE,B036,31320,31025,Aureville,31,,,310250000B0186,,,,,,,,,,,,,0,1,Maison,130,6,S,sols,,,726,1.44647,43.487451
+2023-365340,2023-01-16,000001,Vente,360000,57,,SAUVETERRE,B036,31320,31025,Aureville,31,,,310250000B0186,,,,,,,,,,,,,0,1,Maison,130,6,T,terres,,,1274,1.44647,43.487451
+2023-367198,2023-02-11,000001,Vente,145000,,,LE MOULIN,B028,31320,31025,Aureville,31,,,310250000A0661,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,757,1.452121,43.480716
+2023-370748,2023-04-01,000001,Vente,318200,,,LA NADALLE,B029,31320,31025,Aureville,31,,,310250000C0463,,,,,,,,,,,,,0,,,,,T,terres,,,340,1.462268,43.47601
+2023-370748,2023-04-01,000001,Vente,318200,46,A,LA NADALLE,B029,31320,31025,Aureville,31,,,310250000C0464,,,,,,,,,,,,,0,1,Maison,127,5,S,sols,,,950,1.462084,43.47588
+2023-370882,2023-04-06,000001,Vente,1010000,,,FAURET,B018,31320,31025,Aureville,31,,,310250000B0377,,,,,,,,,,,,,0,,,,,S,sols,,,139,1.462093,43.491491
+2023-370882,2023-04-06,000001,Vente,1010000,,,FAURET,B018,31320,31025,Aureville,31,,,310250000B0379,,,,,,,,,,,,,0,,,,,S,sols,,,109,1.462146,43.491319
+2023-370882,2023-04-06,000001,Vente,1010000,,,FAURET,B018,31320,31025,Aureville,31,,,310250000B0545,,,,,,,,,,,,,0,,,,,S,sols,,,104,1.461985,43.491312
+2023-370882,2023-04-06,000001,Vente,1010000,,,FAURET,B018,31320,31025,Aureville,31,,,310250000B0546,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,RUE,Rue,29,1.461996,43.491268
+2023-370882,2023-04-06,000001,Vente,1010000,9001,,FAURET,B018,31320,31025,Aureville,31,,,310250000B0547,,,,,,,,,,,,,0,1,Maison,219,7,AG,terrains d'agrément,PARC,Parc,2353,1.461892,43.491116
+2023-370882,2023-04-06,000001,Vente,1010000,9001,,FAURET,B018,31320,31025,Aureville,31,,,310250000B0547,,,,,,,,,,,,,0,1,Maison,219,7,S,sols,,,1200,1.461892,43.491116
+2023-370882,2023-04-06,000001,Vente,1010000,9001,,FAURET,B018,31320,31025,Aureville,31,,,310250000B0547,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1200,1.461892,43.491116
+2023-370882,2023-04-06,000001,Vente,1010000,9001,,FAURET,B018,31320,31025,Aureville,31,,,310250000B0547,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,PARC,Parc,2353,1.461892,43.491116
+2023-373531,2023-05-31,000002,Vente,400000,53,,SAUVETERRE,B036,31320,31025,Aureville,31,,,310250000B0851,,,,,,,,,,,,,0,1,Maison,120,5,,,,,,1.447297,43.487202
+2023-373531,2023-05-31,000002,Vente,400000,53,,SAUVETERRE,B036,31320,31025,Aureville,31,,,310250000B0851,,,,,,,,,,,,,0,3,Dépendance,,0,,,,,,1.447297,43.487202
+2023-373536,2023-05-31,000001,Vente,280000,53,,SAUVETERRE,B036,31320,31025,Aureville,31,,,310250000B0851,,,,,,,,,,,,,0,3,Dépendance,,0,,,,,,1.447297,43.487202
+2023-373536,2023-05-31,000001,Vente,280000,53,,SAUVETERRE,B036,31320,31025,Aureville,31,,,310250000B0851,,,,,,,,,,,,,0,1,Maison,120,5,,,,,,1.447297,43.487202
+2023-378450,2023-07-24,000001,Vente,23100,,,LES CARREAUX,B010,31320,31025,Aureville,31,,,310250000B0023,,,,,,,,,,,,,0,,,,,T,terres,,,2585,1.462764,43.498392
+2023-378450,2023-07-24,000001,Vente,23100,,,LES CARREAUX,B010,31320,31025,Aureville,31,,,310250000B0025,,,,,,,,,,,,,0,,,,,T,terres,,,2450,1.463011,43.497946
+2023-379516,2023-09-13,000002,Vente,198000,,,POUMAROL,B032,31320,31025,Aureville,31,,,310250000A0673,,,,,,,,,,,,,0,,,,,T,terres,,,208,1.45045,43.470707
+2023-380642,2023-07-31,000002,Vente,3000,,,VILLATTE,B038,31320,31025,Aureville,31,,,310250000A0668,,,,,,,,,,,,,0,,,,,T,terres,,,127,1.45025,43.472283
+2023-382636,2023-11-03,000001,Vente,240000,44,,GAILLARDOUS,B021,31320,31025,Aureville,31,,,310250000C0069,,,,,,,,,,,,,0,1,Maison,79,2,S,sols,,,1980,1.470553,43.470774
+2023-385863,2023-11-27,000003,Echange,4300,,,BICHARD,B002,31320,31025,Aureville,31,,,310250000A0675,,,,,,,,,,,,,0,,,,,S,sols,,,43,,

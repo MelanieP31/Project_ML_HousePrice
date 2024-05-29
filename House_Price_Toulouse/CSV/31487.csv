@@ -1,0 +1,22 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-387564,2023-03-13,000001,Vente,7382.55,,,TERME DE DESSUS,B021,31800,31487,Saint-Ignan,31,,,314870000A0087,,,,,,,,,,,,,0,,,,,T,terres,,,8035,0.697213,43.16562
+2023-387564,2023-03-13,000001,Vente,7382.55,,,TERME DE DESSUS,B021,31800,31487,Saint-Ignan,31,,,314870000A0091,,,,,,,,,,,,,0,,,,,T,terres,,,4275,0.697039,43.16523
+2023-387564,2023-03-13,000001,Vente,7382.55,,,LA SERRE,B018,31800,31487,Saint-Ignan,31,,,314870000B0180,,,,,,,,,,,,,0,,,,,T,terres,,,420,0.685751,43.156272
+2023-387564,2023-03-13,000001,Vente,7382.55,,,LA SERRE,B018,31800,31487,Saint-Ignan,31,,,314870000B0184,,,,,,,,,,,,,0,,,,,T,terres,,,3470,0.685729,43.155858
+2023-387564,2023-03-13,000001,Vente,7382.55,,,LA NOUE,B013,31800,31487,Saint-Ignan,31,,,314870000B0287,,,,,,,,,,,,,0,,,,,T,terres,,,1659,0.684106,43.151312
+2023-387564,2023-03-13,000001,Vente,7382.55,,,LA NOUE,B013,31800,31487,Saint-Ignan,31,,,314870000B0289,,,,,,,,,,,,,0,,,,,T,terres,,,3234,0.68421,43.150592
+2023-388253,2023-04-21,000001,Vente,2542.5,18,A,LAPLAGNE,B011,31800,31487,Saint-Ignan,31,,,314870000B0554,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,35,0.694755,43.155614
+2023-388253,2023-04-21,000001,Vente,2542.5,18,A,LAPLAGNE,B011,31800,31487,Saint-Ignan,31,,,314870000B0554,,,,,,,,,,,,,0,3,Dépendance,,0,J,jardins,,,643,0.694755,43.155614
+2023-388253,2023-04-21,000001,Vente,2542.5,18,A,LAPLAGNE,B011,31800,31487,Saint-Ignan,31,,,314870000B0554,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,35,0.694755,43.155614
+2023-388253,2023-04-21,000001,Vente,2542.5,18,A,LAPLAGNE,B011,31800,31487,Saint-Ignan,31,,,314870000B0554,,,,,,,,,,,,,0,3,Dépendance,,0,J,jardins,,,643,0.694755,43.155614
+2023-388437,2023-04-25,000001,Vente,3000,,,LAPEYROUSE,B010,31800,31487,Saint-Ignan,31,,,314870000B0033,,,,,,,,,,,,,0,,,,,L,landes,FRICH,Friche,1750,0.683381,43.156958
+2023-388437,2023-04-25,000001,Vente,3000,,,LAPEYROUSE,B010,31800,31487,Saint-Ignan,31,,,314870000B0034,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,2290,0.683305,43.157354
+2023-388437,2023-04-25,000001,Vente,3000,,,LAPEYROUSE,B010,31800,31487,Saint-Ignan,31,,,314870000B0035,,,,,,,,,,,,,0,,,,,L,landes,FRICH,Friche,2288,0.682762,43.156965
+2023-390163,2023-07-18,000001,Vente,116000,,,LA COUME,B004,31800,31487,Saint-Ignan,31,,,314870000A0226,,,,,,,,,,,,,0,,,,,P,prés,,,2130,0.695378,43.160149
+2023-390163,2023-07-18,000001,Vente,116000,38,,RUE DE LA FONTAINE,0004,31800,31487,Saint-Ignan,31,,,314870000A0227,,,,,,,,,,,,,0,1,Maison,130,2,S,sols,,,1608,0.69433,43.160315
+2023-392573,2023-11-15,000001,Vente,2500,,,LAPEYROUSE,B010,31800,31487,Saint-Ignan,31,,,314870000B0021,,,,,,,,,,,,,0,,,,,T,terres,,,1550,0.681181,43.157172
+2023-392573,2023-11-15,000001,Vente,2500,,,LAPEYROUSE,B010,31800,31487,Saint-Ignan,31,,,314870000B0022,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,3790,0.681598,43.157118
+2023-392573,2023-11-15,000001,Vente,2500,,,LAPEYROUSE,B010,31800,31487,Saint-Ignan,31,,,314870000B0039,,,,,,,,,,,,,0,,,,,T,terres,,,1985,0.681743,43.157934
+2023-392678,2023-11-23,000001,Vente,17361,,,LE BOIS,B002,31800,31487,Saint-Ignan,31,,,314870000A0327,,,,,,,,,,,,,0,,,,,T,terres,,,7179,0.707988,43.155832
+2023-392678,2023-11-23,000001,Vente,17361,,,LE BOIS,B002,31800,31487,Saint-Ignan,31,,,314870000A0328,,,,,,,,,,,,,0,,,,,T,terres,,,4000,0.707466,43.156451
+2023-392678,2023-11-23,000001,Vente,17361,,,BARROT,B001,31800,31487,Saint-Ignan,31,,,314870000A0458,,,,,,,,,,,,,0,,,,,T,terres,,,15530,0.70229,43.153725

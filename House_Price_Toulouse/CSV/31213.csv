@@ -1,0 +1,11 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-386996,2023-01-31,000001,Vente,55000,,,VILLAGE,B033,31110,31213,Garin,31,,,312130000A0358,,,,,,,,,,,,,0,,,,,S,sols,,,188,0.515778,42.809515
+2023-387723,2023-03-24,000001,Vente,170000,9015,,RTE DES AGUDES,0016,31110,31213,Garin,31,,,312130000A1268,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,730,0.502697,42.804563
+2023-387723,2023-03-24,000001,Vente,170000,9015,,RTE DES AGUDES,0016,31110,31213,Garin,31,,,312130000A1268,,,,,,,,,,,,,0,1,Maison,40,1,S,sols,,,730,0.502697,42.804563
+2023-387834,2023-03-31,000001,Vente,80000,,,SAINT-TRITOUS,B027,31110,31213,Garin,31,,,312130000A1509,,,,,,,,,,,,,0,,,,,S,sols,,,193,0.513858,42.806524
+2023-387834,2023-03-31,000001,Vente,80000,9007,,HAMEAU DE SAINT TRITOUS,0015,31110,31213,Garin,31,,,312130000A1511,,,,,,,,,,,,,0,1,Maison,100,4,S,sols,,,331,0.513938,42.806523
+2023-387834,2023-03-31,000001,Vente,80000,,,SAINT-TRITOUS,B027,31110,31213,Garin,31,,,312130000A1665,,,,,,,,,,,,,0,,,,,S,sols,,,121,0.513997,42.80674
+2023-388066,2023-04-05,000002,Vente,35000,,,ARRIHOUAT,B002,31110,31213,Garin,31,,,312130000A0985,,,,,,,,,,,,,0,,,,,L,landes,,,685,0.503266,42.80537
+2023-388066,2023-04-05,000002,Vente,35000,,,LA PRADE,B022,31110,31213,Garin,31,,,312130000A1810,,,,,,,,,,,,,0,,,,,L,landes,,,191,0.503189,42.805462
+2023-390895,2023-08-31,000001,Vente,100000,9003,,CHEM DE LA MORAINE,0014,31110,31213,Garin,31,,,312130000A1349,,,,,,,,,,,,,0,1,Maison,75,4,S,sols,,,385,0.514689,42.807872
+2023-393253,2023-12-29,000001,Vente,325,,,PRADE,B021,31110,31213,Garin,31,,,312130000A0006,,,,,,,,,,,,,0,,,,,T,terres,,,30,0.511253,42.810197

@@ -1,0 +1,11 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-391058,2023-08-31,000001,Vente,215000,,,LES ANGLADOS,B002,31370,31419,Le Pin-Murelet,31,,,314190000A0496,,,,,,,,,,,,,0,,,,,L,landes,,,97,1.018866,43.400427
+2023-391058,2023-08-31,000001,Vente,215000,905,,RTE DU VILLAGE,0621,31370,31419,Le Pin-Murelet,31,,,314190000A0498,,,,,,,,,,,,,0,1,Maison,100,3,S,sols,,,406,1.018814,43.400478
+2023-391058,2023-08-31,000001,Vente,215000,,,PAGUERES DU VILLAGE,B061,31370,31419,Le Pin-Murelet,31,,,314190000A0499,,,,,,,,,,,,,0,,,,,T,terres,,,846,1.018858,43.400668
+2023-391058,2023-08-31,000001,Vente,215000,,,PAGUERES DU VILLAGE,B061,31370,31419,Le Pin-Murelet,31,,,314190000A0500,,,,,,,,,,,,,0,,,,,T,terres,,,497,1.018607,43.400614
+2023-391175,2023-09-14,000001,Echange,160,,,SAINT ARROMAN,B068,31370,31419,Le Pin-Murelet,31,,,314190000B0297,,,,,,,,,,,,,0,,,,,T,terres,,,320,1.044635,43.406095
+2023-391175,2023-09-14,000002,Echange,160,,,SAINT ARROMAN,B068,31370,31419,Le Pin-Murelet,31,,,314190000B0293,,,,,,,,,,,,,0,,,,,S,sols,,,320,1.044507,43.405715
+2023-391979,2023-10-27,000001,Vente,268450,,,PAGUERES DE TILLAC,B059,31370,31419,Le Pin-Murelet,31,,,314190000D0511,,,,,,,,,,,,,0,,,,,S,sols,,,1440,1.01482,43.387322
+2023-391979,2023-10-27,000001,Vente,268450,100,,CHE D'EMPLAOUES,0120,31370,31419,Le Pin-Murelet,31,,,314190000D0512,,,,,,,,,,,,,0,1,Maison,92,4,S,sols,,,1218,1.014847,43.387037
+2023-391979,2023-10-27,000001,Vente,268450,100,,CHE D'EMPLAOUES,0120,31370,31419,Le Pin-Murelet,31,,,314190000D0512,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1218,1.014847,43.387037
+2023-391979,2023-10-27,000001,Vente,268450,,,SOULAN DE TILLAC,B082,31370,31419,Le Pin-Murelet,31,,,314190000D0515,,,,,,,,,,,,,0,,,,,T,terres,,,3406,1.014494,43.387193

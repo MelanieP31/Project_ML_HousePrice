@@ -1,0 +1,29 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-387054,2023-01-23,000001,Vente,750,,,GUILHOT,B023,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC0129,,,,,,,,,,,,,0,,,,,P,prés,,,1550,0.900448,43.226815
+2023-387457,2023-02-15,000001,Vente,14500,,,JUSTAOU,B026,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WA0168,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,1270,0.907908,43.236295
+2023-387457,2023-02-15,000001,Vente,14500,,,SAINT-MARTIN,B039,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WB0036,,,,,,,,,,,,,0,,,,,P,prés,,,13765,0.908244,43.236835
+2023-387457,2023-02-15,000001,Vente,14500,,,SAINT-MARTIN,B039,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WB0036,,,,,,,,,,,,,0,,,,,P,prés,,,6745,0.908244,43.236835
+2023-387953,2023-03-27,000001,Vente,11500,,,BARDASIN,B002,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC0053,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,1233,0.89633,43.231888
+2023-387953,2023-03-27,000001,Vente,11500,,,BARDASIN,B002,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC0053,,,,,,,,,,,,,0,,,,,L,landes,,,1225,0.89633,43.231888
+2023-387953,2023-03-27,000001,Vente,11500,,,BARDASIN,B002,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC0053,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,10292,0.89633,43.231888
+2023-387954,2023-03-27,000002,Vente,78500,53,,LE VIGNEAU,B042,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC1219,,,,,,,,,,,,,0,1,Maison,75,2,,,,,,0.903846,43.23367
+2023-388173,2023-04-20,000001,Vente,2600,,,CAMPETS,B012,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WA0094,,,,,,,,,,,,,0,,,,,T,terres,,,5000,0.916361,43.228587
+2023-388173,2023-04-20,000001,Vente,2600,,,ALIERES,B001,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WB0061,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,790,0.906417,43.23757
+2023-388173,2023-04-20,000001,Vente,2600,,,ALIERES,B001,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WB0062,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,970,0.905793,43.237671
+2023-388341,2023-04-20,000001,Vente,310000,1,,BOURBON,B008,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC0203,,,,,,,,,,,,,0,1,Maison,160,5,AG,terrains d'agrément,,,2434,0.897448,43.221019
+2023-388341,2023-04-20,000001,Vente,310000,1,,BOURBON,B008,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC0203,,,,,,,,,,,,,0,1,Maison,160,5,S,sols,,,500,0.897448,43.221019
+2023-389418,2023-06-26,000001,Vente,160000,3,,CHATEAU,B017,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WA0127,,,,,,,,,,,,,0,1,Maison,85,5,S,sols,,,865,0.907995,43.233901
+2023-389418,2023-06-26,000001,Vente,160000,3,,CHATEAU,B017,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WA0127,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,865,0.907995,43.233901
+2023-389817,2023-06-28,000001,Vente,213706,55,,BOURBON,B008,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC1195,,,,,,,,,,,,,0,1,Maison,70,4,AG,terrains d'agrément,,,2138,0.897471,43.21979
+2023-389817,2023-06-28,000001,Vente,213706,55,,BOURBON,B008,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC1195,,,,,,,,,,,,,0,1,Maison,70,4,S,sols,,,500,0.897471,43.21979
+2023-391191,2023-08-02,000001,Vente,10000,,,LE VIGNEAU,B042,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC1220,,,,,,,,,,,,,0,,,,,P,prés,,,26879,0.90427,43.233352
+2023-391191,2023-08-02,000001,Vente,10000,,,LE VIGNEAU,B042,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC1220,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,1020,0.90427,43.233352
+2023-391511,2023-10-05,000001,Vente,27500,,,CAP D ARMAS,B013,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC0019,,,,,,,,,,,,,0,,,,,P,prés,,,515,0.896475,43.222024
+2023-391511,2023-10-05,000001,Vente,27500,,,CAP D ARMAS,B013,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC0020,,,,,,,,,,,,,0,,,,,P,prés,,,1395,0.896521,43.222137
+2023-391543,2023-09-18,000001,Vente,4000,,,CAP D ARMAS,B013,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC0023,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,2000,0.89584,43.223037
+2023-391543,2023-09-18,000001,Vente,4000,,,CAP D ARMAS,B013,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC0023,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,950,0.89584,43.223037
+2023-391543,2023-09-18,000001,Vente,4000,,,CAP D ARMAS,B013,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC0023,,,,,,,,,,,,,0,,,,,L,landes,,,14720,0.89584,43.223037
+2023-391838,2023-10-14,000001,Vente,8000,,,CAP D ARMAS,B013,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC0021,,,,,,,,,,,,,0,,,,,P,prés,,,73,0.896847,43.222208
+2023-391838,2023-10-14,000001,Vente,8000,,,CAP D ARMAS,B013,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC0022,,,,,,,,,,,,,0,,,,,P,prés,,,1824,0.896978,43.222361
+2023-391842,2023-10-14,000001,Vente,17166,,,CAP D ARMAS,B013,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC0016,,,,,,,,,,,,,0,,,,,P,prés,,,1003,0.895656,43.22239
+2023-391843,2023-10-14,000002,Vente,15334,,,CAP D ARMAS,B013,31420,31386,Montoulieu-Saint-Bernard,31,,,31386000WC0017,,,,,,,,,,,,,0,,,,,P,prés,,,896,0.895907,43.222613

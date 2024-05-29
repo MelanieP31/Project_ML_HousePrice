@@ -1,0 +1,32 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-390005,2023-07-03,000001,Vente,14500,,,COUAIROS,B010,31230,31115,Castelgaillard,31,,,31115000AH0071,,,,,,,,,,,,,0,,,,,L,landes,FRICH,Friche,2650,0.897245,43.34702
+2023-390005,2023-07-03,000001,Vente,14500,28,,COUAIROS,B010,31230,31115,Castelgaillard,31,,,31115000AH0072,,,,,,,,,,,,,0,1,Maison,94,4,S,sols,,,706,0.89736,43.346937
+2023-391626,2023-10-17,000001,Vente,15000,,,SARRAT,B045,31230,31115,Castelgaillard,31,,,31115000AH0009,,,,,,,,,,,,,0,,,,,T,terres,,,7780,0.898244,43.349687
+2023-391626,2023-10-17,000001,Vente,15000,,,SARRAT,B045,31230,31115,Castelgaillard,31,,,31115000AH0010,,,,,,,,,,,,,0,,,,,L,landes,FRICH,Friche,4110,0.899107,43.350309
+2023-391626,2023-10-17,000001,Vente,15000,,,SARRAT,B045,31230,31115,Castelgaillard,31,,,31115000AH0011,,,,,,,,,,,,,0,,,,,L,landes,PATUR,Pâture plantée,9590,0.899536,43.350584
+2023-391626,2023-10-17,000001,Vente,15000,,,SARRAT,B045,31230,31115,Castelgaillard,31,,,31115000AH0012,,,,,,,,,,,,,0,,,,,L,landes,PATUR,Pâture plantée,2686,0.898787,43.35167
+2023-391626,2023-10-17,000001,Vente,15000,,,SARRAT,B045,31230,31115,Castelgaillard,31,,,31115000AH0013,,,,,,,,,,,,,0,,,,,L,landes,PATUR,Pâture plantée,4187,0.899256,43.351538
+2023-391626,2023-10-17,000001,Vente,15000,,,SARRAT,B045,31230,31115,Castelgaillard,31,,,31115000AH0014,,,,,,,,,,,,,0,,,,,L,landes,FRICH,Friche,1181,0.900121,43.351555
+2023-391626,2023-10-17,000001,Vente,15000,,,SARRAT,B045,31230,31115,Castelgaillard,31,,,31115000AH0016,,,,,,,,,,,,,0,,,,,BS,taillis sous futaie,,,4380,0.901441,43.351301
+2023-391626,2023-10-17,000001,Vente,15000,,,SARRAT,B045,31230,31115,Castelgaillard,31,,,31115000AH0017,,,,,,,,,,,,,0,,,,,T,terres,,,21080,0.90111,43.352089
+2023-391626,2023-10-17,000001,Vente,15000,,,FRONTON,B018,31230,31115,Castelgaillard,31,,,31115000AH0035,,,,,,,,,,,,,0,,,,,P,prés,,,3031,0.90086,43.349166
+2023-391626,2023-10-17,000001,Vente,15000,,,EMBOURASSO,B015,31230,31115,Castelgaillard,31,,,31115000AH0066,,,,,,,,,,,,,0,,,,,BS,taillis sous futaie,,,1373,0.897996,43.346643
+2023-391626,2023-10-17,000001,Vente,15000,,,EMBOURASSO,B015,31230,31115,Castelgaillard,31,,,31115000AH0067,,,,,,,,,,,,,0,,,,,L,landes,PATUR,Pâture plantée,2982,0.89824,43.347147
+2023-391626,2023-10-17,000001,Vente,15000,,,EMBOURASSO,B015,31230,31115,Castelgaillard,31,,,31115000AH0068,,,,,,,,,,,,,0,,,,,T,terres,,,5048,0.898874,43.348175
+2023-391626,2023-10-17,000001,Vente,15000,,,COUAIROS,B010,31230,31115,Castelgaillard,31,,,31115000AH0069,,,,,,,,,,,,,0,,,,,T,terres,,,9750,0.897746,43.349099
+2023-391626,2023-10-17,000001,Vente,15000,,,COUAIROS,B010,31230,31115,Castelgaillard,31,,,31115000AH0069,,,,,,,,,,,,,0,,,,,T,terres,,,19500,0.897746,43.349099
+2023-391626,2023-10-17,000001,Vente,15000,,,COUAIROS,B010,31230,31115,Castelgaillard,31,,,31115000AH0070,,,,,,,,,,,,,0,,,,,L,landes,PATUR,Pâture plantée,21510,0.896875,43.347857
+2023-391626,2023-10-17,000001,Vente,15000,,,COUAIROS,B010,31230,31115,Castelgaillard,31,,,31115000AH0073,,,,,,,,,,,,,0,,,,,L,landes,PATUR,Pâture plantée,22140,0.895472,43.349382
+2023-391626,2023-10-17,000001,Vente,15000,,,SARRAT,B045,31230,31115,Castelgaillard,31,,,31115000AH0088,,,,,,,,,,,,,0,,,,,L,landes,PATUR,Pâture plantée,9540,0.900236,43.351424
+2023-391626,2023-10-17,000001,Vente,15000,,,SARRAT,B045,31230,31115,Castelgaillard,31,,,31115000AH0090,,,,,,,,,,,,,0,,,,,S,sols,,,696,0.902427,43.35134
+2023-391626,2023-10-17,000001,Vente,15000,,,SARRAT,B045,31230,31115,Castelgaillard,31,,,31115000AH0090,,,,,,,,,,,,,0,,,,,P,prés,,,15759,0.902427,43.35134
+2023-391626,2023-10-17,000001,Vente,15000,,,FRONTON,B018,31230,31115,Castelgaillard,31,,,31115000AH0101,,,,,,,,,,,,,0,,,,,L,landes,PATUR,Pâture plantée,293,0.900709,43.348829
+2023-391626,2023-10-17,000001,Vente,15000,,,FRONTON,B018,31230,31115,Castelgaillard,31,,,31115000AH0103,,,,,,,,,,,,,0,,,,,P,prés,,,4212,0.899443,43.348612
+2023-391626,2023-10-17,000001,Vente,15000,,,FRONTON,B018,31230,31115,Castelgaillard,31,,,31115000AH0105,,,,,,,,,,,,,0,,,,,T,terres,,,8237,0.89987,43.349052
+2023-391626,2023-10-17,000001,Vente,15000,,,FRONTON,B018,31230,31115,Castelgaillard,31,,,31115000AH0105,,,,,,,,,,,,,0,,,,,T,terres,,,4118,0.89987,43.349052
+2023-391626,2023-10-17,000001,Vente,15000,,,SARRAT,B045,31230,31115,Castelgaillard,31,,,31115000AH0114,,,,,,,,,,,,,0,,,,,S,sols,,,478,0.899983,43.3502
+2023-391626,2023-10-17,000001,Vente,15000,,,SARRAT,B045,31230,31115,Castelgaillard,31,,,31115000AH0114,,,,,,,,,,,,,0,,,,,T,terres,,,35171,0.899983,43.3502
+2023-391626,2023-10-17,000001,Vente,15000,,,SARRAT,B045,31230,31115,Castelgaillard,31,,,31115000AH0114,,,,,,,,,,,,,0,,,,,T,terres,,,17586,0.899983,43.3502
+2023-391626,2023-10-17,000001,Vente,15000,,,SARRAT,B045,31230,31115,Castelgaillard,31,,,31115000AH0129,,,,,,,,,,,,,0,,,,,L,landes,FRICH,Friche,260,0.902918,43.351897
+2023-392000,2023-10-17,000001,Vente,150000,34,,PAROT,B033,31230,31115,Castelgaillard,31,,,31115000AE0119,,,,,,,,,,,,,0,1,Maison,70,4,T,terres,,,1045,0.903955,43.350616
+2023-392000,2023-10-17,000001,Vente,150000,34,,PAROT,B033,31230,31115,Castelgaillard,31,,,31115000AE0119,,,,,,,,,,,,,0,1,Maison,70,4,S,sols,,,755,0.903955,43.350616

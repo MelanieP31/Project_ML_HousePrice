@@ -1,0 +1,18 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-388344,2023-04-19,000001,Vente,20000,,,LE VILLAGE,B016,31510,31564,Valcabrère,31,,,315640000A0167,,,,,,,,,,,,,0,,,,,J,jardins,,,590,0.582059,43.033337
+2023-388344,2023-04-19,000001,Vente,20000,30,,LE VILLAGE,B016,31510,31564,Valcabrère,31,,,315640000A0168,,,,,,,,,,,,,0,1,Maison,123,6,S,sols,,,342,0.5823,43.033228
+2023-388344,2023-04-19,000001,Vente,20000,,,LE VILLAGE,B016,31510,31564,Valcabrère,31,,,315640000A0173,,,,,,,,,,,,,0,,,,,S,sols,,,651,0.582658,43.0333
+2023-388344,2023-04-19,000001,Vente,20000,,,LE VILLAGE,B016,31510,31564,Valcabrère,31,,,315640000A0516,,,,,,,,,,,,,0,,,,,S,sols,,,40,0.582132,43.033201
+2023-388590,2023-05-12,000001,Vente,26372,,,HERRANNE,B008,31510,31564,Valcabrère,31,,,315640000A0391,,,,,,,,,,,,,0,,,,,T,terres,,,13430,0.583684,43.028608
+2023-388835,2023-05-17,000001,Vente,390000,6,,CHEM DES ESPOUGES,0013,31510,31564,Valcabrère,31,,,315640000A0358,,,,,,,,,,,,,0,3,Dépendance,,0,P,prés,,,1900,0.593707,43.031406
+2023-388835,2023-05-17,000001,Vente,390000,6,,CHEM DES ESPOUGES,0013,31510,31564,Valcabrère,31,,,315640000A0358,,,,,,,,,,,,,0,1,Maison,230,8,P,prés,,,1900,0.593707,43.031406
+2023-388835,2023-05-17,000001,Vente,390000,6,,CHEM DES ESPOUGES,0013,31510,31564,Valcabrère,31,,,315640000A0358,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,500,0.593707,43.031406
+2023-388835,2023-05-17,000001,Vente,390000,6,,CHEM DES ESPOUGES,0013,31510,31564,Valcabrère,31,,,315640000A0358,,,,,,,,,,,,,0,1,Maison,230,8,S,sols,,,500,0.593707,43.031406
+2023-388835,2023-05-17,000001,Vente,390000,,,ESPOUGE,B007,31510,31564,Valcabrère,31,,,315640000A0359,,,,,,,,,,,,,0,,,,,T,terres,,,2880,0.592944,43.03154
+2023-392567,2023-11-30,000001,Vente,1616,,,TRANQUISTAN,B014,31510,31564,Valcabrère,31,,,315640000A0292,,,,,,,,,,,,,0,,,,,T,terres,,,2020,0.583372,43.030405
+2023-392568,2023-11-30,000001,Vente,40540,,,LE COUVENT,B006,31510,31564,Valcabrère,31,,,315640000A0053,,,,,,,,,,,,,0,,,,,P,prés,,,2910,0.580563,43.030734
+2023-392568,2023-11-30,000001,Vente,40540,,,TRANQUISTAN,B014,31510,31564,Valcabrère,31,,,315640000A0283,,,,,,,,,,,,,0,,,,,P,prés,,,9554,0.581416,43.029772
+2023-392568,2023-11-30,000001,Vente,40540,,,TRANQUISTAN,B014,31510,31564,Valcabrère,31,,,315640000A0284,,,,,,,,,,,,,0,,,,,P,prés,,,5120,0.581239,43.028836
+2023-392568,2023-11-30,000001,Vente,40540,,,TRANQUISTAN,B014,31510,31564,Valcabrère,31,,,315640000A0285,,,,,,,,,,,,,0,,,,,P,prés,,,6158,0.582096,43.029409
+2023-392568,2023-11-30,000001,Vente,40540,,,TRANQUISTAN,B014,31510,31564,Valcabrère,31,,,315640000A0286,,,,,,,,,,,,,0,,,,,T,terres,,,17092,0.582573,43.029933
+2023-392568,2023-11-30,000001,Vente,40540,,,TRANQUISTAN,B014,31510,31564,Valcabrère,31,,,315640000A0294,,,,,,,,,,,,,0,,,,,T,terres,,,7040,0.584066,43.029519

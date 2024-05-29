@@ -1,0 +1,18 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-387820,2023-03-20,000001,Vente,10000,,,LOUSTALAS,B022,31220,31422,Plagne,31,,,314220000A0115,,,,,,,,,,,,,0,,,,,T,terres,,,6347,1.058588,43.158597
+2023-387820,2023-03-20,000001,Vente,10000,,,LOUSTALAS,B022,31220,31422,Plagne,31,,,314220000A0116,,,,,,,,,,,,,0,,,,,T,terres,,,4177,1.058467,43.159285
+2023-387927,2023-04-07,000001,Vente,60000,,,LE VIGNE,B040,31220,31422,Plagne,31,,,314220000B0885,,,,,,,,,,,,,0,,,,,T,terres,,,324,1.063871,43.15888
+2023-387927,2023-04-07,000001,Vente,60000,,,LE VIGNE,B040,31220,31422,Plagne,31,,,314220000B0888,,,,,,,,,,,,,0,,,,,T,terres,,,1324,1.063651,43.158687
+2023-389284,2023-06-08,000001,Vente,85000,,,LE VILLAGE,B041,31220,31422,Plagne,31,,,314220000B0414,,,,,,,,,,,,,0,,,,,S,sols,,,31,1.060929,43.157011
+2023-389284,2023-06-08,000001,Vente,85000,,,LE VILLAGE,B041,31220,31422,Plagne,31,,,314220000B0415,,,,,,,,,,,,,0,,,,,S,sols,,,21,1.060959,43.157026
+2023-389284,2023-06-08,000001,Vente,85000,40,,RUE DE LA MAIRIE,0014,31220,31422,Plagne,31,,,314220000B0416,,,,,,,,,,,,,0,1,Maison,107,3,S,sols,,,487,1.061092,43.157015
+2023-389754,2023-06-30,000001,Vente,410000,,,MARIOTE,B023,31220,31422,Plagne,31,,,314220000B0837,,,,,,,,,,,,,0,,,,,L,landes,PACAG,Pacage,772,1.060422,43.151508
+2023-389754,2023-06-30,000001,Vente,410000,,,MARIOTE,B023,31220,31422,Plagne,31,,,314220000B0837,,,,,,,,,,,,,0,,,,,E,eaux,LAC,Lac,436,1.060422,43.151508
+2023-389754,2023-06-30,000001,Vente,410000,,,MARIOTE,B023,31220,31422,Plagne,31,,,314220000B0837,,,,,,,,,,,,,0,,,,,P,prés,,,501,1.060422,43.151508
+2023-389754,2023-06-30,000001,Vente,410000,,,BIDIAN,B003,31220,31422,Plagne,31,,,314220000B0838,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,2302,1.067711,43.154406
+2023-389754,2023-06-30,000001,Vente,410000,,,BIDIAN,B003,31220,31422,Plagne,31,,,314220000B0839,,,,,,,,,,,,,0,,,,,P,prés,,,613,1.067291,43.15448
+2023-389754,2023-06-30,000001,Vente,410000,,,BIDIAN,B003,31220,31422,Plagne,31,,,314220000B0839,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,8531,1.067291,43.15448
+2023-389754,2023-06-30,000001,Vente,410000,,,MARIOTE,B023,31220,31422,Plagne,31,,,314220000B0840,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,36053,1.058639,43.150179
+2023-389754,2023-06-30,000001,Vente,410000,,,BIDIAN,B003,31220,31422,Plagne,31,,,314220000B0841,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,11937,1.068631,43.154631
+2023-389754,2023-06-30,000001,Vente,410000,,,BIDIAN,B003,31220,31422,Plagne,31,,,314220000B0842,,,,,,,,,,,,,0,,,,,P,prés,,,7500,1.068096,43.154815
+2023-389754,2023-06-30,000001,Vente,410000,,,BIDIAN,B003,31220,31422,Plagne,31,,,314220000B0842,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,43230,1.068096,43.154815

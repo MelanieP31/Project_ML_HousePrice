@@ -1,0 +1,16 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-387829,2023-03-14,000001,Vente,13300,,,LE VILLAGE,B025,31510,31255,Labroquère,31,,,312550000A0353,,,,,,,,,,,,,0,,,,,S,sols,,,187,0.594025,43.041886
+2023-387829,2023-03-14,000001,Vente,13300,46,,PUJAUX,B022,31510,31255,Labroquère,31,,,312550000A0399,,,,,,,,,,,,,0,1,Maison,88,3,S,sols,,,337,0.594103,43.042219
+2023-387829,2023-03-14,000001,Vente,13300,,,PUJAUX,B022,31510,31255,Labroquère,31,,,312550000A0422,,,,,,,,,,,,,0,,,,,S,sols,,,451,0.594297,43.042153
+2023-388836,2023-05-17,000001,Vente,2500,,,CLAVERES,B008,31510,31255,Labroquère,31,,,312550000B0461,,,,,,,,,,,,,0,,,,,P,prés,,,6140,0.586479,43.042455
+2023-388838,2023-05-12,000002,Vente,34000,,,PUJAUX,B022,31510,31255,Labroquère,31,,,312550000A1035,,,,,,,,,,,,,0,,,,,S,sols,,,586,0.599523,43.037535
+2023-389138,2023-05-12,000001,Vente,3000,,,PUJAUX,B022,31510,31255,Labroquère,31,,,312550000A1036,,,,,,,,,,,,,0,,,,,S,sols,,,149,0.59953,43.037392
+2023-389139,2023-05-12,000001,Vente,5000,156,,PUJAUX,B022,31510,31255,Labroquère,31,,,312550000A1034,,,,,,,,,,,,,0,1,Maison,55,3,S,sols,,,205,0.599286,43.037403
+2023-390262,2023-07-21,000001,Vente,145000,107,,LE VILLAGE,B025,31510,31255,Labroquère,31,,,312550000B0082,,,,,,,,,,,,,0,1,Maison,120,5,S,sols,,,1020,0.589892,43.038517
+2023-390262,2023-07-21,000001,Vente,145000,,,LE VILLAGE,B025,31510,31255,Labroquère,31,,,312550000B0723,,,,,,,,,,,,,0,,,,,P,prés,,,224,0.589128,43.040182
+2023-390262,2023-07-21,000001,Vente,145000,,,LE VILLAGE,B025,31510,31255,Labroquère,31,,,312550000B0725,,,,,,,,,,,,,0,,,,,P,prés,,,7750,0.589697,43.039747
+2023-391661,2023-09-22,000001,Vente,1800,,,BERNISSAS,B002,31510,31255,Labroquère,31,,,312550000B0398,,,,,,,,,,,,,0,,,,,T,terres,,,615,0.590299,43.042124
+2023-391661,2023-09-22,000001,Vente,1800,,,BERNISSAS,B002,31510,31255,Labroquère,31,,,312550000B0399,,,,,,,,,,,,,0,,,,,P,prés,,,490,0.590448,43.042483
+2023-391661,2023-09-22,000001,Vente,1800,,,LA COUME,B010,31510,31255,Labroquère,31,,,312550000B0488,,,,,,,,,,,,,0,,,,,P,prés,,,1175,0.585429,43.045482
+2023-391661,2023-09-22,000001,Vente,1800,,,LA COUME,B010,31510,31255,Labroquère,31,,,312550000B0489,,,,,,,,,,,,,0,,,,,P,prés,,,450,0.584911,43.045704
+2023-391661,2023-09-22,000001,Vente,1800,,,LA COUME,B010,31510,31255,Labroquère,31,,,312550000B0490,,,,,,,,,,,,,0,,,,,P,prés,,,1500,0.58567,43.045568

@@ -1,0 +1,19 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-387890,2023-04-05,000001,Vente,10,,,ESTRABAN,B018,31230,31322,Martisserre,31,,,313220000A0449,,,,,,,,,,,,,0,,,,,T,terres,,,1062,0.88388,43.402799
+2023-389351,2023-06-24,000001,Vente,92000,,,LE VILLAGE,B055,31230,31322,Martisserre,31,,,313220000C0166,,,,,,,,,,,,,0,,,,,L,landes,,,1000,0.878518,43.392554
+2023-389351,2023-06-24,000001,Vente,92000,25,,LE VILLAGE,B055,31230,31322,Martisserre,31,,,313220000C0167,,,,,,,,,,,,,0,1,Maison,85,4,S,sols,,,820,0.878304,43.392416
+2023-389351,2023-06-24,000001,Vente,92000,,,PAOUTE,B044,31230,31322,Martisserre,31,,,313220000C0268,,,,,,,,,,,,,0,,,,,T,terres,,,3385,0.877765,43.392848
+2023-389351,2023-06-24,000001,Vente,92000,,,PAOUTE,B044,31230,31322,Martisserre,31,,,313220000C0268,,,,,,,,,,,,,0,,,,,T,terres,,,3385,0.877765,43.392848
+2023-391241,2023-08-31,000002,Vente,10520,,,LAPLANO,B034,31230,31322,Martisserre,31,,,313220000B0223,,,,,,,,,,,,,0,,,,,T,terres,,,1052,0.880151,43.384176
+2023-391561,2023-09-29,000002,Echange,4500,,,BARRAQUO,B003,31230,31322,Martisserre,31,,,313220000B0078,,,,,,,,,,,,,0,,,,,T,terres,,,7750,0.886449,43.387362
+2023-391561,2023-09-29,000003,Echange,4500,,,BOUBIES,B007,31230,31322,Martisserre,31,,,313220000C0250,,,,,,,,,,,,,0,,,,,T,terres,,,2180,0.879501,43.388531
+2023-391561,2023-09-29,000003,Echange,4500,,,BOUBIES,B007,31230,31322,Martisserre,31,,,313220000C0251,,,,,,,,,,,,,0,,,,,L,landes,,,770,0.879515,43.388107
+2023-391561,2023-09-29,000003,Echange,4500,,,BOUBIES,B007,31230,31322,Martisserre,31,,,313220000C0260,,,,,,,,,,,,,0,,,,,T,terres,,,7630,0.878792,43.386804
+2023-391622,2023-10-05,000001,Vente,267000,,,LARRIOU,B036,31230,31322,Martisserre,31,,,313220000C0198,,,,,,,,,,,,,0,,,,,L,landes,,,6750,0.888039,43.391064
+2023-391622,2023-10-05,000001,Vente,267000,,,BEAUREGARD,B005,31230,31322,Martisserre,31,,,313220000C0204,,,,,,,,,,,,,0,,,,,L,landes,,,3190,0.887633,43.3906
+2023-391622,2023-10-05,000001,Vente,267000,37,,BEAUREGARD,B005,31230,31322,Martisserre,31,,,313220000C0325,,,,,,,,,,,,,0,1,Maison,136,4,S,sols,,,1422,0.887593,43.38999
+2023-391622,2023-10-05,000001,Vente,267000,37,,BEAUREGARD,B005,31230,31322,Martisserre,31,,,313220000C0325,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1422,0.887593,43.38999
+2023-391622,2023-10-05,000001,Vente,267000,37,,BEAUREGARD,B005,31230,31322,Martisserre,31,,,313220000C0325,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,PARC,Parc,4288,0.887593,43.38999
+2023-391622,2023-10-05,000001,Vente,267000,37,,BEAUREGARD,B005,31230,31322,Martisserre,31,,,313220000C0325,,,,,,,,,,,,,0,1,Maison,136,4,T,terres,,,4010,0.887593,43.38999
+2023-391622,2023-10-05,000001,Vente,267000,37,,BEAUREGARD,B005,31230,31322,Martisserre,31,,,313220000C0325,,,,,,,,,,,,,0,1,Maison,136,4,AG,terrains d'agrément,PARC,Parc,4288,0.887593,43.38999
+2023-391622,2023-10-05,000001,Vente,267000,37,,BEAUREGARD,B005,31230,31322,Martisserre,31,,,313220000C0325,,,,,,,,,,,,,0,3,Dépendance,,0,T,terres,,,4010,0.887593,43.38999

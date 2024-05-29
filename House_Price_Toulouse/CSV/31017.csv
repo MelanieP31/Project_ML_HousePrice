@@ -1,0 +1,22 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-386662,2023-02-03,000001,Vente,225000,,,LE VILLAGE,B040,31440,31017,Arlos,31,,,310170000A0455,,,,,,,,,,,,,0,,,,,P,prés,,,1786,0.70257,42.891903
+2023-386662,2023-02-03,000001,Vente,225000,45,,LE VILLAGE,B040,31440,31017,Arlos,31,,,310170000A0463,,,,,,,,,,,,,0,1,Maison,90,3,S,sols,,,222,0.702795,42.891714
+2023-386833,2023-01-31,000001,Vente,600000,,,SALECHAS,B035,31440,31017,Arlos,31,,,310170000A0058,,,,,,,,,,,,,0,,,,,T,terres,,,2280,,
+2023-386833,2023-01-31,000001,Vente,600000,95,,MELIANDE,B025,31440,31017,Arlos,31,,,310170000A1013,,,,,,,,,,,,,0,4,Local industriel. commercial ou assimilé,2035,0,S,sols,,,9422,,
+2023-386833,2023-01-31,000001,Vente,600000,95,,MELIANDE,B025,31440,31017,Arlos,31,,,310170000A1013,,,,,,,,,,,,,0,4,Local industriel. commercial ou assimilé,2035,0,L,landes,,,400,,
+2023-386833,2023-01-31,000001,Vente,600000,95,,MELIANDE,B025,31440,31017,Arlos,31,,,310170000A1013,,,,,,,,,,,,,0,1,Maison,83,5,L,landes,,,400,,
+2023-386833,2023-01-31,000001,Vente,600000,95,,MELIANDE,B025,31440,31017,Arlos,31,,,310170000A1013,,,,,,,,,,,,,0,1,Maison,83,5,S,sols,,,9422,,
+2023-386833,2023-01-31,000001,Vente,600000,95,,MELIANDE,B025,31440,31017,Arlos,31,,,310170000A1013,,,,,,,,,,,,,0,4,Local industriel. commercial ou assimilé,2035,0,P,prés,,,6563,,
+2023-386833,2023-01-31,000001,Vente,600000,95,,MELIANDE,B025,31440,31017,Arlos,31,,,310170000A1013,,,,,,,,,,,,,0,4,Local industriel. commercial ou assimilé,2035,0,T,terres,,,2130,,
+2023-386833,2023-01-31,000001,Vente,600000,95,,MELIANDE,B025,31440,31017,Arlos,31,,,310170000A1013,,,,,,,,,,,,,0,4,Local industriel. commercial ou assimilé,2035,0,P,prés,,,3200,,
+2023-386833,2023-01-31,000001,Vente,600000,95,,MELIANDE,B025,31440,31017,Arlos,31,,,310170000A1013,,,,,,,,,,,,,0,1,Maison,83,5,T,terres,,,2130,,
+2023-386833,2023-01-31,000001,Vente,600000,95,,MELIANDE,B025,31440,31017,Arlos,31,,,310170000A1013,,,,,,,,,,,,,0,1,Maison,83,5,P,prés,,,3200,,
+2023-386833,2023-01-31,000001,Vente,600000,95,,MELIANDE,B025,31440,31017,Arlos,31,,,310170000A1013,,,,,,,,,,,,,0,1,Maison,83,5,P,prés,,,6563,,
+2023-386902,2023-02-21,000001,Vente,4000,,,LA LANO DES COUAIS,B020,31440,31017,Arlos,31,,,310170000A0296,,,,,,,,,,,,,0,,,,,P,prés,,,3840,0.702276,42.892309
+2023-387764,2023-03-29,000001,Vente,22000,,,LA LANO DES COUAIS,B020,31440,31017,Arlos,31,,,310170000A0289,,,,,,,,,,,,,0,,,,,T,terres,,,350,0.700845,42.892985
+2023-387764,2023-03-29,000001,Vente,22000,,,LA LANO DES COUAIS,B020,31440,31017,Arlos,31,,,310170000A0290,,,,,,,,,,,,,0,,,,,T,terres,,,965,0.700887,42.892918
+2023-388582,2023-04-28,000001,Vente,1500,,,SALOUAS,B036,31440,31017,Arlos,31,,,310170000A1143,,,,,,,,,,,,,0,,,,,S,sols,,,536,0.697816,42.895315
+2023-391140,2023-08-25,000002,Vente,91900,,,SALECHAS,B035,31440,31017,Arlos,31,,,310170000A1160,,,,,,,,,,,,,0,,,,,T,terres,,,903,0.697349,42.898391
+2023-391699,2023-10-14,000001,Vente,797.5,,,SALOUAS,B036,31440,31017,Arlos,31,,,310170000A1136,,,,,,,,,,,,,0,,,,,L,landes,,,1085,0.695834,42.895064
+2023-391699,2023-10-14,000001,Vente,797.5,,,SALOUAS,B036,31440,31017,Arlos,31,,,310170000A1137,,,,,,,,,,,,,0,,,,,L,landes,,,510,0.696021,42.894956
+2023-392019,2023-10-18,000001,Vente,98000,,,SALECHAS,B035,31440,31017,Arlos,31,,,310170000A1160,,,,,,,,,,,,,0,,,,,T,terres,,,903,0.697349,42.898391

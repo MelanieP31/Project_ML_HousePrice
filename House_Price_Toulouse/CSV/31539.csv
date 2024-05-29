@@ -1,0 +1,22 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-387939,2023-03-29,000001,Vente,16000,,,LA LANDE,B018,31580,31539,Sédeilhac,31,,,315390000B0005,,,,,,,,,,,,,0,,,,,T,terres,,,9818,0.506795,43.133432
+2023-388262,2023-04-17,000001,Vente,4000,,,COUSTETTE,B011,31580,31539,Sédeilhac,31,,,315390000A0288,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,14880,0.562806,43.161072
+2023-388262,2023-04-17,000001,Vente,4000,,,COUSTETTE,B011,31580,31539,Sédeilhac,31,,,315390000A0293,,,,,,,,,,,,,0,,,,,L,landes,FRICH,Friche,11220,0.564111,43.161096
+2023-388262,2023-04-17,000001,Vente,4000,,,COUSTETTE,B011,31580,31539,Sédeilhac,31,,,315390000A0294,,,,,,,,,,,,,0,,,,,T,terres,,,1901,0.565074,43.160667
+2023-388262,2023-04-17,000001,Vente,4000,,,COUSTETTE,B011,31580,31539,Sédeilhac,31,,,315390000A0294,,,,,,,,,,,,,0,,,,,T,terres,,,6239,0.565074,43.160667
+2023-388774,2023-05-16,000001,Vente,3000,,,TIRADE,B032,31580,31539,Sédeilhac,31,,,315390000A0626,,,,,,,,,,,,,0,,,,,T,terres,,,3420,0.560509,43.146445
+2023-388774,2023-05-16,000001,Vente,3000,,,TIRADE,B032,31580,31539,Sédeilhac,31,,,315390000A0627,,,,,,,,,,,,,0,,,,,L,landes,FRICH,Friche,4530,0.559837,43.147083
+2023-388774,2023-05-16,000001,Vente,3000,,,TIRADE,B032,31580,31539,Sédeilhac,31,,,315390000A0628,,,,,,,,,,,,,0,,,,,L,landes,FRICH,Friche,880,0.559476,43.147695
+2023-390157,2023-07-13,000001,Vente,20000,,,LA LANDE,B018,31580,31539,Sédeilhac,31,,,315390000B0042,,,,,,,,,,,,,0,,,,,T,terres,,,4750,0.514131,43.137333
+2023-390157,2023-07-13,000001,Vente,20000,,,LA LANDE,B018,31580,31539,Sédeilhac,31,,,315390000B0053,,,,,,,,,,,,,0,,,,,T,terres,,,13397,0.513294,43.139487
+2023-390157,2023-07-13,000001,Vente,20000,,,LA LANDE,B018,31580,31539,Sédeilhac,31,,,315390000B0068,,,,,,,,,,,,,0,,,,,T,terres,,,4040,0.516443,43.141041
+2023-390157,2023-07-13,000001,Vente,20000,,,LA LANDE,B018,31580,31539,Sédeilhac,31,,,315390000B0074,,,,,,,,,,,,,0,,,,,T,terres,,,4105,0.515174,43.142341
+2023-390157,2023-07-13,000001,Vente,20000,,,ASTOUAS,B001,31580,31539,Sédeilhac,31,,,315390000B0088,,,,,,,,,,,,,0,,,,,T,terres,,,7174,0.517662,43.143814
+2023-390157,2023-07-13,000001,Vente,20000,,,ASTOUAS,B001,31580,31539,Sédeilhac,31,,,315390000B0093,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,400,0.520216,43.142837
+2023-390157,2023-07-13,000001,Vente,20000,,,ASTOUAS,B001,31580,31539,Sédeilhac,31,,,315390000B0094,,,,,,,,,,,,,0,,,,,T,terres,,,3730,0.519537,43.142391
+2023-390157,2023-07-13,000001,Vente,20000,,,BOUSCARA,B004,31580,31539,Sédeilhac,31,,,315390000B0408,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,660,0.530979,43.144356
+2023-391487,2023-09-12,000001,Echange,30000,,,CHEMIN DU FAURE,B010,31580,31539,Sédeilhac,31,,,315390000B0305,,,,,,,,,,,,,0,,,,,T,terres,,,4000,0.530012,43.149812
+2023-391487,2023-09-12,000001,Echange,30000,,,CHEMIN DU FAURE,B010,31580,31539,Sédeilhac,31,,,315390000B0306,,,,,,,,,,,,,0,,,,,T,terres,,,7500,0.529464,43.149577
+2023-391488,2023-09-12,000002,Echange,3000,,,SAUTET,B030,31580,31539,Sédeilhac,31,,,315390000B0471,,,,,,,,,,,,,0,,,,,T,terres,,,9274,0.53199,43.149475
+2023-391953,2023-10-23,000001,Vente,225000,9000,,CAP DE SEDEILHAC,B006,31580,31539,Sédeilhac,31,,,315390000B0900,,,,,,,,,,,,,0,1,Maison,132,4,P,prés,,,1935,0.525608,43.1418
+2023-392185,2023-11-13,000001,Vente,700,,,AUGUSTINOTS,B002,31580,31539,Sédeilhac,31,,,315390000B0230,,,,,,,,,,,,,0,,,,,T,terres,,,3495,0.518047,43.134955

@@ -1,0 +1,15 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-376191,2023-07-13,000001,Vente,1,,,LE VILLAGE,B061,31290,31054,Beauteville,31,,,310540000B0476,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,2,1.737091,43.347353
+2023-382479,2023-10-18,000001,Vente,540,,,LE CRUZEL,B016,31290,31054,Beauteville,31,,,310540000B0206,,,,,,,,,,,,,0,,,,,L,landes,,,1522,1.740327,43.344581
+2023-382479,2023-10-18,000001,Vente,540,,,LE CRUZEL,B016,31290,31054,Beauteville,31,,,310540000B0207,,,,,,,,,,,,,0,,,,,T,terres,,,610,1.740012,43.344782
+2023-382479,2023-10-18,000001,Vente,540,,,LE CRUZEL,B016,31290,31054,Beauteville,31,,,310540000B0208,,,,,,,,,,,,,0,,,,,T,terres,,,583,1.740028,43.344564
+2023-382479,2023-10-18,000001,Vente,540,,,LE CRUZEL,B016,31290,31054,Beauteville,31,,,310540000B0209,,,,,,,,,,,,,0,,,,,T,terres,,,889,1.740611,43.344306
+2023-384229,2023-12-11,000001,Vente,11000,,,VERSANT DU VILLAGE,B060,31290,31054,Beauteville,31,,,310540000B0469,,,,,,,,,,,,,0,,,,,S,sols,,,238,1.740384,43.346906
+2023-384942,2023-12-12,000002,Vente,5106,,,LA FONT DE LA VILLE,B026,31290,31054,Beauteville,31,,,310540000B0482,,,,,,,,,,,,,0,,,,,T,terres,,,2891,,
+2023-384942,2023-12-12,000002,Vente,5106,,,LA FONT DE LA VILLE,B026,31290,31054,Beauteville,31,,,310540000B0484,,,,,,,,,,,,,0,,,,,T,terres,,,1364,,
+2023-385135,2023-12-13,000001,Vente,93000,,,EMPERROT,B017,31290,31054,Beauteville,31,,,310540000B0114,,,,,,,,,,,,,0,,,,,J,jardins,,,100,1.738042,43.346081
+2023-385135,2023-12-13,000001,Vente,93000,5033,,EMPERROT,B017,31290,31054,Beauteville,31,,,310540000B0353,,,,,,,,,,,,,0,1,Maison,97,4,T,terres,,,1380,1.737807,43.345404
+2023-385135,2023-12-13,000001,Vente,93000,33,,LE VILLAGE,B061,31290,31054,Beauteville,31,,,310540000B0354,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,584,1.737998,43.345872
+2023-385815,2023-12-21,000001,Vente,47610,,,GUIRAUDE,B029,31290,31054,Beauteville,31,,,310540000A0040,,,,,,,,,,,,,0,,,,,T,terres,,,9440,1.723826,43.352328
+2023-385815,2023-12-21,000001,Vente,47610,,,EMPUJET,B019,31290,31054,Beauteville,31,,,310540000A0233,,,,,,,,,,,,,0,,,,,T,terres,,,6340,1.725182,43.349604
+2023-385815,2023-12-21,000001,Vente,47610,,,EMPUJET,B019,31290,31054,Beauteville,31,,,310540000A0234,,,,,,,,,,,,,0,,,,,T,terres,,,45340,1.724315,43.350717

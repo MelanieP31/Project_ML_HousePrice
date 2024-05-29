@@ -1,0 +1,25 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-386375,2023-01-03,000001,Vente,5000,,,LA RANQUE,B094,31220,31362,Montberaud,31,,,313620000C0093,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,11915,1.171264,43.149185
+2023-386375,2023-01-03,000001,Vente,5000,,,LA RANQUE,B094,31220,31362,Montberaud,31,,,313620000C0094,,,,,,,,,,,,,0,,,,,L,landes,PACAG,Pacage,2987,1.170514,43.149312
+2023-386563,2023-01-26,000001,Vente,1000,,,MARSAUX,B077,31220,31362,Montberaud,31,,,313620000D0512,,,,,,,,,,,,,0,,,,,L,landes,PACAG,Pacage,1872,1.12709,43.163705
+2023-386578,2023-01-26,000001,Vente,1500,,,HOUEILIGAY,B052,31220,31362,Montberaud,31,,,313620000A0187,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,1530,1.146819,43.179771
+2023-386640,2023-01-26,000001,Vente,2000,,,BOURBOUNAC,B011,31220,31362,Montberaud,31,,,313620000A0251,,,,,,,,,,,,,0,,,,,T,terres,,,2763,1.145041,43.18744
+2023-387403,2023-03-09,000001,Vente,500,,,LASTREYTES,B071,31220,31362,Montberaud,31,,,313620000A0686,,,,,,,,,,,,,0,,,,,L,landes,VAGUE,Terrain vague,66,1.156872,43.16273
+2023-387403,2023-03-09,000001,Vente,500,,,LASTREYTES,B071,31220,31362,Montberaud,31,,,313620000A0687,,,,,,,,,,,,,0,,,,,L,landes,VAGUE,Terrain vague,979,1.156933,43.162908
+2023-387887,2023-04-07,000001,Vente,110000,5001,,BOUSQUET,B014,31220,31362,Montberaud,31,,,313620000D0847,,,,,,,,,,,,,0,3,Dépendance,,0,T,terres,,,660,1.145616,43.150889
+2023-387887,2023-04-07,000001,Vente,110000,5001,,BOUSQUET,B014,31220,31362,Montberaud,31,,,313620000D0847,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,340,1.145616,43.150889
+2023-387887,2023-04-07,000001,Vente,110000,5001,,BOUSQUET,B014,31220,31362,Montberaud,31,,,313620000D0847,,,,,,,,,,,,,0,1,Maison,59,3,S,sols,,,340,1.145616,43.150889
+2023-387887,2023-04-07,000001,Vente,110000,5001,,BOUSQUET,B014,31220,31362,Montberaud,31,,,313620000D0847,,,,,,,,,,,,,0,1,Maison,59,3,T,terres,,,660,1.145616,43.150889
+2023-387887,2023-04-07,000001,Vente,110000,,,BOUSQUET,B014,31220,31362,Montberaud,31,,,313620000D0933,,,,,,,,,,,,,0,,,,,T,terres,,,201,1.145582,43.150729
+2023-388139,2023-04-14,000001,Vente,215000,,,MARMIE,B076,31220,31362,Montberaud,31,,,313620000C0892,,,,,,,,,,,,,0,,,,,S,sols,,,210,1.163921,43.131389
+2023-388139,2023-04-14,000001,Vente,215000,5001,F,MARMIE,B076,31220,31362,Montberaud,31,,,313620000C0895,,,,,,,,,,,,,0,1,Maison,270,10,S,sols,,,1700,1.163681,43.131459
+2023-388139,2023-04-14,000001,Vente,215000,5001,F,MARMIE,B076,31220,31362,Montberaud,31,,,313620000C0895,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1700,1.163681,43.131459
+2023-388139,2023-04-14,000001,Vente,215000,5001,F,MARMIE,B076,31220,31362,Montberaud,31,,,313620000C0895,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1700,1.163681,43.131459
+2023-390663,2023-08-10,000001,Vente,461200,,,LARROUQUETE,B063,31220,31362,Montberaud,31,,,313620000A0413,,,,,,,,,,,,,0,,,,,S,sols,,,729,1.159133,43.167465
+2023-390663,2023-08-10,000001,Vente,461200,,,LARROUQUETE,B063,31220,31362,Montberaud,31,,,313620000A0413,,,,,,,,,,,,,0,,,,,J,jardins,,,2000,1.159133,43.167465
+2023-390663,2023-08-10,000001,Vente,461200,,,LARROUQUETE,B063,31220,31362,Montberaud,31,,,313620000A0415,,,,,,,,,,,,,0,,,,,P,prés,,,2700,1.159989,43.168304
+2023-390663,2023-08-10,000001,Vente,461200,,,LARROUQUETE,B063,31220,31362,Montberaud,31,,,313620000A0419,,,,,,,,,,,,,0,,,,,L,landes,PACAG,Pacage,3966,1.162816,43.16764
+2023-390663,2023-08-10,000001,Vente,461200,5001,F,LARROUQUETE,B063,31220,31362,Montberaud,31,,,313620000A0420,,,,,,,,,,,,,0,1,Maison,177,4,T,terres,,,40453,1.160926,43.16768
+2023-390663,2023-08-10,000001,Vente,461200,,,LASPLAGNOTES,B069,31220,31362,Montberaud,31,,,313620000A0429,,,,,,,,,,,,,0,,,,,P,prés,,,4610,1.161446,43.166697
+2023-392999,2023-12-21,000001,Vente,250000,62,A,HERRUS,B049,31220,31362,Montberaud,31,,,313620000D0821,,,,,,,,,,,,,0,1,Maison,148,5,S,sols,,,1322,1.146268,43.150523
+2023-392999,2023-12-21,000001,Vente,250000,62,A,HERRUS,B049,31220,31362,Montberaud,31,,,313620000D0821,,,,,,,,,,,,,0,1,Maison,148,5,P,prés,,,711,1.146268,43.150523

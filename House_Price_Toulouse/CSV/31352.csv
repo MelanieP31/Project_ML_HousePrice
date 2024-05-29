@@ -1,0 +1,15 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-366504,2023-01-25,000001,Vente,317813.12,,,LAS LANDOS,B012,31850,31352,Mondouzil,31,,,313520000A0824,,,,,,,,,,,,,0,4,Local industriel. commercial ou assimilé,,0,AB,terrains a bâtir,,,1528,1.556883,43.640237
+2023-366504,2023-01-25,000001,Vente,317813.12,,,LAS LANDOS,B012,31850,31352,Mondouzil,31,,,313520000A0827,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,8459,1.557747,43.639904
+2023-366504,2023-01-25,000001,Vente,317813.12,,,LAS LANDOS,B012,31850,31352,Mondouzil,31,,,313520000A0830,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,1495,1.556763,43.6399
+2023-367736,2023-02-15,000002,Vente,200000,,,LES DOURELS NORD,B006,31850,31352,Mondouzil,31,,,313520000A0836,,,,,,,,,,,,,0,,,,,T,terres,,,6514,1.572461,43.629823
+2023-367736,2023-02-15,000002,Vente,200000,,,LES DOURELS NORD,B006,31850,31352,Mondouzil,31,,,313520000A0839,,,,,,,,,,,,,0,,,,,T,terres,,,4917,1.572202,43.628819
+2023-367736,2023-02-15,000002,Vente,200000,,,LES DOURELS NORD,B006,31850,31352,Mondouzil,31,,,313520000A0840,,,,,,,,,,,,,0,,,,,T,terres,,,1489,1.571821,43.629419
+2023-367736,2023-02-15,000002,Vente,200000,,,LES DOURELS NORD,B006,31850,31352,Mondouzil,31,,,313520000A0841,,,,,,,,,,,,,0,,,,,T,terres,,,1051,1.571804,43.627936
+2023-377966,2023-08-04,000002,Vente,1,,,LES DOURELS NORD,B006,31850,31352,Mondouzil,31,,,313520000A0804,,,,,,,,,,,,,0,,,,,T,terres,,,31,1.573457,43.627979
+2023-378225,2023-08-07,000001,Vente,744730,2,,RUE DU POIRIER,0130,31850,31352,Mondouzil,31,,,313520000A0567,,,,,,,,,,,,,0,1,Maison,169,6,S,sols,,,1000,1.560888,43.634756
+2023-378225,2023-08-07,000001,Vente,744730,2,,RUE DU POIRIER,0130,31850,31352,Mondouzil,31,,,313520000A0567,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,PARC,Parc,530,1.560888,43.634756
+2023-378225,2023-08-07,000001,Vente,744730,2,,RUE DU POIRIER,0130,31850,31352,Mondouzil,31,,,313520000A0567,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,PARC,Parc,530,1.560888,43.634756
+2023-378225,2023-08-07,000001,Vente,744730,2,,RUE DU POIRIER,0130,31850,31352,Mondouzil,31,,,313520000A0567,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1000,1.560888,43.634756
+2023-378225,2023-08-07,000001,Vente,744730,2,,RUE DU POIRIER,0130,31850,31352,Mondouzil,31,,,313520000A0567,,,,,,,,,,,,,0,1,Maison,169,6,AG,terrains d'agrément,PARC,Parc,530,1.560888,43.634756
+2023-378225,2023-08-07,000001,Vente,744730,2,,RUE DU POIRIER,0130,31850,31352,Mondouzil,31,,,313520000A0567,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,1000,1.560888,43.634756

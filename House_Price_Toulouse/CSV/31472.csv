@@ -1,0 +1,21 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-386963,2023-02-07,000001,Vente,284900,3,,LABAT,B028,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000A0263,,,,,,,,,,,,,0,1,Maison,160,4,S,sols,,,540,0.54812,43.034566
+2023-386963,2023-02-07,000001,Vente,284900,,,LABAT,B028,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000A0409,,,,,,,,,,,,,0,,,,,L,landes,,,300,0.547987,43.034666
+2023-387057,2023-02-07,000001,Vente,97080,162,,LE PLAN,B056,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000B0373,,,,,,,,,,,,,0,1,Maison,150,5,S,sols,,,90,0.574419,43.027098
+2023-387229,2023-02-24,000001,Vente,250,,,LE MONT,B048,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000C0162,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,2000,0.567436,43.027333
+2023-387229,2023-02-24,000001,Vente,250,,,LE MONT,B048,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000C0163,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,4080,0.567557,43.02762
+2023-387329,2023-02-28,000001,Vente,500,,,LAS BOUDIGUETTES,B038,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000B0022,,,,,,,,,,,,,0,,,,,T,terres,,,1528,0.554206,43.034716
+2023-387676,2023-03-24,000001,Vente,49500,,,TRANQUISTAN,B069,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000B0557,,,,,,,,,,,,,0,,,,,S,sols,,,32,0.579005,43.028519
+2023-387676,2023-03-24,000001,Vente,49500,,,TRANQUISTAN,B069,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000B0557,,,,,,,,,,,,,0,,,,,P,prés,,,3468,0.579005,43.028519
+2023-387676,2023-03-24,000001,Vente,49500,,,TRANQUISTAN,B069,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000B0865,,,,,,,,,,,,,0,,,,,S,sols,,,50,0.57896,43.028217
+2023-388197,2023-04-13,000001,Vente,180000,29,A,SAINT-MARTIN,B062,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000B0919,,,,,,,,,,,,,0,1,Maison,59,3,S,sols,,,1515,0.562515,43.034186
+2023-388197,2023-04-13,000001,Vente,180000,29,A,SAINT-MARTIN,B062,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000B0919,,,,,,,,,,,,,0,1,Maison,59,3,P,prés,,,3030,0.562515,43.034186
+2023-388349,2023-04-18,000001,Vente,1400,,,LAHAJAOU,B029,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000B0834,,,,,,,,,,,,,0,,,,,P,prés,,,1620,0.564263,43.025537
+2023-388349,2023-04-18,000001,Vente,1400,,,LAHAJAOU,B029,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000B0835,,,,,,,,,,,,,0,,,,,S,sols,,,360,0.563777,43.025356
+2023-388349,2023-04-18,000001,Vente,1400,,,LAHAJAOU,B029,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000B0836,,,,,,,,,,,,,0,,,,,L,landes,,,990,0.563879,43.025053
+2023-390345,2023-08-01,000001,Vente,315000,,,LE PLAN,B056,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000B0424,,,,,,,,,,,,,0,,,,,L,landes,,,90,0.573126,43.026684
+2023-390345,2023-08-01,000001,Vente,315000,,,LE PLAN,B056,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000B0426,,,,,,,,,,,,,0,,,,,J,jardins,,,230,0.572868,43.026514
+2023-390345,2023-08-01,000001,Vente,315000,,,LA VILLE,B071,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000B0499,,,,,,,,,,,,,0,,,,,S,sols,,,125,0.571855,43.026912
+2023-390345,2023-08-01,000001,Vente,315000,179,,LA VILLE,B071,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000B0500,,,,,,,,,,,,,0,4,Local industriel. commercial ou assimilé,131,0,S,sols,,,178,0.571742,43.026955
+2023-390345,2023-08-01,000001,Vente,315000,179,,LA VILLE,B071,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000B0500,,,,,,,,,,,,,0,4,Local industriel. commercial ou assimilé,250,0,S,sols,,,178,0.571742,43.026955
+2023-392568,2023-11-30,000001,Vente,40540,,,TRANQUISTAN,B069,31510,31472,Saint-Bertrand-de-Comminges,31,,,314720000B0553,,,,,,,,,,,,,0,,,,,P,prés,,,2800,0.580627,43.029973

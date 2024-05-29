@@ -1,0 +1,20 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-387002,2023-02-10,000002,Vente,177780,566,,RTE DE SAINT ANDRE,0009,31230,31301,Lilhac,31,,,31301000AH0005,,,,,,,,,,,,,0,1,Maison,105,3,S,sols,,,1688,0.812287,43.279448
+2023-387002,2023-02-10,000002,Vente,177780,,,LAS ARROQUES,B031,31230,31301,Lilhac,31,,,31301000AH0118,,,,,,,,,,,,,0,,,,,J,jardins,,,570,0.812203,43.279279
+2023-387002,2023-02-10,000002,Vente,177780,,,PEYRE JOUANNE,B042,31230,31301,Lilhac,31,,,31301000AH0134,,,,,,,,,,,,,0,,,,,J,jardins,,,255,0.812727,43.279536
+2023-387257,2023-02-27,000001,Vente,35000,,,COUME HAURESSE,B019,31230,31301,Lilhac,31,,,31301000AE0184,,,,,,,,,,,,,0,,,,,P,prés,,,598,0.815706,43.280366
+2023-387257,2023-02-27,000001,Vente,35000,,,COUME HAURESSE,B019,31230,31301,Lilhac,31,,,31301000AE0186,,,,,,,,,,,,,0,,,,,T,terres,,,1000,0.815117,43.280245
+2023-387257,2023-02-27,000001,Vente,35000,,,COUME HAURESSE,B019,31230,31301,Lilhac,31,,,31301000AE0187,,,,,,,,,,,,,0,,,,,T,terres,,,1175,0.815451,43.280294
+2023-387257,2023-02-27,000001,Vente,35000,,,COUME HAURESSE,B019,31230,31301,Lilhac,31,,,31301000AE0188,,,,,,,,,,,,,0,,,,,T,terres,,,1889,0.814563,43.280118
+2023-389807,2023-07-07,000001,Vente,120000,51,,RTE DE RIEUMES,0013,31230,31301,Lilhac,31,,,31301000AL0080,,,,,,,,,,,,,0,1,Maison,108,3,S,sols,,,919,0.809273,43.284768
+2023-389807,2023-07-07,000001,Vente,120000,,,LES CAUBETS,B013,31230,31301,Lilhac,31,,,31301000AL0240,,,,,,,,,,,,,0,,,,,T,terres,,,137,0.809101,43.284746
+2023-390467,2023-08-02,000001,Vente,245000,,,LA PLAGNE,B045,31230,31301,Lilhac,31,,,31301000AE0014,,,,,,,,,,,,,0,,,,,T,terres,,,3102,0.812924,43.285044
+2023-390467,2023-08-02,000001,Vente,245000,,,LES ENCLOS,B022,31230,31301,Lilhac,31,,,31301000AE0176,,,,,,,,,,,,,0,,,,,T,terres,,,849,0.81231,43.285174
+2023-390467,2023-08-02,000001,Vente,245000,186,,CHE DU CATALAN,0006,31230,31301,Lilhac,31,,,31301000AE0177,,,,,,,,,,,,,0,1,Maison,84,2,S,sols,,,500,0.812318,43.285799
+2023-390467,2023-08-02,000001,Vente,245000,186,,CHE DU CATALAN,0006,31230,31301,Lilhac,31,,,31301000AE0177,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,500,0.812318,43.285799
+2023-390467,2023-08-02,000001,Vente,245000,186,,CHE DU CATALAN,0006,31230,31301,Lilhac,31,,,31301000AE0177,,,,,,,,,,,,,0,1,Maison,84,2,P,prés,,,2000,0.812318,43.285799
+2023-390467,2023-08-02,000001,Vente,245000,186,,CHE DU CATALAN,0006,31230,31301,Lilhac,31,,,31301000AE0177,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,500,0.812318,43.285799
+2023-390467,2023-08-02,000001,Vente,245000,186,,CHE DU CATALAN,0006,31230,31301,Lilhac,31,,,31301000AE0177,,,,,,,,,,,,,0,3,Dépendance,,0,P,prés,,,2000,0.812318,43.285799
+2023-390467,2023-08-02,000001,Vente,245000,186,,CHE DU CATALAN,0006,31230,31301,Lilhac,31,,,31301000AE0177,,,,,,,,,,,,,0,3,Dépendance,,0,P,prés,,,2000,0.812318,43.285799
+2023-390467,2023-08-02,000001,Vente,245000,,,LES ENCLOS,B022,31230,31301,Lilhac,31,,,31301000AE0178,,,,,,,,,,,,,0,,,,,T,terres,,,1409,0.812465,43.285556
+2023-390550,2023-07-25,000001,Vente,350,,,COUME HAURESSE,B019,31230,31301,Lilhac,31,,,31301000AE0185,,,,,,,,,,,,,0,,,,,P,prés,,,178,0.815801,43.280336

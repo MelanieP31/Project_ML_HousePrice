@@ -1,0 +1,45 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-386423,2023-01-20,000001,Vente,215000,5001,,GARGOTIS,B019,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1043,,,,,,,,,,,,,0,1,Maison,104,4,S,sols,,,1348,1.1477,43.242949
+2023-386461,2023-01-13,000001,Vente,66500,,,SAINT AGNE,B042,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1315,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,564,1.147512,43.240977
+2023-387193,2023-02-23,000001,Vente,51000,,,SAINT AGNE,B042,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1329,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,670,1.147275,43.241705
+2023-387719,2023-03-23,000001,Vente,63000,,,SAINT AGNE,B042,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1328,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,556,1.147177,43.241656
+2023-387910,2023-03-30,000001,Vente,257000,31,,MANSAN,B029,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000B0426,,,,,,,,,,,,,0,1,Maison,85,4,S,sols,,,1730,1.159522,43.250621
+2023-387910,2023-03-30,000001,Vente,257000,31,,MANSAN,B029,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000B0426,,,,,,,,,,,,,0,1,Maison,85,4,T,terres,,,6360,1.159522,43.250621
+2023-388095,2023-03-24,000001,Vente,138000,,,VILLAGE,B046,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C0533,,,,,,,,,,,,,0,,,,,S,sols,,,440,1.150676,43.242796
+2023-388095,2023-03-24,000001,Vente,138000,63,,VILLAGE,B046,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C0534,,,,,,,,,,,,,0,1,Maison,100,4,S,sols,,,420,1.150818,43.242894
+2023-388095,2023-03-24,000001,Vente,138000,,,VILLAGE,B046,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C0897,,,,,,,,,,,,,0,,,,,S,sols,,,95,1.150565,43.242776
+2023-388878,2023-05-15,000001,Vente,68000,,,SAINT AGNE,B042,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1300,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,100,1.147541,43.241575
+2023-388878,2023-05-15,000001,Vente,68000,,,SAINT AGNE,B042,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1330,,,,,,,,,,,,,0,,,,,AB,terrains a bâtir,,,552,1.147482,43.241699
+2023-389588,2023-06-21,000001,Vente,512000,,,LE BOSC,B010,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1119,,,,,,,,,,,,,0,,,,,T,terres,,,363,1.142798,43.243591
+2023-389588,2023-06-21,000001,Vente,512000,158,,LE BOSC,B010,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1121,,,,,,,,,,,,,0,3,Dépendance,,0,P,prés,,,3046,1.142504,43.243864
+2023-389588,2023-06-21,000001,Vente,512000,158,,LE BOSC,B010,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1121,,,,,,,,,,,,,0,1,Maison,179,4,S,sols,,,2577,1.142504,43.243864
+2023-389588,2023-06-21,000001,Vente,512000,158,,LE BOSC,B010,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1121,,,,,,,,,,,,,0,1,Maison,179,4,P,prés,,,3046,1.142504,43.243864
+2023-389588,2023-06-21,000001,Vente,512000,158,,LE BOSC,B010,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1121,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,2577,1.142504,43.243864
+2023-389660,2023-07-05,000001,Vente,319381,5002,F,BRAGUET,B011,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000B0874,,,,,,,,,,,,,0,1,Maison,119,4,AG,terrains d'agrément,,,500,1.154989,43.246035
+2023-389660,2023-07-05,000001,Vente,319381,5002,F,BRAGUET,B011,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000B0874,,,,,,,,,,,,,0,1,Maison,119,4,S,sols,,,800,1.154989,43.246035
+2023-390476,2023-07-31,000001,Vente,115947,5002,F,BILLOT,B008,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1123,,,,,,,,,,,,,0,1,Maison,88,4,S,sols,,,1000,1.143948,43.23653
+2023-390476,2023-07-31,000001,Vente,115947,5002,F,BILLOT,B008,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1123,,,,,,,,,,,,,0,1,Maison,88,4,AG,terrains d'agrément,,,1137,1.143948,43.23653
+2023-390476,2023-07-31,000001,Vente,115947,,,BILLOT,B008,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1125,,,,,,,,,,,,,0,,,,,AG,terrains d'agrément,,,176,1.143696,43.236682
+2023-391007,2023-09-05,000001,Vente,9000,,,BARRERE,B004,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C0171,,,,,,,,,,,,,0,,,,,P,prés,,,16335,1.149045,43.24528
+2023-391007,2023-09-05,000001,Vente,9000,,,BARRERE,B004,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C0172,,,,,,,,,,,,,0,,,,,J,jardins,POTAG,Jardin potager,480,1.149416,43.245301
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1336,,,,,,,,,,,,,0,,,,,P,prés,,,534,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1337,,,,,,,,,,,,,0,,,,,P,prés,,,290,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1338,,,,,,,,,,,,,0,,,,,P,prés,,,290,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1339,,,,,,,,,,,,,0,,,,,P,prés,,,290,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1340,,,,,,,,,,,,,0,,,,,P,prés,,,290,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1341,,,,,,,,,,,,,0,,,,,P,prés,,,290,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1342,,,,,,,,,,,,,0,,,,,P,prés,,,407,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1343,,,,,,,,,,,,,0,,,,,P,prés,,,756,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1344,,,,,,,,,,,,,0,,,,,P,prés,,,465,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1345,,,,,,,,,,,,,0,,,,,P,prés,,,456,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1346,,,,,,,,,,,,,0,,,,,P,prés,,,446,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1347,,,,,,,,,,,,,0,,,,,P,prés,,,437,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1348,,,,,,,,,,,,,0,,,,,P,prés,,,842,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1349,,,,,,,,,,,,,0,,,,,P,prés,,,46,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1350,,,,,,,,,,,,,0,,,,,P,prés,,,13,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1351,,,,,,,,,,,,,0,,,,,P,prés,,,8,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1352,,,,,,,,,,,,,0,,,,,P,prés,,,1159,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1353,,,,,,,,,,,,,0,,,,,P,prés,,,505,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1354,,,,,,,,,,,,,0,,,,,P,prés,,,1032,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1355,,,,,,,,,,,,,0,,,,,P,prés,,,1474,,
+2023-393043,2023-12-13,000002,Vente,150000,,,LARROQUE,B026,31220,31492,Saint-Julien-sur-Garonne,31,,,314920000C1356,,,,,,,,,,,,,0,,,,,P,prés,,,4,,

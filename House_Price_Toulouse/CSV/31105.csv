@@ -1,0 +1,18 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-367828,2023-02-20,000001,Vente,379147,12,,BEYSSIERE,B007,31460,31105,Caragoudes,31,,,31105000ZK0055,,,,,,,,,,,,,0,1,Maison,79,2,P,prés,,,3520,1.70262,43.496132
+2023-367828,2023-02-20,000001,Vente,379147,12,,BEYSSIERE,B007,31460,31105,Caragoudes,31,,,31105000ZK0055,,,,,,,,,,,,,0,1,Maison,79,2,S,sols,,,3390,1.70262,43.496132
+2023-372775,2023-05-05,000001,Vente,320000,9001,,AMBARDISSOUS,B003,31460,31105,Caragoudes,31,,,31105000ZI0034,,,,,,,,,,,,,0,1,Maison,106,4,S,sols,,,4334,1.722881,43.489088
+2023-372775,2023-05-05,000001,Vente,320000,9001,,AMBARDISSOUS,B003,31460,31105,Caragoudes,31,,,31105000ZI0034,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,4334,1.722881,43.489088
+2023-382040,2023-10-20,000001,Vente,420000,47,,CABANIAL,B009,31460,31105,Caragoudes,31,,,31105000ZC0070,,,,,,,,,,,,,0,1,Maison,203,4,S,sols,,,3331,1.705374,43.507732
+2023-382040,2023-10-20,000001,Vente,420000,47,,CABANIAL,B009,31460,31105,Caragoudes,31,,,31105000ZC0070,,,,,,,,,,,,,0,1,Maison,203,4,T,terres,,,1713,1.705374,43.507732
+2023-382040,2023-10-20,000001,Vente,420000,,,CABANIAL,B009,31460,31105,Caragoudes,31,,,31105000ZC0071,,,,,,,,,,,,,0,,,,,T,terres,,,4782,1.705972,43.507734
+2023-383181,2023-10-28,000001,Vente,151500,28,,LES PERIERES,B046,31460,31105,Caragoudes,31,,,31105000ZI0036,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,2000,1.720054,43.485178
+2023-383181,2023-10-28,000001,Vente,151500,28,,LES PERIERES,B046,31460,31105,Caragoudes,31,,,31105000ZI0036,,,,,,,,,,,,,0,1,Maison,110,4,S,sols,,,2000,1.720054,43.485178
+2023-383181,2023-10-28,000001,Vente,151500,28,,LES PERIERES,B046,31460,31105,Caragoudes,31,,,31105000ZI0036,,,,,,,,,,,,,0,1,Maison,74,3,S,sols,,,2000,1.720054,43.485178
+2023-383181,2023-10-28,000001,Vente,151500,28,,LES PERIERES,B046,31460,31105,Caragoudes,31,,,31105000ZI0036,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,2000,1.720054,43.485178
+2023-383181,2023-10-28,000001,Vente,151500,28,,LES PERIERES,B046,31460,31105,Caragoudes,31,,,31105000ZI0036,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,2000,1.720054,43.485178
+2023-383181,2023-10-28,000001,Vente,151500,28,,LES PERIERES,B046,31460,31105,Caragoudes,31,,,31105000ZI0036,,,,,,,,,,,,,0,1,Maison,110,4,AG,terrains d'agrément,PARC,Parc,1769,1.720054,43.485178
+2023-383181,2023-10-28,000001,Vente,151500,28,,LES PERIERES,B046,31460,31105,Caragoudes,31,,,31105000ZI0036,,,,,,,,,,,,,0,1,Maison,74,3,AG,terrains d'agrément,PARC,Parc,1769,1.720054,43.485178
+2023-383181,2023-10-28,000001,Vente,151500,28,,LES PERIERES,B046,31460,31105,Caragoudes,31,,,31105000ZI0036,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,PARC,Parc,1769,1.720054,43.485178
+2023-383181,2023-10-28,000001,Vente,151500,28,,LES PERIERES,B046,31460,31105,Caragoudes,31,,,31105000ZI0036,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,PARC,Parc,1769,1.720054,43.485178
+2023-383181,2023-10-28,000001,Vente,151500,28,,LES PERIERES,B046,31460,31105,Caragoudes,31,,,31105000ZI0036,,,,,,,,,,,,,0,3,Dépendance,,0,AG,terrains d'agrément,PARC,Parc,1769,1.720054,43.485178

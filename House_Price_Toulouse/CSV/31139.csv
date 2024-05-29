@@ -1,0 +1,10 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-386543,2023-01-18,000001,Vente,30000,2,,CAMI DE LA COSTO,0057,31440,31139,Chaum,31,,,311390000A0389,,,,,,,,,,,,,0,1,Maison,64,1,S,sols,,,225,0.657469,42.937774
+2023-387536,2023-03-16,000001,Vente,1521,,,SAINT-JULIEN,B037,31440,31139,Chaum,31,,,311390000A0023,,,,,,,,,,,,,0,,,,,T,terres,,,770,0.649294,42.941457
+2023-387536,2023-03-16,000001,Vente,1521,,,SAINT-JULIEN,B037,31440,31139,Chaum,31,,,311390000A1114,,,,,,,,,,,,,0,,,,,T,terres,,,1765,0.649117,42.944111
+2023-388553,2023-04-21,000001,Vente,3000,12,,CAMI DE PEYROMALO,0055,31440,31139,Chaum,31,,,311390000A0655,,,,,,,,,,,,,0,1,Maison,20,0,S,sols,,,1265,0.656513,42.930394
+2023-388553,2023-04-21,000001,Vente,3000,,,BEDIAN DESSUS,B005,31440,31139,Chaum,31,,,311390000A1442,,,,,,,,,,,,,0,,,,,P,prés,,,283,0.656353,42.930144
+2023-388553,2023-04-21,000001,Vente,3000,,,BEDIAN DESSUS,B005,31440,31139,Chaum,31,,,311390000A1444,,,,,,,,,,,,,0,,,,,P,prés,,,142,0.656535,42.930216
+2023-388553,2023-04-21,000001,Vente,3000,,,SASPIS,B038,31440,31139,Chaum,31,,,311390000A1450,,,,,,,,,,,,,0,,,,,P,prés,,,109,0.656577,42.930288
+2023-392711,2023-12-04,000001,Vente,76500,5,,CAMI DU SACRE COEUR,0061,31440,31139,Chaum,31,,,311390000A0309,,,,,,,,,,,,,0,1,Maison,60,4,S,sols,,,370,0.654698,42.937722
+2023-392711,2023-12-04,000001,Vente,76500,5,,CAMI DU SACRE COEUR,0061,31440,31139,Chaum,31,,,311390000A0309,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,370,0.654698,42.937722

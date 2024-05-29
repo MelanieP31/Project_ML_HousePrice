@@ -1,0 +1,19 @@
+id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
+2023-389132,2023-06-12,000001,Vente,45080,1,,BARRAOU,B006,31260,31059,Belbèze-en-Comminges,31,,,310590000C0462,,,,,,,,,,,,,0,1,Maison,62,2,S,sols,,,843,1.022393,43.131696
+2023-389132,2023-06-12,000001,Vente,45080,1,,BARRAOU,B006,31260,31059,Belbèze-en-Comminges,31,,,310590000C0462,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,843,1.022393,43.131696
+2023-389132,2023-06-12,000001,Vente,45080,,,BARRAOU,B006,31260,31059,Belbèze-en-Comminges,31,,,310590000C0463,,,,,,,,,,,,,0,,,,,T,terres,,,3263,1.022184,43.132011
+2023-391529,2023-10-02,000001,Vente,351500,71,,AURIET,B005,31260,31059,Belbèze-en-Comminges,31,,,310590000D0044,,,,,,,,,,,,,0,1,Maison,190,5,S,sols,,,2479,1.026967,43.121122
+2023-391529,2023-10-02,000001,Vente,351500,,,AURIET,B005,31260,31059,Belbèze-en-Comminges,31,,,310590000D0049,,,,,,,,,,,,,0,,,,,P,prés,,,9094,1.027728,43.120467
+2023-391529,2023-10-02,000001,Vente,351500,,,AURIET,B005,31260,31059,Belbèze-en-Comminges,31,,,310590000D0049,,,,,,,,,,,,,0,,,,,P,prés,,,9094,1.027728,43.120467
+2023-391529,2023-10-02,000001,Vente,351500,,,AURIET,B005,31260,31059,Belbèze-en-Comminges,31,,,310590000D0050,,,,,,,,,,,,,0,,,,,L,landes,FRICH,Friche,126,1.028461,43.121156
+2023-391541,2023-09-21,000001,Vente,200000,,,PULEN,B074,31260,31059,Belbèze-en-Comminges,31,,,310590000C0332,,,,,,,,,,,,,0,,,,,P,prés,,,6642,1.032048,43.123635
+2023-391541,2023-09-21,000001,Vente,200000,65,,PULEN,B074,31260,31059,Belbèze-en-Comminges,31,,,310590000C0343,,,,,,,,,,,,,0,1,Maison,80,3,S,sols,,,978,1.032208,43.12424
+2023-391841,2023-10-17,000001,Vente,45000,25,,FOND DU VILLAGE,B023,31260,31059,Belbèze-en-Comminges,31,,,310590000C0004,,,,,,,,,,,,,0,1,Maison,60,3,S,sols,,,81,1.022131,43.133634
+2023-391841,2023-10-17,000001,Vente,45000,,,FOND DU VILLAGE,B023,31260,31059,Belbèze-en-Comminges,31,,,310590000C0719,,,,,,,,,,,,,0,,,,,S,sols,,,61,1.022161,43.133713
+2023-392018,2023-11-02,000001,Vente,450,,,LAURAC,B046,31260,31059,Belbèze-en-Comminges,31,,,310590000A0143,,,,,,,,,,,,,0,,,,,P,prés,,,624,1.021567,43.134197
+2023-392044,2023-10-13,000001,Vente,165050,,,FOND DU VILLAGE,B023,31260,31059,Belbèze-en-Comminges,31,,,310590000C0021,,,,,,,,,,,,,0,,,,,S,sols,,,151,1.023264,43.1331
+2023-392044,2023-10-13,000001,Vente,165050,82,,FOND DU VILLAGE,B023,31260,31059,Belbèze-en-Comminges,31,,,310590000C0023,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,200,1.022929,43.132779
+2023-392044,2023-10-13,000001,Vente,165050,82,,FOND DU VILLAGE,B023,31260,31059,Belbèze-en-Comminges,31,,,310590000C0023,,,,,,,,,,,,,0,3,Dépendance,,0,P,prés,,,998,1.022929,43.132779
+2023-392044,2023-10-13,000001,Vente,165050,28,,FOND DU VILLAGE,B023,31260,31059,Belbèze-en-Comminges,31,,,310590000C0670,,,,,,,,,,,,,0,1,Maison,114,3,S,sols,,,1281,1.023105,43.13314
+2023-393242,2023-12-20,000002,Vente,10000,,,L ARPENT,B003,31260,31059,Belbèze-en-Comminges,31,,,310590000A0669,,,,,,,,,,,,,0,,,,,T,terres,,,1002,,
+2023-393242,2023-12-20,000002,Vente,10000,,,L ARPENT,B003,31260,31059,Belbèze-en-Comminges,31,,,310590000A0670,,,,,,,,,,,,,0,,,,,T,terres,,,1821,,
