@@ -1,7 +1,0 @@
-id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
-2023-389779,2023-06-16,000001,Vente,40000,14,C,VILLAGE,B022,31110,31125,Cathervielle,31,,,311250000A0760,,,,,,,,,,,,,0,1,Maison,69,2,S,sols,,,78,0.505607,42.810824
-2023-389779,2023-06-16,000001,Vente,40000,,,VILLAGE,B022,31110,31125,Cathervielle,31,,,311250000A0762,,,,,,,,,,,,,0,,,,,S,sols,,,2,0.505523,42.810859
-2023-389779,2023-06-16,000001,Vente,40000,,,VILLAGE,B022,31110,31125,Cathervielle,31,,,311250000A0763,,,,,,,,,,,,,0,,,,,J,jardins,,,33,0.505568,42.81088
-2023-389779,2023-06-16,000001,Vente,40000,,,VILLAGE,B022,31110,31125,Cathervielle,31,,,311250000A0766,,,,,,,,,,,,,0,,,,,J,jardins,,,299,0.505425,42.810954
-2023-390150,2023-07-12,000002,Vente,2000,,,VILLAGE,B022,31110,31125,Cathervielle,31,,,311250000A0848,,,,,,,,,,,,,0,,,,,P,prés,,,469,0.507278,42.812059
-2023-393253,2023-12-29,000001,Vente,325,,,DELAPART,B007,31110,31125,Cathervielle,31,,,311250000A0450,,,,,,,,,,,,,0,,,,,T,terres,,,620,0.510964,42.810247

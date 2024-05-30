@@ -1,9 +1,0 @@
-id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
-2023-386776,2023-02-03,000001,Vente,2000,,,LAS PLAGNES,B035,31230,31347,Molas,31,,,313470000C0157,,,,,,,,,,,,,0,,,,,P,prés,,,4225,0.790881,43.393937
-2023-386776,2023-02-03,000001,Vente,2000,,,LAS PLAGNES,B035,31230,31347,Molas,31,,,313470000C0158,,,,,,,,,,,,,0,,,,,P,prés,,,1380,0.790488,43.394173
-2023-391562,2023-10-11,000001,Vente,8000,,,BOIS DE MOLAS,B004,31230,31347,Molas,31,,,313470000B0078,,,,,,,,,,,,,0,,,,,BT,taillis simples,,,5060,0.780263,43.390232
-2023-391562,2023-10-11,000001,Vente,8000,,,BOIS DE MOLAS,B004,31230,31347,Molas,31,,,313470000B0104,,,,,,,,,,,,,0,,,,,T,terres,,,545,0.781655,43.392159
-2023-391562,2023-10-11,000001,Vente,8000,,,BOIS DE MOLAS,B004,31230,31347,Molas,31,,,313470000B0105,,,,,,,,,,,,,0,,,,,P,prés,,,4960,0.781044,43.392513
-2023-391562,2023-10-11,000001,Vente,8000,,,BOIS DE MOLAS,B004,31230,31347,Molas,31,,,313470000B0106,,,,,,,,,,,,,0,,,,,T,terres,,,1635,0.780623,43.392205
-2023-391562,2023-10-11,000001,Vente,8000,,,LAS PAGUERES,B033,31230,31347,Molas,31,,,313470000B0576,,,,,,,,,,,,,0,,,,,L,landes,,,6175,0.769701,43.394711
-2023-391562,2023-10-11,000001,Vente,8000,,,BOIS DE MOLAS,B004,31230,31347,Molas,31,,,313470000B0665,,,,,,,,,,,,,0,,,,,T,terres,,,1259,0.781276,43.389759

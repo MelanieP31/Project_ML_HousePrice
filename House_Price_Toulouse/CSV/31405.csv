@@ -1,8 +1,0 @@
-id_mutation,date_mutation,numero_disposition,nature_mutation,valeur_fonciere,adresse_numero,adresse_suffixe,adresse_nom_voie,adresse_code_voie,code_postal,code_commune,nom_commune,code_departement,ancien_code_commune,ancien_nom_commune,id_parcelle,ancien_id_parcelle,numero_volume,lot1_numero,lot1_surface_carrez,lot2_numero,lot2_surface_carrez,lot3_numero,lot3_surface_carrez,lot4_numero,lot4_surface_carrez,lot5_numero,lot5_surface_carrez,nombre_lots,code_type_local,type_local,surface_reelle_bati,nombre_pieces_principales,code_nature_culture,nature_culture,code_nature_culture_speciale,nature_culture_speciale,surface_terrain,longitude,latitude
-2023-386961,2023-02-02,000001,Vente,230000,,,LE VILLAGE,B028,31510,31405,Ore,31,,,314050000A0090,,,,,,,,,,,,,0,,,,,S,sols,,,120,0.654346,42.975928
-2023-386961,2023-02-02,000001,Vente,230000,42,,RUE DE LA SERRUILHE,0004,31510,31405,Ore,31,,,314050000A0093,,,,,,,,,,,,,0,1,Maison,122,6,S,sols,,,259,0.654288,42.975762
-2023-386961,2023-02-02,000001,Vente,230000,42,,RUE DE LA SERRUILHE,0004,31510,31405,Ore,31,,,314050000A0093,,,,,,,,,,,,,0,3,Dépendance,,0,S,sols,,,259,0.654288,42.975762
-2023-386961,2023-02-02,000001,Vente,230000,,,LE VILLAGE,B028,31510,31405,Ore,31,,,314050000A0110,,,,,,,,,,,,,0,,,,,P,prés,,,838,0.653971,42.975366
-2023-386961,2023-02-02,000001,Vente,230000,,,LE VILLAGE,B028,31510,31405,Ore,31,,,314050000A0740,,,,,,,,,,,,,0,,,,,AG,terrains d'agrément,,,39,0.653838,42.97538
-2023-386961,2023-02-02,000001,Vente,230000,,,LE VILLAGE,B028,31510,31405,Ore,31,,,314050000A0746,,,,,,,,,,,,,0,,,,,S,sols,,,17,0.654398,42.975917
-2023-387320,2023-03-02,000001,Vente,135000,12,,RUE DE LA MAIRIE,0010,31510,31405,Ore,31,,,314050000A0018,,,,,,,,,,,,,0,1,Maison,100,5,S,sols,,,377,0.650103,42.975615
