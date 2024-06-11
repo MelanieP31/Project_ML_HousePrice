@@ -1,10 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <script src="script.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Prix de vente des maisons en haute garonne (31)</title>
 </head>
+
 <body>
 
+    <div class="img"></div>
+
+    <form class="form">
+        <h2>Taille du batiment (m²)</h2>
+        <input class="surfaceBati floatLabel" type="email" id="bati" value="200" >
+
+        <h2>Nombre de pieces principales</h2>
+        <div class="switch-field">
+            <input type="radio" id="radio-piece-1" name="piece" value="1"/>
+            <label for="radio-piece-1">1</label>
+            <input type="radio" id="radio-piece-2" name="piece" value="2"/>
+            <label for="radio-piece-2">2</label>
+            <input type="radio" id="radio-piece-3" name="piece" value="3"/>
+            <label for="radio-piece-3">3</label>
+            <input type="radio" id="radio-piece-4" name="piece" value="4"/>
+            <label for="radio-piece-4">4</label>
+            <input type="radio" id="radio-piece-5" name="piece" value="5"/>
+            <label for="radio-piece-5">5</label>
+            <input type="radio" id="radio-piece-6" name="piece" value="6"/>
+            <label for="radio-piece-6">6</label>
+        </div>
+        
+
+        <h2>Surface terrain (m²)</h2>
+        <input class="surfaceTerrain floatLabel" type="email" id="terrain" value="500" >
+
+        <h2>Code postal</h2>
+        <div>
+            <select class="location" name="" id="uiLocation">
+                <option value="" disabled="disabled" selected="selected">Choisissez un code postal</option>
+                <option>31400</option>
+                <option>31200</option>
+            </select>
+        </div>
+
+        <button class="submit" onclick="onClikedEstimatePrice()" type="button">Estimez le prix</button>
+        <div id="EstimatedPrice" class="result"> <h2></h2></div>
+    </form>
+
 </body>
+
 </html>

@@ -1,127 +1,139 @@
-# Importation des donnees
+# Data importation
 data <- read.csv(url("https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data"), header = FALSE)
 
-# Modification du nom des colonnes
-colnames(data) <- c("age", "sex", "cp", "trestbps", "chol", "fbs", "restecg", "thalach", "exang", "oldpeak", "slope", "ca", "thal", "target")
+# Data Formatting
+## Columns name
+colnames(data) <- c("age", "sex", "chest_pain", "rest_bp", "chol", "fbs", "rest_ecg", "max_hr", "ex_ang", "oldpeak", "slope", "ca", "thalassemia", "target")
 
-# Pretraitement de la colonne target
+## target columns mistakes
 data$target[data$target==2] <- 1
 data$target[data$target==3] <- 1
 data$target[data$target==4] <- 1
 
-# Suppression des valeurs manquantes
+## Missing values
 valeurs_manquantes_ca <- which(data$ca %in% "?")
-valeurs_manquantes_thal <-which(data$thal %in% "?")
-valeurs_manquantes <- c(valeurs_manquantes_ca, valeurs_manquantes_thal)
+valeurs_manquantes_thalassemia <-which(data$thalassemia %in% "?")
+valeurs_manquantes <- c(valeurs_manquantes_ca, valeurs_manquantes_thalassemia)
 valeurs_manquantes
+
 data <- data[-valeurs_manquantes,]
-
-# Vérification du type des variables
-str(data)
-
-# Modification du type des variables
-
-## Variables qualitatives (factor = variable qualitative)
-data$sex <- as.factor(data$sex)
-data$cp <- as.factor(data$cp)
-data$fbs <- as.factor(data$fbs)
-data$restecg <- as.factor(data$restecg)
-data$exang <- as.factor(data$exang)
-data$slope <- as.factor(data$slope)
-data$ca <- as.factor(data$ca)
-data$thal <- as.factor(data$thal)
-data$target <- as.factor(data$target)
-
-## Variables quantitatives
-data$age <- as.integer(data$age)
-data$trestbps <- as.integer(data$trestbps)
-data$chol <- as.integer(data$chol)
-data$thalach <- as.integer(data$thalach)
-
-# Recodage des variables
-levels(data$sex) <- c("Femme", "Homme")
-levels(data$cp) <- c("Angine stable", "Angine instable", "Autres douleurs", "Asymptomatique")
-levels(data$fbs) <- c("Non", "Oui")
-levels(data$restecg) <- c("Normal", "Anomalies", "Hypertrophie")
-levels(data$exang) <- c("Non", "Oui")
-levels(data$slope) <- c("En hausse", "Stable", "En baisse")
-levels(data$ca) <- c("Absence d'anomalie", "Faible", "Moyen", "Eleve")
-levels(data$thal) <- c("Non", "Thalassemie sous controle", "Thalassemie instable")
-levels(data$target) <- c("Non", "Oui")
-
-# Verification du type des variables
-str(data)
-
-# Verification valeurs manquantes
 apply(data, 2, anyNA)
 
+## Data type
+str(data)
 
-# Indicateurs cles (variables qualitatives)
+## Qualitative variables (as factor)
+data$sex <- as.factor(data$sex)
+data$chest_pain <- as.factor(data$chest_pain)
+data$fbs <- as.factor(data$fbs)
+data$rest_ecg <- as.factor(data$rest_ecg)
+data$ex_ang <- as.factor(data$ex_ang)
+data$slope <- as.factor(data$slope)
+data$ca <- as.factor(data$ca)
+data$thalassemia <- as.factor(data$thalassemia)
+data$target <- as.factor(data$target)
+## Quantitative variables (as int)
+data$age <- as.integer(data$age)
+data$rest_bp <- as.integer(data$rest_bp)
+data$chol <- as.integer(data$chol)
+data$max_hr <- as.integer(data$max_hr)
+data$oldpeak <- as.integer(data$oldpeak)
 
-# Variable sex
+str(data)
+
+## Recoding variables
+levels(data$sex) <- c("Femme", "Homme")
+levels(data$chest_pain) <- c("Angine stable", "Angine instable", "Autres douleurs", "Asymptomatique")
+levels(data$fbs) <- c("Non", "Oui")
+levels(data$rest_ecg) <- c("Normal", "Anomalies", "Hypertrophie")
+levels(data$ex_ang) <- c("Non", "Oui")
+levels(data$slope) <- c("En hausse", "Stable", "En baisse")
+levels(data$ca) <- c("Absence d'anomalie", "Faible", "Moyen", "Eleve")
+levels(data$thalassemia) <- c("Non", "Thalassemie sous controle", "Thalassemie instable")
+levels(data$target) <- c("Non", "Oui")
+
+str(data)
+
+# Key indicators (qualitative variables)
+
+## Variable sex : 
 table(data$sex) # Effectifs
-prop.table(table(data$sex)) # Frequences
-round(prop.table(table(data$sex)), 4) # Frequences arrondies
 round(prop.table(table(data$sex)), 4)*100 # Pourcentages
 
-# Variable cp
-table(data$cp)
-round(prop.table(table(data$cp)), 4)*100
+## Variable chest pain type :
+table(data$chest_pain)
+round(prop.table(table(data$chest_pain)), 4)*100
 
-# Variable fbs
+## Variable fasting blood sugar >120mg/dl
 table(data$fbs)
 round(prop.table(table(data$fbs)), 4)*100
 
-# Variable restecg
-table(data$restecg)
-round(prop.table(table(data$restecg)), 4)*100
+## Variable resting ecg :
+table(data$rest_ecg)
+round(prop.table(table(data$rest_ecg)), 4)*100
 
-# Variable exang
-table(data$exang)
-round(prop.table(table(data$exang)), 4)*100
+## Variable exercise-induced angina :
+table(data$ex_ang)
+round(prop.table(table(data$ex_ang)), 4)*100
 
-# Variable slope
+## Variable slope of the peak exercise ST segment :
 table(data$slope)
 round(prop.table(table(data$slope)), 4)*100
 
-# Variable ca
+## Variable number of major vessels colored by fluoroscopy
 table(data$ca)
 round(prop.table(table(data$ca)), 4)*100
 
-# Variable thal
-table(data$thal)
-round(prop.table(table(data$thal)), 4)*100
+## Variable thalassemia
+table(data$thalassemia)
+round(prop.table(table(data$thalassemia)), 4)*100
 
-# Variable target
+## Variable diagnosis of heart disease
 table(data$target)
 round(prop.table(table(data$target)), 4)*100
 
-# Indicateurs cles (variables quantitatives)
+# Key indicators (quantitative)
 
-## Minimum, quartiles, mediane, moyenne et maximum
+## Minimum, quartiles, median, mean and max
 summary(data$age)
-summary(data$trestbps)
+summary(data$rest_bp)
 summary(data$chol)
-summary(data$thalach)
+summary(data$max_hr)
 summary(data$oldpeak)
+
+
+library(vtable)
+summary_table = st(data)
+summary_table
 
 ## Variance et ecart-type
 var(data$age)
 sd(data$age)
-var(data$trestbps)
-sd(data$trestbps)
+var(data$rest_bp)
+sd(data$rest_bp)
 var(data$chol)
 sd(data$chol)
-var(data$thalach)
-sd(data$thalach)
+var(data$max_hr)
+sd(data$max_hr)
 var(data$oldpeak)
 sd(data$oldpeak)
 
+#Correlation
+library(correlationfunnel)
+HD_binarized <- data %>% 
+  binarize(n_bins = 4, thresh_infreq = 0.01)
 
-# Diagrammes a barres (variables qualitatives)
+HD_binarized %>% 
+  correlate(target__Oui)
 
+correlation_graph <- HD_binarized %>% 
+  correlate(target__Oui) %>% 
+  plot_correlation_funnel()
+correlation_graph
+
+# Barplot(qualitative)
 ## Variable sex
-graph1 <- plot(data$sex,
+graphSex <- plot(data$sex,
                xlab = "Sexe",
                ylab = "Effectifs",
                main = "Repartition des patients selon le sexe",
@@ -140,69 +152,70 @@ graph1 <- plot(data$sex,
                cex.lab = 1.2,
                ylim = c(0, 250)
 )
-text(x = graph1, y = table(data$sex)+10, labels = as.character(table(data$sex)), cex = 1.1, font = 3)
+text(x = graphSex, y = table(data$sex)+10, labels = as.character(table(data$sex)),
+     cex = 1.1, font = 3)
 
-## Variable cp
-graph2 <- plot(data$cp,
-               xlab = "Douleurs thoraciques",
+## Variable diagnosis heart disease
+graphTarget <- plot(data$target,
+               xlab = "Diagnostique de maladies caridovasculaire",
                ylab = "Effectifs",
-               main = "Repartition des patients selon les douleurs thoraciques",
+               main = "Repartition des patients selon l'apparition d'une maladie cardiovasculaire",
                space = 0.3,
-               col = c("#e63946", "#f1faee", "#a8dadc", "#457b9d"),
+               col = c("#e63946", "#f1faee"),
                cex.main = 1.5,
                cex.lab = 1.2,
-               ylim = c(0,170)
+               ylim = c(0,200)
 )
-text(x = graph2, y = table(data$cp)+7, labels = as.character(table(data$cp)), cex = 1.1, font = 3)
+text(x = graphTarget, y = table(data$target)+7, 
+     labels = as.character(table(data$target)), cex = 1.1, font = 3)
 
-# Diagramme circulaire (variables qualitatives)
-
-## Variable target
-pie(table(data$target),
-    main = "Repartition des patients selon l'apparition d'une maladie cardiovasculaire",
-    clockwise = TRUE,
-    col = c("#2a9d8f", "#f4a261"),
-    cex.main = 1.2,
+## Variable thalassemia
+graphThal <- plot(data$thalassemia,
+                    xlab = "Thalassemia",
+                    ylab = "Effectifs",
+                    main = "Repartition des patients selon la présence de thalassemia",
+                    space = 0.3,
+                    col = c("#75DDDD", "#508991", "#172A3A"),
+                    cex.main = 1.5,
+                    cex.lab = 1.2,
+                    ylim = c(0,200)
 )
+text(x = graphThal, y = table(data$thalassemia)+7, 
+     labels = as.character(table(data$thalassemia)), cex = 1.1, font = 3)
 
-# Boite a moustaches (variables quantitatives)
+## Variable chest pain type
+graphCP <- plot(data$chest_pain,
+                  xlab = "Chest pain type",
+                  ylab = "Effectifs",
+                  main = "Repartition des patients selon le type de douleurs thoracique",
+                  space = 0.3,
+                  col = c("#004346", "#588157","#a3b18a", "#dad7cd"),
+                  cex.main = 1.5,
+                  cex.lab = 1.2,
+                  ylim = c(0,200)
+)
+text(x = graphCP, y = table(data$chest_pain)+7, 
+     labels = as.character(table(data$chest_pain)), cex = 1.1, font = 3)
 
+# Boxplot (quantitative)
 ## Variable age
-boxplot(data$age,
-        ylab = "Age",
-        main = "Boite a moustache de la population selon l'age",
-        col = "#e63946",
-        las = 1,
-        cex.main = 1.7,
-        cex.lab = 1.2,
-        sub = "Donnees : Heart Disease Data Set (UCI Machine Learning)",
-        # horizontal = TRUE
-        notch = TRUE,
-        # border = "blue"
-        ylim = c(20,80)
+graphAge <- boxplot(data$age,
+                        ylab = "Age",
+                        main = "Boite a moustache de la population selon l'age",
+                        col = "#f77f00",
+                        las = 1,
+                        cex.main = 1.7,
+                        cex.lab = 1.2,
+                        sub = "Donnees : Heart Disease Data Set (UCI Machine Learning)",
+                        # horizontal = TRUE
+                        notch = TRUE,
+                        # border = "blue"
+                        ylim = c(20,80)
 )
 
-# Histogrammes (variables quantitatives)
-
-## Variable trestbps
-graph3 <- hist(data$trestbps,
-               xlab = "Tension arterielle au repos",
-               ylab = "Effectifs",
-               main = "Repartition des patients selon la tension arterielle au repos",
-               las = 1,
-               sub = "Donnees : Heart Disease Data Set (UCI Machine Learning)",
-               col = "lightslateblue",
-               ylim = c(0,80),
-               xlim = c(80,200),
-               cex.main = 1.4,
-               cex.lab = 1.2)
-text(x = graph3$mids, graph3$counts, labels = graph3$counts, adj = c(0.5, -0.5))
-
-
-# Diagramme a barres croises
-
+# Barplot
 ## Variables target/sex
-graph4 <- barplot(table(data$target, data$sex),
+barplotST <- barplot(table(data$target, data$sex),
                   beside = TRUE,
                   col = c("#003049", "#d62828"),
                   xlab = "Sexe",
@@ -213,8 +226,46 @@ graph4 <- barplot(table(data$target, data$sex),
                   cex.main = 1.2,
                   cex.lab = 1.2
 )
-legend("top", legend = levels(data$target), fill = c("#003049", "#d62828"), title = "Maladie cardiovasculaire", horiz = TRUE)
-text(x = graph4, y = table(data$target, data$sex)+7, labels = as.character(table(data$target, data$sex)), cex = 1.1, font = 3)
+legend("top", legend = levels(data$target), fill = c("#003049", "#d62828"), 
+       title = "Maladie cardiovasculaire", horiz = TRUE)
+text(x = barplotST, y = table(data$target, data$sex)+7, 
+     labels = as.character(table(data$target, data$sex)), cex = 1.1, font = 3)
+
+## Variables target/thal
+barplotThalT <- barplot(table(data$target, data$thalassemia),
+                     beside = TRUE,
+                     col = c("#003049", "#d62828"),
+                     xlab = "Thalassemia",
+                     ylab = "Patients",
+                     las = 1,
+                     main = "Repartition des patents selon la presence d'une maladie cardiovasculaire \n et de thalassemie",
+                     ylim = c(0,150),
+                     cex.main = 1.2,
+                     cex.lab = 1.2
+)
+legend("top", legend = levels(data$target), fill = c("#003049", "#d62828"), 
+       title = "Maladie cardiovasculaire", horiz = TRUE)
+text(x = barplotThalT, y = table(data$target, data$thalassemia)+7, 
+     labels = as.character(table(data$target, data$thalassemia)), cex = 1.1, font = 3)
+
+## Variables target/chest_pain
+barplotTC <- barplot(table(data$target, data$chest_pain),
+                     beside = TRUE,
+                     col = c("#003049", "#d62828"),
+                     xlab = "Type of chest pain",
+                     ylab = "Patients",
+                     las = 1,
+                     main = "Repartition des patents selon la presence d'une maladie cardiovasculaire \n et du type de douleurs thoracique",
+                     ylim = c(0,150),
+                     cex.main = 1.2,
+                     cex.lab = 1.2
+)
+legend("top", legend = levels(data$target), fill = c("#003049", "#d62828"), 
+       title = "Maladie cardiovasculaire", horiz = TRUE)
+text(x = barplotTC, y = table(data$target, data$chest_pain)+7, 
+     labels = as.character(table(data$target, data$chest_pain)), cex = 1.1, font = 3)
+
+
 
 # Boites a moustaches croisees
 
@@ -231,7 +282,7 @@ boxplot(data$age ~ data$target,
 )
 
 ## Variable target/trestbps
-boxplot(data$trestbps ~ data$target,
+boxplot(data$rest_bp ~ data$target,
         main = "Boite a moustaches de la population selon la tension arterielle au repos \n et la presence de maladie cardiovasculaire",
         xlab = "Presence d'une maladie cardiovasculaire",
         ylab = "Tension arterielle au repos",
@@ -243,31 +294,29 @@ boxplot(data$trestbps ~ data$target,
 
 ## Calcul des pourcentages
 round(prop.table(table(data$sex, data$target), margin = 1), 4)*100
-round(prop.table(table(data$cp, data$target), margin = 1), 4)*100
-round(prop.table(table(data$fbs, data$target), margin = 1), 4)*100
-round(prop.table(table(data$restecg, data$target), margin = 1), 4)*100
-round(prop.table(table(data$exang, data$target), margin = 1), 4)*100
+round(prop.table(table(data$chest_pain, data$target), margin = 1), 4)*100
+round(prop.table(table(data$ex_ang, data$target), margin = 1), 4)*100
 round(prop.table(table(data$slope, data$target), margin = 1), 4)*100
 round(prop.table(table(data$ca, data$target), margin = 1), 4)*100
-round(prop.table(table(data$thal, data$target), margin = 1), 4)*100
+round(prop.table(table(data$thalassemia, data$target), margin = 1), 4)*100
 
 ## Test du Khi-2 (variables qualitatives)
 ## H0 : Les deux variables sont independantes (si p-value > 0,05)
 ## H1 : Les deux variables sont dependantes (si p-value < 0,05)
-chisq.test(data$sex, data$target)
-chisq.test(data$cp, data$target)
-chisq.test(data$fbs, data$target)
-chisq.test(data$restecg, data$target)
-chisq.test(data$exang, data$target)
-chisq.test(data$slope, data$target)
-chisq.test(data$ca, data$target)
-chisq.test(data$thal, data$target)
+chisq.test(data$sex, data$target) #H1
+chisq.test(data$chest_pain, data$target) #H1
+chisq.test(data$fbs, data$target) #H0
+chisq.test(data$rest_ecg, data$target) #H1
+chisq.test(data$ex_ang, data$target) #H1
+chisq.test(data$slope, data$target) #H1
+chisq.test(data$ca, data$target) #H1
+chisq.test(data$thalassemia, data$target) #H1
 
 ## Calcul des moyennes
 tapply(data$age, data$target, mean)
-tapply(data$trestbps, data$target, mean)
+tapply(data$rest_bp, data$target, mean)
 tapply(data$chol, data$target, mean)
-tapply(data$thalach, data$target, mean)
+tapply(data$max_hr, data$target, mean)
 tapply(data$oldpeak, data$target, mean)
 
 ## Test de Shapiro-Wilk
@@ -275,23 +324,23 @@ tapply(data$oldpeak, data$target, mean)
 ### H1 : L'echantillon ne suit pas une distribution normale (si p-value < 0,05)
 library(dplyr)
 shapiro.test(filter(data, target == "Oui")$age) # H1
-shapiro.test(filter(data, target == "Oui")$trestbps) # H1
+shapiro.test(filter(data, target == "Oui")$rest_bp) # H1
 shapiro.test(filter(data, target == "Oui")$chol) # H0
-shapiro.test(filter(data, target == "Oui")$thalach) # H0
+shapiro.test(filter(data, target == "Oui")$max_hr) # H0
 shapiro.test(filter(data, target == "Oui")$oldpeak) # H1
 
 ## Test de Mann-Whitney
 ### H0 : Il n'y a pas de difference significative entre la moyenne des deux variables (si p-value > 0,05)
 ### H1 : Il y a une difference significative entre la moyenne des deux variables (si p-value < 0,05)
 wilcox.test(data$age~data$target)
-wilcox.test(data$trestbps~data$target)
+wilcox.test(data$rest_bp~data$target)
 wilcox.test(data$oldpeak~data$target)
 
 ## Test de Student
 ### H0 : Il n'y a pas de difference significative entre la moyenne des deux variables (si p-value > 0,05)
 ### H1 : Il y a une difference significative entre la moyenne des deux variables (si p-value < 0,05)
 t.test(data$chol~data$target)
-t.test(data$thalach~data$target)
+t.test(data$max_hr~data$target)
 
 
 # Modele de regression logistique
@@ -308,18 +357,18 @@ RegressionLogistique = glm(target ~., data = train, family = "binomial")
 summary(RegressionLogistique)
 
 ## Optimisation du modele de regression logistique pour ne conserver que les variables significatives
-RegressionLogistique = update(RegressionLogistique, .~.-restecg)
+RegressionLogistique = update(RegressionLogistique, .~.-rest_ecg)
 RegressionLogistique = update(RegressionLogistique, .~.-slope)
-RegressionLogistique = update(RegressionLogistique, .~.-thal)
+RegressionLogistique = update(RegressionLogistique, .~.-thalassemia)
 RegressionLogistique = update(RegressionLogistique, .~.-age)
 RegressionLogistique = update(RegressionLogistique, .~.-fbs)
 RegressionLogistique = update(RegressionLogistique, .~.-chol)
-RegressionLogistique = update(RegressionLogistique, .~.-thalach)
-# RegressionLogistique = update(RegressionLogistique, .~.-cp)
-RegressionLogistique = update(RegressionLogistique, .~.-trestbps)
+RegressionLogistique = update(RegressionLogistique, .~.-max_hr)
+RegressionLogistique = update(RegressionLogistique, .~.-rest_bp)
 summary(RegressionLogistique)
-# Critere AIC sans la variable cp : 202,23
-# Critere AIC avec la variable cp : 177,71
+
+# Critere AIC avec la variable thal : 174,18
+# Critere AIC sans la variable thal : 178,5
 
 ## Predictions
 prediction = predict(RegressionLogistique, test, type = "response")
