@@ -5,6 +5,7 @@ import numpy as np
 __locations = None
 __data_columns=None
 __model=None
+__mean_price_data =None
 
 def get_estimated_price(location, surface_reelle_bati, nombre_pieces_principales, surface_terrain) :
     try :
@@ -25,18 +26,26 @@ def get_estimated_price(location, surface_reelle_bati, nombre_pieces_principales
 def get_location_name():
     return __locations
 
+def get_mean_price_data():
+    return __mean_price_data
+
 def load_saved_artefacts():
     print('loading saved artifacts...start')
     global __data_columns
     global __locations
+    global __model
+    global __mean_price_data
+
 
     with open("./artifacts/columns.json", "r") as f:
         __data_columns = json.load(f)['data_columns']
         __locations = __data_columns[3:]
 
-    global __model
     with open("./artifacts/house_price_hautegar_model.pickle","rb") as f:
         __model = pickle.load(f)
+
+    with open("./artifacts/mean_price_coordinate.json","r") as f:
+        __mean_price_data = json.load(f)
 
 if __name__ == '__main__' :
     load_saved_artefacts()

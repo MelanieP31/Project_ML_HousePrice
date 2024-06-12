@@ -33,7 +33,20 @@ def predict_price():
         })
         return response, 500
 
-
+@app.route('/mean_price_data', methods=['GET'])
+def mean_price_data():
+    try:
+        data = util.get_mean_price_data()
+        response = jsonify(data)
+        response.headers.add('Access-Control-Allow-Origin', '*')
+        return response
+    except Exception as e:
+        print(f"Error: {e}")
+        response = jsonify({
+            'error': str(e)
+        })
+        response.headers.add('Access-Control-Allow-Origin', '*')
+        return response, 500
 
 if __name__ == "__main__":
     util.load_saved_artefacts()
