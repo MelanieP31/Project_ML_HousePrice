@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded',function() {
     function onPageLoad() {
         console.log("document loaded");
-        var url = "http://127.0.0.1:5000/get_locations";
+        var url = "/api/get_locations";
         
         fetch(url)
             .then(response => response.json())
@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded',function() {
     
         console.log("Data being sent:", data);
     
-        var url = "http://127.0.0.1:5000/predict_price";
+        var url = "/api/predict_price";
     
         fetch(url, {
             method: 'POST',
@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded',function() {
     }).addTo(map);
 
     // Fetch the mean price data from the Flask server
-    fetch('http://127.0.0.1:5000/mean_price_data')
+    fetch('/api/mean_price_data')
         .then(response => response.json())
         .then(meanPriceData => {
             for (var code_postal in meanPriceData) {

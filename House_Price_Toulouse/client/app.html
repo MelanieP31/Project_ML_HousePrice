@@ -6,6 +6,9 @@
     <title>Prix de vente des maisons en haute garonne (31)</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inria+Sans:wght@400;700&display=swap" rel="stylesheet">
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>   
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
@@ -15,45 +18,57 @@
 
 <body>
     <header>  
-        <h1>Prix de vente des maisons en Haute-Garonne (31)</h1>
+        <h1>Estimez le prix de votre maison en Haute-Garonne (31)</h1>
     </header>
 
 
     <div class="container">                       
         <div class="form-container">  
-        <form class="form">
-            <h2>Taille du batiment (m²)</h2>
-            <input class="surfaceBati floatLabel" type="number" id="bati" value="200" >
-            
-            <h2>Surface terrain (m²)</h2>
-            <input class="surfaceTerrain floatLabel" type="number" id="terrain" value="500" >
+            <form class="form">
+                <h2>Taille du batiment (m²)</h2>
+                <input class="surfaceBati floatLabel" type="number" id="bati" value="200" >
+                
+                <h2>Surface terrain (m²)</h2>
+                <input class="surfaceTerrain floatLabel" type="number" id="terrain" value="500" >
+        
+                <h2>Nombre de pieces principales</h2>
+                <div class="switch-field">
+                    <input type="radio" id="radio-piece-1" name="piece" value="1"/>
+                    <label for="radio-piece-1">1</label>
+                    <input type="radio" id="radio-piece-2" name="piece" value="2"/>
+                    <label for="radio-piece-2">2</label>
+                    <input type="radio" id="radio-piece-3" name="piece" value="3"/>
+                    <label for="radio-piece-3">3</label>
+                    <input type="radio" id="radio-piece-4" name="piece" value="4"/>
+                    <label for="radio-piece-4">4</label>
+                    <input type="radio" id="radio-piece-5" name="piece" value="5"/>
+                    <label for="radio-piece-5">5</label>
+                    <input type="radio" id="radio-piece-6" name="piece" value="6"/>
+                    <label for="radio-piece-6">6</label>
+                </div>
     
-            <h2>Nombre de pieces principales</h2>
-            <div class="switch-field">
-                <input type="radio" id="radio-piece-1" name="piece" value="1"/>
-                <label for="radio-piece-1">1</label>
-                <input type="radio" id="radio-piece-2" name="piece" value="2"/>
-                <label for="radio-piece-2">2</label>
-                <input type="radio" id="radio-piece-3" name="piece" value="3"/>
-                <label for="radio-piece-3">3</label>
-                <input type="radio" id="radio-piece-4" name="piece" value="4"/>
-                <label for="radio-piece-4">4</label>
-                <input type="radio" id="radio-piece-5" name="piece" value="5"/>
-                <label for="radio-piece-5">5</label>
-                <input type="radio" id="radio-piece-6" name="piece" value="6"/>
-                <label for="radio-piece-6">6</label>
+                <h2>Code postal</h2>
+                <div>
+                    <select class="location floatLabel" name="" id="uiLocation">
+                        <option value="" disabled="disabled" selected="selected">Choisissez un code postal</option>
+                    </select>
+                </div>
+        
+                <button type="button" onclick="onClickedEstimatePrice()">Estimer le prix</button>
+                <div id="EstimatedPrice"></div>
+            </form>
+
+            <div class="form-information">
+                <h3> Taille bâtiment (m²) : </h3>
+                <p> mesurée au sol entre les murs  ou séparations et arrondie 
+                    au  mètre carré inférieur. 
+                    Les  surfaces des dépendances ne  sont pas prises en compte.</p>
+                <h3> Taille terrain (m²): </h3>
+                <p>  Surface cadastrale de la parcelle. </p>
+                <h3> Nombre de pièces : </h3>
+                <p>Les cuisines, salles eau et  dépendances ne sont pas  prises en compte. </p>
+
             </div>
-  
-            <h2>Code postal</h2>
-            <div>
-                <select class="location" name="" id="uiLocation">
-                    <option value="" disabled="disabled" selected="selected">Choisissez un code postal</option>
-                </select>
-            </div>
-    
-            <button type="button" onclick="onClickedEstimatePrice()">Estimer le prix</button>
-            <div id="EstimatedPrice"></div>
-        </form>
     
         </div>
 
@@ -61,11 +76,13 @@
       
     </div>
 
-    <footer>
-        <p>Projet : Mélanie Picot | <a href="https://github.com/your-github-link">Lien GitHub</a></p>
-        <p>Source des données: <a href="https://www.data.gouv.fr">Data Gouv</a></p>
-        <p>Aide à la création: <a href="https://www.youtube.com/channel/codebasics">Codebasics YouTube</a>, <a href="https://www.udemy.com/course/machine-learning/">Udemy ML Course</a></p>
-        <p>Explication du code: Projet machine learning - Code ouvert sur GitHub, Algorithme: XGBoost</p>
+    <footer>       
+        <p>Source des données: <a href="Index of /geo-dvf/latest/csv/ (data.gouv.fr)">data.gouv.fr</a></p>
+        <br>
+        <p>Réalisation: MélanieP</p>
+        <p>Data Collection, analysis, machine learning
+            score and documentation : GitHub</p>
+        <p><a href="https://github.com/MelanieP31">GitHub</a></p>
     </footer>
 
 </body>
