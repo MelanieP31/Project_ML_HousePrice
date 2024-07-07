@@ -18,7 +18,7 @@
 
 <body>
     <nav> 
-        <div class="nav-icon"><img src="logo.png" alt="Logo"></div>
+        <div class="nav-icon"><img src="images/logo.png" alt="Logo"></div>
         <div class="nav-links"> 
             <a href="#estimation">Estimation</a>
             <a href="#analyse">Analyse</a>
@@ -31,11 +31,12 @@
 
         <div class="section1-container-title">
             <h1>Combien vaut votre maison ?</h1>
+            <h2>Estimation immobilière rapide - Haute Garonne (31)</h2>
             <div class="section1-container">
                 <div class="section1-container-left">
 
                     <div class="form-box">
-                        <h2>Estimation immobilière rapide - Haute Garonne (31)</h2>
+                        
                         <form class="form">   
                             <div class="form-group">
                                 <label for="surfaceBati">Taille du batiment (m²)</label>
@@ -95,7 +96,7 @@
             
     
                 <div class="right-column">                  
-                    <img src="house-img.png" alt="House Image">
+                    <img src="images/house-img.png" alt="House Image">
                 </div>
 
             </div>
@@ -111,17 +112,30 @@
             <div class="map-container">
                 <div id="map" class="map-container"></div>
             </div>
+
             <div class="container-right">
-                <div class="form-group">
-                    <label for="location">Code postal</label>
-                    <select class="location floatLabel" name="" id="uiLocation">
-                        <option value="" disabled="disabled" selected="selected">Choisissez un code postal</option>
-                    </select>
-                    <button class="estimate-btn">Entrer</button>
-                    <div class="response-box">Response here</div>
-                </div>
-   
+                <div class="location-group">
+                    <label for="location">Entrer votre code postal : </label>
+                    <div class="location-group-form">
+                        <select class="location floatLabel" name="" id="uiLocation">
+                            <option value="" disabled="disabled" selected="selected">Choisissez un code postal</option>
+                        </select>
+                        
+                            
+                        <button class="analysis-btn" type="button" onclick="">Go</button>
+                    </div>
+                   
+                    <div class="response-box">
+                        <h3> Prix moyen au m²</h3>
+                        <p id=""> </p>
+                        <br>
+                        <h3>Prix moyen de l'immobilier</h3>
+                        <p id=""></p>                        
+                    </div>
+                    
+                </div>  
             </div>
+
         </div>
     </section>
 
@@ -160,6 +174,4 @@
     </footer>
 
 </body>
-
-
 </html>
