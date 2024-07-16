@@ -24,10 +24,26 @@ def get_estimated_price(location, surface_reelle_bati, nombre_pieces_principales
     return float(round(__model.predict([x])[0],2))
 
 def get_location_name():
-    return __locations
+    global __locations
+    return [loc.split("_")[2] for loc in __locations]
 
 def get_mean_price_data():
+    global __mean_price_data
     return __mean_price_data
+
+def get_postal_data(postal_code):
+    postal_code_key = f"{postal_code}"
+    if postal_code_key in __mean_price_data:
+        data = __mean_price_data[postal_code_key]
+        return {
+            "avg_price_per_sqm": data["price_mcarre"],
+            "avg_property_price": data["valeur_fonciere"]
+        }
+    else:
+        return {
+            "avg_price_per_sqm": "N/A",
+            "avg_property_price": "N/A"
+        }
 
 def load_saved_artefacts():
     print('loading saved artifacts...start')
@@ -39,13 +55,15 @@ def load_saved_artefacts():
 
     with open("./artifacts/columns.json", "r") as f:
         __data_columns = json.load(f)['data_columns']
-        __locations = __data_columns[3:]
+        __locations = [x for x in __data_columns if x.startswith("code_postal_")]
 
     with open("./artifacts/house_price_hautegar_model.pickle","rb") as f:
         __model = pickle.load(f)
 
     with open("./artifacts/mean_price_coordinate.json","r") as f:
         __mean_price_data = json.load(f)
+
+    print("loading saved artifacts...done")
 
 if __name__ == '__main__' :
     load_saved_artefacts()

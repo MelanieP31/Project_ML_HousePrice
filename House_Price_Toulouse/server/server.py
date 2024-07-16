@@ -10,6 +10,7 @@ def get_locations():
     response = jsonify({
         'locations': util.get_location_name()
     })
+    response.headers.add('Access-Control-Allow-Origin', '*')
     return response
 
 @app.route('/predict_price', methods=['POST'])
@@ -25,18 +26,37 @@ def predict_price():
         response = jsonify({
             'estimated_price': estimated_price
         })
+        response.headers.add('Access-Control-Allow-Origin', '*')
         return response
     except Exception as e:
         print(f"Error: {e}")
         response = jsonify({
             'error': str(e)
         })
+        response.headers.add('Access-Control-Allow-Origin', '*')
         return response, 500
 
 @app.route('/mean_price_data', methods=['GET'])
 def mean_price_data():
     try:
         data = util.get_mean_price_data()
+        response = jsonify(data)
+        response.headers.add('Access-Control-Allow-Origin', '*')
+        return response
+    except Exception as e:
+        print(f"Error: {e}")
+        response = jsonify({
+            'error': str(e)
+        })
+        response.headers.add('Access-Control-Allow-Origin', '*')
+        return response, 500
+
+
+@app.route('/get_postal_data', methods=['GET'])
+def get_postal_data():
+    try:
+        postal_code = request.args.get('postal_code')
+        data = util.get_postal_data(postal_code)
         response = jsonify(data)
         response.headers.add('Access-Control-Allow-Origin', '*')
         return response

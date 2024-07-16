@@ -67,9 +67,9 @@
             
                             </div>
                             <div class="form-group">
-                                <label for="location">Code postal</label>
-                                <select class="location floatLabel" name="" id="uiLocation">
-                                    <option value="" disabled="disabled" selected="selected">Choisissez un code postal</option>
+                                <label for="uiLocation">Code postal</label>
+                                <select class="location floatLabel" id="uiLocation">
+                                    <option value="" disabled selected>Choisissez un code postal</option>
                                 </select>
             
                             </div>
@@ -117,20 +117,20 @@
                 <div class="location-group">
                     <label for="location">Entrer votre code postal : </label>
                     <div class="location-group-form">
-                        <select class="location floatLabel" name="" id="uiLocation">
+                        <select class="location floatLabel" name="" id="postalCode">
                             <option value="" disabled="disabled" selected="selected">Choisissez un code postal</option>
                         </select>
                         
                             
-                        <button class="analysis-btn" type="button" onclick="">Go</button>
+                        <button class="analysis-btn" type="button" onclick="getPostalCodeData()">OK</button>
                     </div>
                    
                     <div class="response-box">
                         <h3> Prix moyen au m²</h3>
-                        <p id=""> </p>
+                        <p id="avgPricePerSqM"> </p>
                         <br>
                         <h3>Prix moyen de l'immobilier</h3>
-                        <p id=""></p>                        
+                        <p id="avgPropertyPrice"></p>                        
                     </div>
                     
                 </div>  
@@ -144,17 +144,21 @@
         <div class="grid-container">
             <div class="grid-item">
                 <h3>Sources</h3>
-                <p>Some text about sources.</p>
+                <p>Les données nous apportent le prix, officiel, auxquels les maisons ont été réellement vendu. 
+                    Provenance des données du gouvernement français faisant état des actes notariés.
+
+                    Sources : data.gouv.fr 
+                </p>
             </div>
             <div class="grid-item">
-                <img src="path-to-your-image.jpg" alt="Image Description">
+                <img src="images/Img_price.png" alt="Image Description">
             </div>
             <div class="grid-item">
-                <img src="path-to-your-image.jpg" alt="Image Description">
+                <img src="images/Img_modele.png" alt="Image Description">
             </div>
             <div class="grid-item">
                 <h3>Modèle</h3>
-                <p>Some text about the model.</p>
+                <p>Le modèle compare vos bien avec des milliers de transaction historique, dans la haute-garonne, pour déterminer sa valeur.</p>
             </div>
         </div>
     </section>
