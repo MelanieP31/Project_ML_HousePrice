@@ -2,11 +2,13 @@ Estimation House Princing in "Haute Graonne(31)"
 
 -------------
 Project Overview 
-This project aims to find the best model to estimate the price at which you could sell your house in the "Haute Garonne (31)" department. We utilized data from sold houses in the department, available on data.gouv.fr (https://files.data.gouv.fr/geo-dvf/latest/csv/ ). The dataset includes data from the last 4 years (2021 to 2024).
+This project aims to find the best model to estimate the price at which you could sell your house in the "Haute Garonne (31)" department.
+I utilized data from sold houses in the department, available on data.gouv.fr (https://files.data.gouv.fr/geo-dvf/latest/csv/ ). The dataset includes data from the last 4 years (2021 to 2024).
 
-The model is deployed on an AWS server using a PyFlask Server. Users can enter the location (postal code), the surface area of their house, the number of rooms, and the total land surface (easily found on cadastral maps) to get an estimated price.
+The model is deployed on an AWS server using a PyFlask Server. 
+Users can enter the location (postal code), the surface area of their house, the number of rooms, and the total land surface (easily found on cadastral maps) to get an estimated price.
 
-Projet : House_price_toulouse : résultats final apres déploiement (AWS) : http://ec2-13-60-51-246.eu-north-1.compute.amazonaws.com/app.html
+Projet : House_price_toulouse : final result (AWS) : http://ec2-13-60-51-246.eu-north-1.compute.amazonaws.com/app.html
 
 ------------ 
 Project Structure
